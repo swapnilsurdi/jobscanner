@@ -1,6 +1,5 @@
 #!/bin/bash
-# Cron entry point v3. Inlines the docs/ copy — no separate sync-pages.mjs.
-# Flow: claude(scan.mjs) -> scan-smartrecruiters.mjs -> regen-readme.mjs -> cp -> commit/push
+# Cron entry point v4. Adds docs/meta.json with the actual scan-run timestamp.
 # Overwrite scripts/run-scan.sh with this file's contents.
 
 set -euo pipefail
@@ -24,7 +23,8 @@ cd "$REPO_DIR"
 git fetch "$GIT_REMOTE" "$GIT_BRANCH" --quiet || true
 git merge --ff-only "$GIT_REMOTE/$GIT_BRANCH" --quiet || true
 
-# 1. Greenhouse / Ashby / Lever fetch via the jobscan skill.
+SCAN_START="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
 "$CLAUDE_BIN" -p "Run the jobscan skill. Scan companies.yml using ATS endpoints. Apply config/filters.yml. Write data/jobs.json. Be concise." \
   --permission-mode bypassPermissions \
   --output-format text \
@@ -33,20 +33,26 @@ git merge --ff-only "$GIT_REMOTE/$GIT_BRANCH" --quiet || true
     exit 1
   }
 
-# 2. SmartRecruiters fetch — appends to data/jobs.json.
 node scripts/scan-smartrecruiters.mjs >> data/scan.log 2>&1 || true
-
-# 3. Regenerate README from the merged data/jobs.json.
 node scripts/regen-readme.mjs >> data/scan.log 2>&1 || true
 
-# 4. Mirror data/jobs.json into docs/ so Pages serves the latest scan.
 mkdir -p docs
 cp data/jobs.json docs/jobs.json
 
-# 5. Commit + push only if something changed. Pages auto-deploys on push to main.
-if ! git diff --quiet HEAD -- data/jobs.json docs/jobs.json README.md 2>/dev/null; then
+# Write scan metadata for the Pages UI (separate from per-job discovered_at).
+JOB_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/jobs.json','utf8')).length)")
+COMPANY_COUNT=$(node -e "console.log(new Set(JSON.parse(require('fs').readFileSync('data/jobs.json','utf8')).map(j=>j.company)).size)")
+cat > docs/meta.json <<EOF
+{
+  "last_scan_at": "$SCAN_START",
+  "job_count": $JOB_COUNT,
+  "company_count": $COMPANY_COUNT
+}
+EOF
+
+if ! git diff --quiet HEAD -- data/jobs.json docs/jobs.json docs/meta.json README.md 2>/dev/null; then
   TIMESTAMP="$(date -u +%Y-%m-%dT%H:%MZ)"
-  git add data/jobs.json docs/jobs.json README.md data/seen.tsv
+  git add data/jobs.json docs/jobs.json docs/meta.json README.md data/seen.tsv
   git commit -m "scan: $TIMESTAMP" --quiet
   git push "$GIT_REMOTE" "$GIT_BRANCH" --quiet
   echo "pushed scan: $TIMESTAMP"
