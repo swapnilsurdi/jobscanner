@@ -1,61 +1,63 @@
-# Watchlist. Each entry may use one or more ATS endpoints OR a careers URL
-# (Playwright fallback). The scanner tries `ats` first; if missing or fails,
-# it falls back to `careers_url` via Playwright MCP.
-#
-# Supported ats values: greenhouse, ashby, lever, workday, smartrecruiters
-# slug = the company identifier on that ATS host.
-#
-# Order has no meaning to the scanner; only filters in config/filters.yml decide what's surfaced.
+# Watchlist. Each entry uses one ATS endpoint OR a careers URL (Playwright fallback).
+# Supported ats: greenhouse, ashby, lever
+# Companies on SmartRecruiters / Workday / custom sites use careers_url and get the Playwright fallback.
 
 companies:
+  # ---- Verified Greenhouse ----
   - { name: Stripe,          ats: greenhouse,     slug: stripe }
-  - { name: OpenAI,          ats: greenhouse,     slug: openai }
   - { name: Cloudflare,      ats: greenhouse,     slug: cloudflare }
   - { name: Datadog,         ats: greenhouse,     slug: datadog }
-  - { name: Snowflake,       ats: greenhouse,     slug: snowflake }
-  - { name: Confluent,       ats: greenhouse,     slug: confluent }
   - { name: Twilio,          ats: greenhouse,     slug: twilio }
   - { name: MongoDB,         ats: greenhouse,     slug: mongodb }
   - { name: Figma,           ats: greenhouse,     slug: figma }
-  - { name: Sierra,          ats: ashby,          slug: sierra }
-  - { name: Plaid,           ats: lever,          slug: plaid }
   - { name: Mercury,         ats: greenhouse,     slug: mercury }
-  - { name: Ramp,            ats: ashby,          slug: ramp }
   - { name: Brex,            ats: greenhouse,     slug: brex }
   - { name: Robinhood,       ats: greenhouse,     slug: robinhood }
-  - { name: Atlassian,       ats: workday,        slug: atlassian, careers_url: "https://www.atlassian.com/company/careers/all-jobs" }
-  - { name: ServiceNow,      ats: workday,        slug: servicenow, careers_url: "https://careers.servicenow.com/jobs/" }
-  - { name: HashiCorp,       ats: greenhouse,     slug: hashicorp }
-  - { name: dbt Labs,        ats: greenhouse,     slug: dbtlabs }
+  - { name: dbt Labs,        ats: greenhouse,     slug: dbtlabsinc }
+  - { name: Cresta,          ats: greenhouse,     slug: cresta }
+  - { name: Cerebras,        ats: greenhouse,     slug: cerebrassystems }
+  - { name: CoreWeave,       ats: greenhouse,     slug: coreweave }
+  - { name: Nuro,            ats: greenhouse,     slug: nuro }
+  - { name: Together AI,     ats: greenhouse,     slug: togetherai }
+
+  # ---- Verified Ashby ----
+  - { name: OpenAI,          ats: ashby,          slug: openai }
+  - { name: Sierra,          ats: ashby,          slug: sierra }
+  - { name: Ramp,            ats: ashby,          slug: ramp }
   - { name: Airbyte,         ats: ashby,          slug: airbyte }
   - { name: ClickHouse,      ats: ashby,          slug: clickhouse }
   - { name: Replit,          ats: ashby,          slug: replit }
-  - { name: Cursor,          ats: ashby,          slug: anysphere }
-  - { name: Perplexity,      ats: greenhouse,     slug: perplexityai }
+  - { name: Cursor,          ats: ashby,          slug: cursor }
+  - { name: Perplexity,      ats: ashby,          slug: perplexity }
   - { name: ElevenLabs,      ats: ashby,          slug: elevenlabs }
-  - { name: Runway,          ats: greenhouse,     slug: runwayml }
-  - { name: Together AI,     ats: ashby,          slug: together }
+  - { name: Runway,          ats: ashby,          slug: runway }
   - { name: Baseten,         ats: ashby,          slug: baseten }
-  - { name: CoreWeave,       ats: greenhouse,     slug: coreweave }
   - { name: Modal,           ats: ashby,          slug: modal }
-  - { name: Cerebras,        ats: greenhouse,     slug: cerebrassystems }
-  - { name: Groq,            ats: greenhouse,     slug: groq }
-  - { name: Modular,         ats: ashby,          slug: modular }
   - { name: Exa,             ats: ashby,          slug: exa }
-  - { name: Sourcegraph,     ats: greenhouse,     slug: sourcegraph }
   - { name: Warp,            ats: ashby,          slug: warp }
   - { name: Vapi,            ats: ashby,          slug: vapi }
-  - { name: Zapier,          ats: greenhouse,     slug: zapier }
+  - { name: Zapier,          ats: ashby,          slug: zapier }
+  - { name: Confluent,       ats: ashby,          slug: confluent }
   - { name: Harvey,          ats: ashby,          slug: harvey }
-  - { name: Hebbia,          ats: ashby,          slug: hebbia }
+  - { name: Hebbia,          ats: ashby,          slug: hebbia-ai }
   - { name: Decagon,         ats: ashby,          slug: decagon }
-  - { name: Cresta,          ats: greenhouse,     slug: cresta }
   - { name: Writer,          ats: ashby,          slug: writer }
-  - { name: EvenUp,          ats: ashby,          slug: evenup }
+  - { name: Figure AI,       ats: ashby,          slug: figure }
+
+  # ---- Verified Lever ----
+  - { name: Plaid,           ats: lever,          slug: plaid }
+
+  # ---- SmartRecruiters / Workday / custom — Playwright fallback ----
+  - { name: HashiCorp,       careers_url: "https://www.smartrecruiters.com/HashiCorp" }
+  - { name: Snowflake,       careers_url: "https://careers.snowflake.com/us/en/search-results" }
+  - { name: Sourcegraph,     careers_url: "https://www.smartrecruiters.com/Sourcegraph" }
+  - { name: Groq,            careers_url: "https://www.smartrecruiters.com/Groq" }
+  - { name: Modular,         careers_url: "https://www.smartrecruiters.com/Modular" }
+  - { name: EvenUp,          careers_url: "https://www.evenuplaw.com/careers" }
+  - { name: Atlassian,       careers_url: "https://www.atlassian.com/company/careers/all-jobs" }
+  - { name: ServiceNow,      careers_url: "https://careers.servicenow.com/jobs/" }
   - { name: Waymo,           careers_url: "https://careers.withwaymo.com/jobs/search" }
   - { name: Zoox,            careers_url: "https://zoox.com/careers/jobs" }
-  - { name: Nuro,            ats: greenhouse,     slug: nuro }
-  - { name: Figure AI,       ats: ashby,          slug: figure }
   - { name: Airbnb,          careers_url: "https://careers.airbnb.com/positions/" }
   - { name: Google,          careers_url: "https://www.google.com/about/careers/applications/jobs/results/?employment_type=FULL_TIME&q=software%20engineer" }
   - { name: Meta,            careers_url: "https://www.metacareers.com/jobs" }
