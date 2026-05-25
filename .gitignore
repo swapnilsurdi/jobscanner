@@ -4,3 +4,4 @@ data/scan.log
 data/.cache/
 .DS_Store
 *.local
+.chrome-profile/

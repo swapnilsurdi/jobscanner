@@ -1,5 +1,365 @@
 [
   {
+    "company": "ServiceNow",
+    "title": "Senior Staff AI-Native Software Engineer – Agentic Systems",
+    "location": "",
+    "url": "https://careers.servicenow.com/jobs/744000127448059/senior-staff-ai-native-software-engineer-agentic-systems/",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:40:45.191Z",
+    "source": "playwright",
+    "external_id": "44a5540f83f4"
+  },
+  {
+    "company": "Apple",
+    "title": "Senior Software Engineer, Apple Services Engineering",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200664943-3337/senior-software-engineer-apple-services-engineering",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "2969250cb270"
+  },
+  {
+    "company": "Apple",
+    "title": "Sr Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200663132-0157/sr-software-engineer-customer-systems-information-systems-technology-is-t",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "38a18730defb"
+  },
+  {
+    "company": "Apple",
+    "title": "Software Engineer, Core Services - Apple Services Engineering",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200664855-3337/software-engineer-core-services-apple-services-engineering",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "4e62c1f930af"
+  },
+  {
+    "company": "Apple",
+    "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "612f8aac42bd"
+  },
+  {
+    "company": "Apple",
+    "title": "Software Engineer, Apple Services Engineering",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "630b2dda404d"
+  },
+  {
+    "company": "Apple",
+    "title": "Software Engineer, Apple Services Engineering",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200664944-3337/software-engineer-apple-services-engineering",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "6bd8f2587e1e"
+  },
+  {
+    "company": "Apple",
+    "title": "Perception Systems Software Engineer, Audio & Media Technologies",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200664926-3543/perception-systems-software-engineer-audio-media-technologies",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "8ffb63467ce2"
+  },
+  {
+    "company": "Apple",
+    "title": "Voice Platform Software Engineer, Customer Systems",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200663115-0157/voice-platform-software-engineer-customer-systems",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "a1f2cb4cfd85"
+  },
+  {
+    "company": "Apple",
+    "title": "Full Stack Software Engineer - Camera & Photos Tools & AI Team",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200665015-0836/full-stack-software-engineer-camera-photos-tools-ai-team",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "ac95322630bf"
+  },
+  {
+    "company": "Apple",
+    "title": "Senior Software Engineer (Voice Platform), Customer Systems",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200663101-3956/senior-software-engineer-voice-platform-customer-systems",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "af3316aeb13d"
+  },
+  {
+    "company": "Apple",
+    "title": "Sr. Software Engineer - Data, Siri Speech",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200651524-0836/sr-software-engineer-data-siri-speech",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "b6c0feb23d93"
+  },
+  {
+    "company": "Apple",
+    "title": "Staff AI Software Engineer, Siri User Experiences",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200664946-0836/staff-ai-software-engineer-siri-user-experiences",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "d1a23648197f"
+  },
+  {
+    "company": "Apple",
+    "title": "Senior Software Engineer, Apple Services Engineering",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "e1c19d2f3439"
+  },
+  {
+    "company": "Apple",
+    "title": "Senior Software Engineer (Voice Platform), Customer Systems",
+    "location": "",
+    "url": "https://jobs.apple.com/en-us/details/200663101-0157/senior-software-engineer-voice-platform-customer-systems",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:39:47.203Z",
+    "source": "playwright",
+    "external_id": "e712abe4ead6"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer, Safety",
+    "location": "San Francisco, CA, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10390629/software-engineer-safety",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:59.097Z",
+    "source": "playwright",
+    "external_id": "3342301bf898"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer",
+    "location": "Seattle, WA, USA",
+    "url": "https://www.amazon.jobs/en/jobs/3093439/software-engineer",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:59.097Z",
+    "source": "playwright",
+    "external_id": "62c7f3261e0e"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer I",
+    "location": "San Francisco, CA, USA",
+    "url": "https://www.amazon.jobs/en/jobs/3049568/software-engineer-i",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:59.097Z",
+    "source": "playwright",
+    "external_id": "6d54de7bbf4c"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer I",
+    "location": "San Francisco, CA, USA",
+    "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:59.097Z",
+    "source": "playwright",
+    "external_id": "a04df94f0546"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA, USA",
+    "url": "https://www.amazon.jobs/en/jobs/3092179/software-engineer",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:59.097Z",
+    "source": "playwright",
+    "external_id": "c9b705d0d325"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer I",
+    "location": "San Francisco, CA, USA",
+    "url": "https://www.amazon.jobs/en/jobs/3155750/software-engineer-i",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:59.097Z",
+    "source": "playwright",
+    "external_id": "f053d9397f3c"
+  },
+  {
+    "company": "Meta",
+    "title": "Software Engineer, Systems ML",
+    "location": "Sunnyvale, CA +1 locations",
+    "url": "https://www.metacareers.com/profile/job_details/3414246448833665",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:38.830Z",
+    "source": "playwright",
+    "external_id": "03868c600c2a"
+  },
+  {
+    "company": "Meta",
+    "title": "Software Engineer - AI SysML (Technical Leadership)",
+    "location": "Sunnyvale, CA +3 locations",
+    "url": "https://www.metacareers.com/profile/job_details/596583419835692",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:38.830Z",
+    "source": "playwright",
+    "external_id": "368c901a3443"
+  },
+  {
+    "company": "Meta",
+    "title": "Software Engineer, Machine Learning",
+    "location": "Sunnyvale, CA +12 locations",
+    "url": "https://www.metacareers.com/profile/job_details/1436181490732782",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:38.830Z",
+    "source": "playwright",
+    "external_id": "66a9ab8c3244"
+  },
+  {
+    "company": "Meta",
+    "title": "Software Engineer (Technical Leadership)",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/profile/job_details/978903851762450",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:38.830Z",
+    "source": "playwright",
+    "external_id": "8fa3b1e899aa"
+  },
+  {
+    "company": "Meta",
+    "title": "Software Engineer, SystemML - AI Networking",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/profile/job_details/1173396074083542",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:38.830Z",
+    "source": "playwright",
+    "external_id": "9064f79f2dfb"
+  },
+  {
+    "company": "Meta",
+    "title": "Software Engineer (Technical Leadership)",
+    "location": "Sunnyvale, CA +6 locations",
+    "url": "https://www.metacareers.com/profile/job_details/1187958502273564",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:38:38.830Z",
+    "source": "playwright",
+    "external_id": "9722cd706c3c"
+  },
+  {
+    "company": "Google",
+    "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+    "location": "Reston, VA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534-security-software-engineer-emerging-onprem-ai-infrastructure",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "0d2351b13796"
+  },
+  {
+    "company": "Google",
+    "title": "Software Engineer, Cross-Platform Material",
+    "location": "San Francisco, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/122948486462087878-software-engineer-crossplatform-material",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "2b5718181c9f"
+  },
+  {
+    "company": "Google",
+    "title": "Software Engineer, Full Stack, gUP Engineering",
+    "location": "Pittsburgh, PA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790-software-engineer-full-stack-gup-engineering",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "2cf17da84fc3"
+  },
+  {
+    "company": "Google",
+    "title": "Software Engineer III, Technical Infrastructure",
+    "location": "Sunnyvale, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782-software-engineer-iii-technical-infrastructure",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "381b82d5c10b"
+  },
+  {
+    "company": "Google",
+    "title": "Staff Software Engineer, Gemini Enterprise Mobile",
+    "location": "Sunnyvale, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/104310570370376390-staff-software-engineer-gemini-enterprise-mobile",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "3dc1886ca224"
+  },
+  {
+    "company": "Google",
+    "title": "Software Engineer, Compiling, Quantum AI",
+    "location": "Mountain View, CA, USA; Los Angeles, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/81389984547775174-software-engineer-compiling-quantum-ai",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "58cbe811b8c3"
+  },
+  {
+    "company": "Google",
+    "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+    "location": "Mountain View, CA, USA; San Bruno, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414-senior-software-engineer-aiml-recommendations-rankings-predictions-youtube",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "7c56654e4357"
+  },
+  {
+    "company": "Google",
+    "title": "Staff Software Engineer, Gemini Evals, GenAI, DeepMind",
+    "location": "Mountain View, CA, USA; New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/131830237238305478-staff-software-engineer-gemini-evals-genai-deepmind",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "bbbd1fee96e8"
+  },
+  {
+    "company": "Google",
+    "title": "Senior Staff Software Engineer, ML Infrastructure, Agents Infrastructure",
+    "location": "Sunnyvale, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/132681560959656646-senior-staff-software-engineer-ml-infrastructure-agents-infrastructure",
+    "posted_at": null,
+    "discovered_at": "2026-05-25T18:37:45.002Z",
+    "source": "playwright",
+    "external_id": "f8c80edc5470"
+  },
+  {
     "company": "Harvey",
     "title": "Senior Analytics Engineer, Product",
     "location": "San Francisco",
