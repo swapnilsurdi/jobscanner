@@ -1,0 +1,6 @@
+.env
+node_modules/
+data/scan.log
+data/.cache/
+.DS_Store
+*.local

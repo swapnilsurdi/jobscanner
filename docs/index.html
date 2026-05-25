@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Job Feed</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Job Feed</h1>
+    <div class="meta">
+      <span id="count">—</span> roles · last update <span id="updated">—</span>
+    </div>
+  </header>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="Search title, company, or location…" autocomplete="off">
+    <select id="sort">
+      <option value="discovered_desc">Newest first (discovered)</option>
+      <option value="posted_desc">Recently posted</option>
+      <option value="company_asc">Company A–Z</option>
+      <option value="title_asc">Title A–Z</option>
+    </select>
+    <button id="clear" type="button">Clear</button>
+  </section>
+
+  <section class="chips" id="chips" aria-label="Filter by company"></section>
+
+  <main>
+    <table id="grid">
+      <thead>
+        <tr>
+          <th data-key="company">Company</th>
+          <th data-key="title">Title</th>
+          <th data-key="location">Location</th>
+          <th data-key="posted_at">Posted</th>
+          <th data-key="discovered_at">Discovered</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <p id="empty" hidden>No matches.</p>
+  </main>
+
+  <footer>
+    <small>Auto-updated every 2 hours · <a href="https://github.com/swapnilsurdi/jobscanner">source</a></small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

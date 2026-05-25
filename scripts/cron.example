@@ -1,0 +1,9 @@
+# Install with: crontab -e   (then paste this line, setting JOBSCANNER_DIR for your machine)
+#
+# Runs every 2 hours. Uses /bin/bash -lc so login profile is loaded
+# (gives the cron job access to nvm/asdf node, claude on PATH, etc.).
+#
+# Set JOBSCANNER_DIR to the absolute path of your local clone.
+# Everything else (Chrome profile path, claude binary, git remote) is read from .env inside the repo.
+
+0 */2 * * * /bin/bash -lc 'cd "$JOBSCANNER_DIR" && ./scripts/run-scan.sh'
