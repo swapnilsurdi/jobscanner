@@ -5,3 +5,4 @@ data/.cache/
 .DS_Store
 *.local
 .chrome-profile/
+.playwright-mcp/

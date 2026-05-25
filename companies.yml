@@ -1,6 +1,6 @@
-# Watchlist. Each entry uses one ATS endpoint OR a careers URL (Playwright fallback).
-# Supported ats: greenhouse, ashby, lever
-# Companies on SmartRecruiters / Workday / custom sites use careers_url and get the Playwright fallback.
+# Watchlist. ATS-backed (greenhouse/ashby/lever) use API; careers_url use Playwright fallback.
+# careers_url for big-tech is PRE-FILTERED to US locations + "software engineer" search so Playwright
+# subagents land on a Bay Area / US-Remote result page and don't see Bangalore/EU postings.
 
 companies:
   # ---- Verified Greenhouse ----
@@ -47,21 +47,23 @@ companies:
   # ---- Verified Lever ----
   - { name: Plaid,           ats: lever,          slug: plaid }
 
-  # ---- SmartRecruiters / Workday / custom — Playwright fallback ----
+  # ---- SmartRecruiters (API fallback) ----
   - { name: HashiCorp,       careers_url: "https://www.smartrecruiters.com/HashiCorp" }
-  - { name: Snowflake,       careers_url: "https://careers.snowflake.com/us/en/search-results" }
   - { name: Sourcegraph,     careers_url: "https://www.smartrecruiters.com/Sourcegraph" }
   - { name: Groq,            careers_url: "https://www.smartrecruiters.com/Groq" }
   - { name: Modular,         careers_url: "https://www.smartrecruiters.com/Modular" }
+
+  # ---- Playwright fallback with URL filters pre-applied (search=software engineer, location=US/Bay Area) ----
+  - { name: Google,          careers_url: "https://www.google.com/about/careers/applications/jobs/results/?q=%22software%20engineer%22&location=United%20States&employment_type=FULL_TIME" }
+  - { name: Meta,            careers_url: "https://www.metacareers.com/jobs?q=software%20engineer&offices[0]=Menlo%20Park%2C%20CA&offices[1]=Bellevue%2C%20WA&offices[2]=New%20York%2C%20NY&offices[3]=San%20Francisco%2C%20CA&offices[4]=Sunnyvale%2C%20CA&offices[5]=Remote%2C%20US" }
+  - { name: Amazon,          careers_url: "https://www.amazon.jobs/en/search?base_query=software+engineer&loc_query=United+States&country=USA" }
+  - { name: Apple,           careers_url: "https://jobs.apple.com/en-us/search?search=software+engineer&location=united-states-USA" }
+  - { name: Microsoft,       careers_url: "https://jobs.careers.microsoft.com/global/en/search?q=software+engineer&lc=United%20States&exp=Mid-level&exp=Senior&pg=1" }
+  - { name: NVIDIA,          careers_url: "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78&q=Software%20Engineer" }
+  - { name: Atlassian,       careers_url: "https://www.atlassian.com/company/careers/all-jobs?team=Engineering&location=United%20States" }
+  - { name: ServiceNow,      careers_url: "https://careers.servicenow.com/jobs/?search=software+engineer&country=United+States" }
+  - { name: Waymo,           careers_url: "https://careers.withwaymo.com/jobs/search?location=United+States&query=software+engineer" }
+  - { name: Zoox,            careers_url: "https://zoox.com/careers/jobs?team=Software&location=California" }
+  - { name: Airbnb,          careers_url: "https://careers.airbnb.com/positions/?_offices=san-francisco&_offices=remote-us&_categories=engineering" }
+  - { name: Snowflake,       careers_url: "https://careers.snowflake.com/us/en/search-results?keywords=software%20engineer&from=0" }
   - { name: EvenUp,          careers_url: "https://www.evenuplaw.com/careers" }
-  - { name: Atlassian,       careers_url: "https://www.atlassian.com/company/careers/all-jobs" }
-  - { name: ServiceNow,      careers_url: "https://careers.servicenow.com/jobs/" }
-  - { name: Waymo,           careers_url: "https://careers.withwaymo.com/jobs/search" }
-  - { name: Zoox,            careers_url: "https://zoox.com/careers/jobs" }
-  - { name: Airbnb,          careers_url: "https://careers.airbnb.com/positions/" }
-  - { name: Google,          careers_url: "https://www.google.com/about/careers/applications/jobs/results/?employment_type=FULL_TIME&q=software%20engineer" }
-  - { name: Meta,            careers_url: "https://www.metacareers.com/jobs" }
-  - { name: Amazon,          careers_url: "https://www.amazon.jobs/en/search?base_query=software+engineer" }
-  - { name: Microsoft,       careers_url: "https://jobs.careers.microsoft.com/global/en/search" }
-  - { name: Apple,           careers_url: "https://jobs.apple.com/en-us/search" }
-  - { name: NVIDIA,          careers_url: "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite" }
