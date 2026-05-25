@@ -5,43 +5,42 @@ description: Scan target companies for new job openings, filter by title/locatio
 
 # jobscan
 
-Single-purpose skill for this repo. Adapted from the career-ops `scan` mode but stripped to: detect → filter → dedupe → publish.
+Single-purpose skill for this repo. Adapted from the career-ops `scan` mode. Detect → filter → dedupe → publish.
 
 ## Steps
 
 1. **Read inputs**
-   - `companies.yml` — watchlist with ATS endpoints / careers URLs.
-   - `config/filters.yml` — title/location positive+negative filters, `max_age_days`.
+   - `companies.yml` — watchlist. Entries either have an `ats` (greenhouse/ashby/lever) + `slug`, OR a `careers_url` (Workday / SmartRecruiters / custom).
+   - `config/filters.yml` — title/location filters + `max_age_days`.
    - `data/jobs.json` — existing scan store (may be empty array on first run).
-   - `data/seen.tsv` — dedup ledger of `<company>\t<external_id>` seen across all runs.
+   - `data/seen.tsv` — dedup ledger.
 
-2. **Fetch** by calling `node scripts/scan.mjs` from this repo. The script:
-   - Hits Greenhouse / Ashby / Lever JSON endpoints directly (zero-LLM).
-   - For Workday / SmartRecruiters / careers_url entries, returns an empty list with a `needs_playwright: true` flag.
-   - Writes raw results to `data/.cache/raw-<timestamp>.json`.
+2. **API fetch** — call `node scripts/scan.mjs`. It hits Greenhouse / Ashby / Lever JSON endpoints directly. For Workday / SmartRecruiters / `careers_url`-only entries, it emits `{needs_playwright: true, careers_url, name}` to the raw cache and skips.
 
-3. **Playwright fallback** — for any entry with `needs_playwright: true` in the raw output, the skill uses the Playwright MCP tools (`mcp__playwright__browser_navigate`, `mcp__playwright__browser_snapshot`, `mcp__playwright__browser_evaluate`) to open the `careers_url`, extract job rows (title, location, URL, posted_at if visible), and merge them into the raw set. Playwright starts via the Chrome profile path provided by `.env` (`CHROME_USER_DATA_DIR`) so requests look like a real session.
+3. **SmartRecruiters fetch** — call `node scripts/scan-smartrecruiters.mjs`. It picks up entries whose `careers_url` contains `smartrecruiters.com` and uses the public posting API. Results are appended to `data/jobs.json`.
 
-4. **Filter** — apply `config/filters.yml`. A job survives only if:
-   - At least one title positive substring matches AND no title negative matches.
-   - At least one location positive substring matches AND no location negative matches.
-   - `posted_at` (when available) is within `max_age_days`.
+4. **Playwright fallback (REQUIRED for big tech)** — for every remaining entry in `companies.yml` that has a `careers_url` but no `ats` (and is not SmartRecruiters), you MUST open the page with Playwright MCP and scrape job rows. This is the only way to get Google, Meta, Amazon, Microsoft, Apple, NVIDIA, Atlassian, ServiceNow, Waymo, Zoox, Airbnb, EvenUp. The pattern for each company:
+   - `mcp__playwright__browser_navigate({ url: <careers_url> })`
+   - If the page requires entering a search query (`"software engineer"`), use `mcp__playwright__browser_fill_form` / `mcp__playwright__browser_type` and submit.
+   - `mcp__playwright__browser_snapshot` to read the rendered DOM.
+   - Extract `title`, `location`, `url`, and `posted_at` if visible. Common selectors per site:
+     - **Google**: page is `careers.google.com` — look for `[role="article"]` cards; each has title + locations + apply link.
+     - **Meta**: `metacareers.com/jobs` — table rows under `[role="row"]`, title + locations + req-id link.
+     - **Amazon**: `amazon.jobs` — `.job-tile` elements; title in `.job-title`, location in `.location-and-id`.
+     - **Microsoft**: `jobs.careers.microsoft.com` — search results are virtualized; scroll and extract from `[aria-label*="Job item"]` cards.
+     - **Apple**: `jobs.apple.com/en-us/search` — table-based; rows contain title + team + location.
+     - **NVIDIA**: Workday board — `[data-automation-id="jobTitle"]` for title, `[data-automation-id="locations"]` for location.
+     - **Atlassian / ServiceNow**: Workday — same selectors as NVIDIA.
+     - **Waymo / Zoox / Airbnb**: custom pages — read DOM and extract anchor lists.
+     - **EvenUp**: `evenuplaw.com/careers` — Greenhouse iframe; extract from `iframe[src*=greenhouse]` if present, else the listed cards.
+   - For each extracted row, build `{company, title, location, url, posted_at, source: "playwright", external_id: <sha1(url) first 12>}` and check it against `data/seen.tsv`. Apply `config/filters.yml` filters (title + location, positive AND not-negative). Append new ones to `data/jobs.json` and append `<company>\t<external_id>` to `data/seen.tsv`.
+   - LIMIT each company scrape to ~30 seconds total. If a page is unreachable or the structure has changed, log a warning and move on — never block the run.
 
-5. **Dedupe** — drop any job whose `<company>\t<external_id>` (or `<company>\t<sha1(url)>` as fallback) is in `data/seen.tsv`. Append new IDs to `data/seen.tsv`.
+5. **Normalize + prune** — `scripts/normalize-jobs.mjs` (sorts) and `scripts/prune-stale.mjs` (drops anything older than `max_age_days`, falling back to `discovered_at` when `posted_at` is missing) are called by the cron wrapper after this skill exits.
 
-6. **Persist**
-   - Update `data/jobs.json` — array of `{company, title, location, url, posted_at, discovered_at, source}`. Discarded entries (no longer in the latest scan AND older than `max_age_days`) are removed.
-   - Regenerate `README.md` from `data/jobs.json` (see template in `skills/jobscan/README.template.md`).
-
-7. **Done** — return a one-line summary: `N new, M total active across K companies`.
-
-## What this skill does NOT do
-
-- Does not evaluate fit / score / customize CVs / submit applications. It is purely a discovery feed.
-- Does not push to git. The cron wrapper `scripts/run-scan.sh` handles commit + push after the skill exits.
+6. **Done** — return a one-line summary: `N new from ATS, M new from Playwright, total T active across K companies`.
 
 ## Failure handling
 
-- If `scripts/scan.mjs` fails for a single company, that company is skipped with a logged warning. The scan still completes.
-- If Playwright MCP is unavailable, careers_url-only entries are skipped with a warning.
-- Never block the scan on a single failure; partial results are better than none.
+- Single-company failures (404, timeout, DOM change) must not crash the run.
+- Playwright unavailability → log a warning and skip the Playwright pass; ATS results still publish.

@@ -1,6 +1,6 @@
 #!/bin/bash
-# Cron entry point v4. Adds docs/meta.json with the actual scan-run timestamp.
-# Overwrite scripts/run-scan.sh with this file's contents.
+# Cron entry point v6. Tighter Claude prompt that explicitly mandates the Playwright pass
+# for careers_url-only companies. Adds prune-stale.mjs after normalization.
 
 set -euo pipefail
 
@@ -25,7 +25,8 @@ git merge --ff-only "$GIT_REMOTE/$GIT_BRANCH" --quiet || true
 
 SCAN_START="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
-"$CLAUDE_BIN" -p "Run the jobscan skill. Scan companies.yml using ATS endpoints. Apply config/filters.yml. Write data/jobs.json. Be concise." \
+# Tighter prompt — explicitly tells Claude to do the Playwright pass for careers_url entries.
+"$CLAUDE_BIN" -p "Run the jobscan skill end-to-end per skills/jobscan/SKILL.md. Steps you MUST do in order: (1) node scripts/scan.mjs for the Greenhouse/Ashby/Lever fetch. (2) node scripts/scan-smartrecruiters.mjs for SmartRecruiters companies. (3) For EVERY entry in companies.yml that has a careers_url but no ats AND does NOT use smartrecruiters.com — open the page with Playwright MCP (mcp__playwright__browser_navigate + browser_snapshot), extract title/location/url/posted_at for visible job rows, apply config/filters.yml, dedupe against data/seen.tsv, and append the surviving rows to data/jobs.json. This means you MUST scrape: Atlassian, ServiceNow, Waymo, Zoox, Airbnb, Google, Meta, Amazon, Microsoft, Apple, NVIDIA, EvenUp. Spend no more than 30 seconds per company; skip on errors. Use selectors documented in SKILL.md. Apply title positive substring match (Software Engineer / Backend / Full Stack / Senior / Forward Deployed / Solutions Engineer / AI Engineer / SDE II) AND NOT title negatives (Manager / Director / Staff Engineer / Solutions Architect / Designer / Analyst / Counsel / Marketing). Apply location positives (San Francisco / Bay Area / Mountain View / Sunnyvale / Remote / United States / US-) AND NOT location negatives (United Kingdom / EMEA / Europe / India / Canada). When done, print a single summary line and exit. Do not commit or push — the wrapper handles that." \
   --permission-mode bypassPermissions \
   --output-format text \
   > data/scan.log 2>&1 || {
@@ -33,13 +34,15 @@ SCAN_START="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
     exit 1
   }
 
+# Defensive — if Claude skipped the SR/normalize/prune steps, run them ourselves.
 node scripts/scan-smartrecruiters.mjs >> data/scan.log 2>&1 || true
-node scripts/regen-readme.mjs >> data/scan.log 2>&1 || true
+node scripts/normalize-jobs.mjs       >> data/scan.log 2>&1 || true
+node scripts/prune-stale.mjs          >> data/scan.log 2>&1 || true
+node scripts/regen-readme.mjs         >> data/scan.log 2>&1 || true
 
 mkdir -p docs
 cp data/jobs.json docs/jobs.json
 
-# Write scan metadata for the Pages UI (separate from per-job discovered_at).
 JOB_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/jobs.json','utf8')).length)")
 COMPANY_COUNT=$(node -e "console.log(new Set(JSON.parse(require('fs').readFileSync('data/jobs.json','utf8')).map(j=>j.company)).size)")
 cat > docs/meta.json <<EOF

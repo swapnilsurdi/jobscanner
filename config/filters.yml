@@ -52,7 +52,6 @@ title:
     - "Designer"
     - "Brand"
     - "Campaigns"
-    - "Marketing"
     - "Compliance"
     - "Relationship"
     - "Threat Intelligence"
@@ -93,15 +92,8 @@ location:
     - "France"
     - "Spain"
     - "Netherlands"
-    - "India"
-    - "Bangalore"
-    - "Pune"
-    - "Hyderabad"
-    - "Tokyo"
-    - "Singapore"
-    - "Sydney"
-    - "Tel Aviv"
-    - "Dublin only"
 
-# Discard listings older than N days (based on ATS posted_at). 0 = keep all.
-max_age_days: 14
+# Drop jobs older than this many days. Window is applied against posted_at when
+# available; falls back to discovered_at when posted_at is missing (handled by
+# scripts/prune-stale.mjs after the scan).
+max_age_days: 3
