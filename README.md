@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-27T06:49:49.341Z
-**Active roles:** 50 of 96 across 12 companies
+**Last scan:** 2026-05-27T08:01:29.420Z
+**Active roles:** 50 of 131 across 7 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -11,19 +11,26 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Amazon
 
+- [Software Engineer, Database Migration Service](https://www.amazon.jobs/en/jobs/10421249/software-engineer-database-migration-service) — Boston, MA, USA — posted —
+- [Software Engineer, AI Security](https://www.amazon.jobs/en/jobs/10417172/software-engineer-ai-security) — Seattle, WA, USA — posted —
+- [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10421820/senior-software-engineer-fauna) — New York, NY, USA — posted —
+- [Software Engineer, Graviton Software, Annapurna Labs](https://www.amazon.jobs/en/jobs/10387292/software-engineer-graviton-software-annapurna-labs) — Austin, TX, USA — posted —
+- [Senior Software Engineer, Enterprise Platform](https://www.amazon.jobs/en/jobs/10406224/senior-software-engineer-enterprise-platform) — San Francisco, CA, USA — posted —
+- [Software Engineer, EC2 Nitro](https://www.amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro) — Seattle, WA, USA — posted —
+- [Senior Software Engineer, Amazon Photos](https://www.amazon.jobs/en/jobs/10421006/senior-software-engineer-amazon-photos) — Seattle, WA, USA — posted —
+- [Software Engineer, Creator Sponsorships](https://www.amazon.jobs/en/jobs/3145977/software-engineer-creator-sponsorships) — San Francisco, CA, USA — posted —
+- [Senior Software Engineer, Prime Air](https://www.amazon.jobs/en/jobs/3177500/senior-software-engineer-prime-air) — Seattle, WA, USA — posted —
+- [Senior Software Engineer III](https://www.amazon.jobs/en/jobs/10406805/senior-software-engineer-iii) — Dallas, TX, USA — posted —
+- [Software Engineer, EC2 Nitro](https://www.amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — Seattle, WA, USA — posted —
+- [Software Engineer, Amazon Photos](https://www.amazon.jobs/en/jobs/10423211/software-engineer-amazon-photos) — Seattle, WA, USA — posted —
+- [Software Engineer, Monetization ML](https://www.amazon.jobs/en/jobs/3113621/software-engineer-monetization-ml) — New York, NY, USA — posted —
+- [Principal Software Engineer, S3 Keystone](https://www.amazon.jobs/en/jobs/3064651/principal-software-engineer-s3-keystone) — Arlington, VA, USA — posted —
+- [Software Engineer II, Safety](https://www.amazon.jobs/en/jobs/10387280/software-engineer-ii-safety) — San Francisco, CA, USA — posted —
+- [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10421819/senior-software-engineer-fauna) — New York, NY, USA — posted —
+- [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10386614/senior-software-engineer-fauna) — New York, NY, USA — posted —
 - [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro) — WA, USA — posted —
 - [Software Engineer](https://amazon.jobs/en/jobs/3093439/software-engineer) — WA, USA — posted —
 - [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — WA, USA — posted —
-- [Software Engineer, Creator Sponsorships](https://amazon.jobs/en/jobs/3145977/software-engineer-creator-sponsorships) — San Francisco, CA, USA — posted —
-- [Senior Software Engineer, AWS](https://amazon.jobs/en/jobs/3208442/senior-software-engineer-aws) — San Francisco, CA, USA — posted —
-- [Software Engineer, Ring](https://amazon.jobs/en/jobs/10423547/software-engineer-ring) — San Francisco, CA, USA — posted —
-- [Software Engineer, Translation Services](https://amazon.jobs/en/jobs/3201861/software-engineer-translation-services) — San Francisco, CA, USA — posted —
-- [Chip Validation Software Engineer](https://amazon.jobs/en/jobs/10409569/chip-validation-software-engineer) — San Francisco, CA, USA — posted —
-- [Senior Software Engineer, Annapurna](https://amazon.jobs/en/jobs/3166256/senior-software-engineer-annapurna) — San Francisco, CA, USA — posted —
-- [Software Engineer, Safety](https://amazon.jobs/en/jobs/10390629/software-engineer-safety) — San Francisco, CA, USA — posted —
-- [Software Engineer, Ring](https://amazon.jobs/en/jobs/10423551/software-engineer-ring) — San Francisco, CA, USA — posted —
-- [Software Engineer](https://amazon.jobs/en/jobs/10386857/software-engineer) — San Francisco, CA, USA — posted —
-- [Software Engineer](https://amazon.jobs/en/jobs/3092179/software-engineer) — San Francisco, CA, USA — posted —
 
 ### Apple
 
@@ -34,46 +41,29 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services?team=SFTWR) — Sunnyvale — posted —
 - [Senior Software Engineer - Field Diagnostics Engineering](https://jobs.apple.com/en-us/details/200661432-3956/senior-software-engineer-field-diagnostics-engineering?team=HRDWR) — Sunnyvale — posted —
 - [Senior Software Engineer, Enterprise Technology Services](https://jobs.apple.com/en-us/details/200664502-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR) — Sunnyvale — posted —
-- [Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services) — Sunnyvale — posted —
-
-### Datadog
-
-- [Senior Software Engineer- Linux/eBPF](https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461) — Portugal, Remote — posted 2026-05-26
-
-### EvenUp
-
-- [Backend Engineer, Cases Product](https://jobs.ashbyhq.com/evenup/7a6f65a8-8a3f-4677-bfc4-9148eb5a96c9) — San Francisco (hybrid) — posted —
-- [Senior Frontend Engineer, Client Portal](https://jobs.ashbyhq.com/evenup/2a604b29-d10c-4bb3-8be4-8d2706a0507a) — San Francisco (hybrid) — posted —
-- [Senior Backend Engineer, New Products](https://jobs.ashbyhq.com/evenup/873559ab-5c74-4585-ad3c-7cbc0fe7c9fd) — San Francisco (hybrid) — posted —
-- [Senior Frontend Engineer, New Products](https://jobs.ashbyhq.com/evenup/a864f40b-45ee-4381-a6e0-92bd9cfc4869) — San Francisco (hybrid) — posted —
-- [Senior Software Engineer, Builders](https://jobs.ashbyhq.com/evenup/cf71aee9-e1b2-4a6e-a8a5-a6e93d2f3c2a) — San Francisco (hybrid) — posted —
-- [Senior Backend Engineer, Entities](https://jobs.ashbyhq.com/evenup/14003192-676e-44df-998d-e2c5e01c2f69) — San Francisco (hybrid) — posted —
-- [Senior Backend Engineer, New Products](https://jobs.ashbyhq.com/evenup/2d74625d-0348-48f8-8f41-3cb2bb94f4dd) — San Francisco (hybrid) — posted —
-- [Backend Engineer, New Products](https://jobs.ashbyhq.com/evenup/849d5856-a18f-47b6-b6d6-957ec7afb492) — San Francisco (hybrid) — posted —
-- [Senior Backend Engineer, Cases Product](https://jobs.ashbyhq.com/evenup/93ee7f2d-e8ef-4989-8759-92aafa837fb9) — San Francisco (hybrid) — posted —
-- [Senior Frontend Engineer, New Products](https://jobs.ashbyhq.com/evenup/ce4528ff-4b07-4219-a8d5-0a23a24a8f01) — San Francisco (hybrid) — posted —
-- [Senior Frontend Engineer, Cases Product](https://jobs.ashbyhq.com/evenup/7682dbef-ffb0-4669-abc9-fb480aacb6bb) — San Francisco (hybrid) — posted —
 
 ### Google
 
-- [Software Engineer, Cross-Platform Material](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Cross-Platform%20Material) — San Francisco, CA, USA — posted —
-- [Software Engineer, Cloud SDK](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Cloud%20SDK) — Kirkland, WA, USA — posted —
+- [Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://www.google.com/about/careers/applications/jobs/results/88714689822761670) — Sunnyvale, CA, USA — posted —
+- [Software Engineer III, Technical Infrastructure](https://www.google.com/about/careers/applications/jobs/results/99326551270531782) — Sunnyvale, CA, USA — posted —
+- [Security Software Engineer, Emerging On-prem AI infrastructure](https://www.google.com/about/careers/applications/jobs/results/114738878203470534) — Reston, VA, USA — posted —
+- [Software Engineer, Pixel Camera, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/74768609561191110) — Mountain View, CA, USA — posted —
+- [Software Engineer, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/128857467034444486) — San Diego, CA, USA — posted —
+- [Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube](https://www.google.com/about/careers/applications/jobs/results/129280004709065414) — Mountain View, CA, USA — posted —
+- [Software Engineer, Modem Power/Thermal, Pixel](https://www.google.com/about/careers/applications/jobs/results/73072310080152262) — Kirkland, WA, USA — posted —
+- [Software Engineer, Security, Chrome Product Security](https://www.google.com/about/careers/applications/jobs/results/92701240483291846) — Kirkland, WA, USA — posted —
+- [Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start](https://www.google.com/about/careers/applications/jobs/results/122258040807137990) — Sunnyvale, CA, USA — posted —
+- [Software Engineer, Apps, Video and Display Modeling Infrastructure](https://www.google.com/about/careers/applications/jobs/results/120016590388241094) — Mountain View, CA, USA — posted —
+- [Software Engineer, Google Beam, Full Stack](https://www.google.com/about/careers/applications/jobs/results/104327517237584582) — Seattle, WA, USA — posted —
+- [Software Engineer, Fabric Networking](https://www.google.com/about/careers/applications/jobs/results/140194199642219206) — Sunnyvale, CA, USA — posted —
+- [Software Engineer, Pixel Infrastructure, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/103688026671981254) — Mountain View, CA, USA — posted —
+- [Software Engineer, Cross-Platform Material](https://www.google.com/about/careers/applications/jobs/results/122948486462087878) — San Francisco, CA, USA — posted —
 
 ### NVIDIA
 
-- [Senior Software Engineer - BaseOS](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---BaseOS_JR2012266) — US, CA, Santa Clara — posted —
-- [Senior Systems Software Engineer - Omniverse](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Systems-Software-Engineer---Omniverse_JR2018165) — US, CA, Remote — posted —
-- [Senior Systems Software Engineer, Machine Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Machine-Learning_JR2018315) — US, CA, Santa Clara — posted —
-- [Senior Software Engineer, Cloud Streaming - GeForce NOW](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--Cloud-Streaming---GeForce-NOW_JR2015957) — US, CA, Remote — posted —
-
-### Nuro
-
-- [Senior Software Engineer, FinOps](https://nuro.ai/careersitem?gh_jid=7958983) — Mountain View, California (HQ) — posted 2026-05-26
-
-### OpenAI
-
-- [Software Engineer, Ad Formats](https://jobs.ashbyhq.com/openai/0b212a4a-6709-4da8-b59d-283a9bbf812e) — San Francisco — posted 2026-05-26
-- [Full-Stack Software Engineer, Compute Foundations](https://jobs.ashbyhq.com/openai/1312f55e-ff56-4dab-9bf7-a91e2c157572) — San Francisco — posted 2026-05-26
+- [Senior Software Engineer - HPC](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---HPC_JR2013372) — US, CA, Santa Clara — posted —
+- [Tegra System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2015299) — US, CA, Santa Clara — posted —
+- [System Software Engineer, GeForce Software](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GeForce-Software_JR2015749-1) — US, CA, Santa Clara — posted —
 
 ### Replit
 
@@ -83,17 +73,12 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Snowflake
 
+- [Software Engineer - Backend](https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend) — Menlo Park, California, United States — posted —
 - [Forward Deployment Senior Software Engineer](https://careers.snowflake.com/us/en/job/SNCOUS68A2FB6805104BB3B5E1A96543F1FEB0EXTERNALENUS13FE38E8D1304AB2BEA6F586E30B7C5E/Forward-Deployment-Senior-Software-Engineer) — McLean, Virginia, United States — posted —
-- [Software Engineer - Observe](https://careers.snowflake.com/us/en/job/SNCOUSA8A493EC92E24CBC985C9B175601A22EEXTERNALENUS07E50E2484AD269DE1D991362C/Software-Engineer-Observe) — Menlo Park, California, United States — posted —
-
-### Twilio
-
-- [Senior Strategic Account Executive](https://job-boards.greenhouse.io/twilio/jobs/7957639) — Remote - US — posted 2026-05-26
 
 ### Zoox
 
 - [Software Engineer - Site Reliability Engineering](https://jobs.lever.co/zoox) — Foster City, CA — posted —
-- [AV Safety Software Engineer](https://jobs.lever.co/zoox/78320bf3-5c38-4583-a16b-e67b676cc1f8) — FOSTER CITY, CA — posted —
 
 ---
 
