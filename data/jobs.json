@@ -1,5 +1,15 @@
 [
   {
+    "company": "Nuro",
+    "title": "Senior Software Engineer, FinOps",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7958983",
+    "posted_at": "2026-05-26T18:41:00-04:00",
+    "discovered_at": "2026-05-27T02:15:40.752Z",
+    "source": "greenhouse",
+    "external_id": "7958983"
+  },
+  {
     "company": "Twilio",
     "title": "Senior Strategic Account Executive",
     "location": "Remote - US",
@@ -38,26 +48,6 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "0b212a4a-6709-4da8-b59d-283a9bbf812e"
-  },
-  {
-    "company": "Nuro",
-    "title": "Senior Software Engineer, FinOps",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7958983",
-    "posted_at": "2026-05-26T18:41:00-04:00",
-    "discovered_at": "2026-05-27T02:15:40.752Z",
-    "source": "greenhouse",
-    "external_id": "7958983"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer- Linux/eBPF",
-    "location": "Portugal, Remote",
-    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461",
-    "posted_at": "2026-05-26T08:33:13-04:00",
-    "discovered_at": "2026-05-26T16:24:04.374Z",
-    "source": "greenhouse",
-    "external_id": "7957461"
   },
   {
     "company": "Replit",
@@ -128,25 +118,5 @@
     "discovered_at": "2026-05-25T17:48:17.960Z",
     "source": "ashby",
     "external_id": "754bb046-a622-40dd-8416-0af87f1f0301"
-  },
-  {
-    "company": "Zoox",
-    "title": "Software Engineer - Site Reliability Engineering",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/357b4f2a-1dd8-4a53-8d39-9c898cdc2d79",
-    "posted_at": "",
-    "discovered_at": "2026-05-27T16:06:25.074Z",
-    "source": "playwright",
-    "external_id": "0953d5a2925a"
-  },
-  {
-    "company": "Zoox",
-    "title": "Software Engineer, Android",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76",
-    "posted_at": "",
-    "discovered_at": "2026-05-27T16:06:25.074Z",
-    "source": "playwright",
-    "external_id": "a7d622739543"
   }
 ]
