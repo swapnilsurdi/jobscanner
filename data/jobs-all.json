@@ -1,5 +1,16 @@
 [
   {
+    "company": "Zoox",
+    "title": "Software Engineer - Site Reliability Engineering",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/357b4f2a-1dd8-4a53-8d39-9c898cdc2d79",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T16:06:25.074Z",
+    "source": "playwright",
+    "external_id": "0953d5a2925a",
+    "last_seen_at": "2026-05-27T16:06:25.074Z"
+  },
+  {
     "company": "Amazon",
     "title": "Software Engineer, Database Migration Service",
     "location": "Boston, MA, USA",

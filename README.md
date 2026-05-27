@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-27T08:01:29.420Z
-**Active roles:** 50 of 131 across 7 companies
+**Last scan:** 2026-05-27T16:06:25.074Z
+**Active roles:** 50 of 132 across 7 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -69,7 +69,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Senior Software Engineer, Fraud](https://jobs.ashbyhq.com/replit/649b284a-75c3-4d58-9958-4db2740e6f8d) — Foster City, CA — posted 2026-05-26
 - [Senior Software Engineer, Risk](https://jobs.ashbyhq.com/replit/3a657901-8b8e-47cd-a122-e45881eef124) — Foster City, CA — posted 2026-05-26
-- [Senior Software Engineer, Trust & Safety](https://jobs.ashbyhq.com/replit/75477d6d-82e2-413c-b355-ec9426e56555) — Foster City, CA — posted 2026-05-26
 
 ### Snowflake
 
@@ -78,6 +77,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Zoox
 
+- [Software Engineer - Site Reliability Engineering](https://jobs.lever.co/zoox/357b4f2a-1dd8-4a53-8d39-9c898cdc2d79) — Foster City, CA — posted —
 - [Software Engineer - Site Reliability Engineering](https://jobs.lever.co/zoox) — Foster City, CA — posted —
 
 ---
