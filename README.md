@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-27T01:43:06.966Z
-**Active roles:** 50 of 77 across 10 companies
+**Last scan:** 2026-05-27T03:54:07.767Z
+**Active roles:** 50 of 91 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -24,6 +24,13 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Apple
 
+- [Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
+- [Senior Software Engineer (Voice Platform), Customer Systems](https://jobs.apple.com/en-us/details/200663101-3956/senior-software-engineer-voice-platform-customer-systems?team=SFTWR) — Sunnyvale — posted —
+- [Senior Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
+- [Senior Software Engineer](https://jobs.apple.com/en-us/details/200664840-3956/senior-software-engineer?team=SFTWR) — Sunnyvale — posted —
+- [Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services?team=SFTWR) — Sunnyvale — posted —
+- [Senior Software Engineer - Field Diagnostics Engineering](https://jobs.apple.com/en-us/details/200661432-3956/senior-software-engineer-field-diagnostics-engineering?team=HRDWR) — Sunnyvale — posted —
+- [Senior Software Engineer, Enterprise Technology Services](https://jobs.apple.com/en-us/details/200664502-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR) — Sunnyvale — posted —
 - [Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services) — Sunnyvale — posted —
 
 ### Datadog
@@ -53,12 +60,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer, Compiling, Quantum AI](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Compiling%2C%20Quantum%20AI) — Mountain View, CA, USA — posted —
 - [Security Software Engineer, Emerging On-prem AI infrastructure](https://www.google.com/about/careers/applications/jobs/results/?q=Security%20Software%20Engineer%2C%20Emerging%20On-prem%20AI%20infrastructure) — Reston, VA, USA — posted —
 - [Software Engineer III, Technical Infrastructure](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%20III%2C%20Technical%20Infrastructure) — Sunnyvale, CA, USA — posted —
-- [Software Engineer, GCS, Transfer Appliance Infrastructure](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20GCS%2C%20Transfer%20Appliance%20Infrastructure) — Sunnyvale, CA, USA — posted —
-- [Software Engineer, Full Stack, gUP Engineering](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Full%20Stack%2C%20gUP%20Engineering) — Pittsburgh, PA, USA — posted —
-
-### Meta
-
-- [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.metacareers.com/profile/job_details/1154738753397824) — Sunnyvale, CA — posted —
 
 ### NVIDIA
 
@@ -67,23 +68,28 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Systems Software Engineer, Machine Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Machine-Learning_JR2018315) — US, CA, Santa Clara — posted —
 - [Senior Software Engineer, Cloud Streaming - GeForce NOW](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--Cloud-Streaming---GeForce-NOW_JR2015957) — US, CA, Remote — posted —
 
-### ServiceNow
+### Nuro
 
-- [Senior Software Engineer, Search Infrastructure - Moveworks](https://careers.servicenow.com/jobs/744000123804421/senior-software-engineer-search-infrastructure-moveworks/) — Mountain View — posted —
-- [Senior Software Engineer, DevOps - Moveworks](https://careers.servicenow.com/jobs/744000123803845/senior-software-engineer-devops-moveworks/) — Mountain View — posted —
-- [Software Engineer, Agentic AI Systems - Moveworks](https://careers.servicenow.com/jobs/744000123785239/software-engineer-agentic-ai-systems-moveworks/) — Mountain View — posted —
-- [Senior Software Engineer, Agentic Systems - Moveworks](https://careers.servicenow.com/jobs/744000125214274/senior-software-engineer-agentic-systems-moveworks/) — Mountain View — posted —
-- [Software Engineer - Moveworks](https://careers.servicenow.com/jobs/744000123281859/software-engineer-moveworks/) — Mountain View — posted —
-- [Software Engineer, DevOps - Moveworks](https://careers.servicenow.com/jobs/744000123804310/software-engineer-devops-moveworks/) — Mountain View — posted —
-- [Software Engineer, Agentic AI Product - Moveworks](https://careers.servicenow.com/jobs/744000107221865/software-engineer-agentic-ai-product-moveworks/) — Mountain View — posted —
+- [Senior Software Engineer, FinOps](https://nuro.ai/careersitem?gh_jid=7958983) — Mountain View, California (HQ) — posted 2026-05-26
+
+### OpenAI
+
+- [Software Engineer, Ad Formats](https://jobs.ashbyhq.com/openai/0b212a4a-6709-4da8-b59d-283a9bbf812e) — San Francisco — posted 2026-05-26
+- [Full-Stack Software Engineer, Compute Foundations](https://jobs.ashbyhq.com/openai/1312f55e-ff56-4dab-9bf7-a91e2c157572) — San Francisco — posted 2026-05-26
+
+### Replit
+
+- [Senior Software Engineer, Fraud](https://jobs.ashbyhq.com/replit/649b284a-75c3-4d58-9958-4db2740e6f8d) — Foster City, CA — posted 2026-05-26
+- [Senior Software Engineer, Risk](https://jobs.ashbyhq.com/replit/3a657901-8b8e-47cd-a122-e45881eef124) — Foster City, CA — posted 2026-05-26
+- [Senior Software Engineer, Trust & Safety](https://jobs.ashbyhq.com/replit/75477d6d-82e2-413c-b355-ec9426e56555) — Foster City, CA — posted 2026-05-26
 
 ### Snowflake
 
 - [Software Engineer - Observe](https://careers.snowflake.com/us/en/job/SNCOUSA8A493EC92E24CBC985C9B175601A22EEXTERNALENUS07E50E2484AD269DE1D991362C/Software-Engineer-Observe) — Menlo Park, California, United States — posted —
-- [Senior Software Engineer - Snowflake Postgres](https://careers.snowflake.com/us/en/job/SNCOUSB9A03FE41C2B48A3BBE643C256EEE621EXTERNALENUS3ACC2938FBCB4DCBB51205B62D03DCEE/Senior-Software-Engineer-Snowflake-Postgres) — Menlo Park, California, United States — posted —
-- [Anti-Abuse Senior Software Engineer, Product Security](https://careers.snowflake.com/us/en/job/SNCOUS8591779BC15F4D7AA2D163154219F10AEXTERNALENUS6754DE86748548269AADEF24CCE405A9/Anti-Abuse-Senior-Software-Engineer-Product-Security) — Bellevue, Washington, United States — posted —
-- [Software Engineer - SnowConvert AI](https://careers.snowflake.com/us/en/job/SNCOUS22941A2A520545C1ADE0F272E1A245A3EXTERNALENUS2A928B93A5D44285A92C032FB389FAA2/Software-Engineer-SnowConvert-AI) — Menlo Park, California, United States — posted —
-- [Senior Software Engineer - Openflow](https://careers.snowflake.com/us/en/job/SNCOUS2B6F6B0290C14E87AB17C54F71654B88EXTERNALENUSAFA654DD0431403098781E48C27465BD/Senior-Software-Engineer-Openflow) — Menlo Park, California, United States — posted —
+
+### Twilio
+
+- [Senior Strategic Account Executive](https://job-boards.greenhouse.io/twilio/jobs/7957639) — Remote - US — posted 2026-05-26
 
 ### Zoox
 
