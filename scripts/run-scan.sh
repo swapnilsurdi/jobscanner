@@ -32,8 +32,10 @@ STEP 1 — Run the API fetchers SEQUENTIALLY (fast, no parallelism needed):
   - `node scripts/scan.mjs`                       (Greenhouse/Ashby/Lever)
   - `node scripts/scan-smartrecruiters.mjs`        (SmartRecruiters API)
 
-STEP 2 — Run the Playwright pass in PARALLEL. Dispatch ONE Haiku subagent PER careers_url-only company in a SINGLE message with multiple Agent tool calls (no sequential dispatch). Companies to scrape in parallel:
+STEP 2 — Run the Playwright pass in PARALLEL but CHUNKED to avoid memory pressure. Dispatch Haiku subagents in batches of 4 at a time (single message with 4 parallel Agent tool calls, await all, then next batch). Companies to scrape across all batches:
   Google, Meta, Amazon, Apple, Microsoft, NVIDIA, Atlassian, ServiceNow, Waymo, Zoox, Airbnb, Snowflake, EvenUp.
+  Suggested batching: [Google, Meta, Amazon, Apple] → [Microsoft, NVIDIA, Atlassian, ServiceNow] → [Waymo, Zoox, Airbnb, Snowflake] → [EvenUp].
+  This is critical: more than 4 concurrent Chromium contexts will OOM-kill background apps via macOS jetsam.
 
 For EACH subagent (Agent tool, subagent_type=general-purpose, model=haiku):
 
@@ -73,8 +75,12 @@ STEP 4 — Print a single summary line: "ATS: A new | Playwright: P new | Total 
 Do NOT run any cleanup, normalize, merge, README regen, or git commit — the wrapper script handles that.
 PROMPT_EOF
 
+# Least-privilege: no bypassPermissions. Only the tools this prompt actually uses,
+# and Bash is restricted to the two node scripts above. cwd is pinned to
+# /Users/swapnil/jobscanner, so file ops can't escape this folder.
 "$CLAUDE_BIN" -p "$PROMPT" \
-  --permission-mode bypassPermissions \
+  --permission-mode acceptEdits \
+  --allowedTools "Bash(node scripts/scan.mjs)" "Bash(node scripts/scan-smartrecruiters.mjs)" "Read" "Write" "Edit" "Task" "mcp__playwright__browser_navigate" "mcp__playwright__browser_snapshot" \
   --output-format text \
   > data/scan.log 2>&1 || {
     echo "claude exit $? — see data/scan.log" >&2
