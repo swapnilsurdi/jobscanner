@@ -1,5 +1,49 @@
 [
   {
+    "company": "Harvey",
+    "title": "Software Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/harvey/581cd358-0186-48a6-b76f-c76946c5c7a7",
+    "posted_at": "2026-05-27T22:27:07.852+00:00",
+    "discovered_at": "2026-05-27T23:11:52.273Z",
+    "source": "ashby",
+    "external_id": "581cd358-0186-48a6-b76f-c76946c5c7a7",
+    "last_seen_at": "2026-05-27T23:11:52.273Z"
+  },
+  {
+    "company": "OpenAI",
+    "title": "Software Engineer, Cyber Frontier",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b",
+    "posted_at": "2026-05-27T21:26:59.220+00:00",
+    "discovered_at": "2026-05-27T23:11:52.273Z",
+    "source": "ashby",
+    "external_id": "b7f46b2e-dfc7-4b06-8e5e-8468555c102b",
+    "last_seen_at": "2026-05-27T23:11:52.273Z"
+  },
+  {
+    "company": "Mercury",
+    "title": "Senior Risk Strategist - Card Fraud",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6007686004",
+    "posted_at": "2026-05-27T17:44:10-04:00",
+    "discovered_at": "2026-05-27T23:11:52.273Z",
+    "source": "greenhouse",
+    "external_id": "6007686004",
+    "last_seen_at": "2026-05-27T23:11:52.273Z"
+  },
+  {
+    "company": "Datadog",
+    "title": "Partner Technology Solutions Engineer",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297",
+    "posted_at": "2026-05-27T16:26:28-04:00",
+    "discovered_at": "2026-05-27T20:34:27.322Z",
+    "source": "greenhouse",
+    "external_id": "7961297",
+    "last_seen_at": "2026-05-27T20:34:27.322Z"
+  },
+  {
     "company": "Zoox",
     "title": "Software Engineer - Site Reliability Engineering",
     "location": "Foster City, CA",

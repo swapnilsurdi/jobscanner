@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-27T16:06:25.074Z
-**Active roles:** 50 of 132 across 7 companies
+**Last scan:** 2026-05-27T23:11:52.273Z
+**Active roles:** 50 of 136 across 10 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -39,8 +39,10 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
 - [Senior Software Engineer](https://jobs.apple.com/en-us/details/200664840-3956/senior-software-engineer?team=SFTWR) — Sunnyvale — posted —
 - [Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services?team=SFTWR) — Sunnyvale — posted —
-- [Senior Software Engineer - Field Diagnostics Engineering](https://jobs.apple.com/en-us/details/200661432-3956/senior-software-engineer-field-diagnostics-engineering?team=HRDWR) — Sunnyvale — posted —
-- [Senior Software Engineer, Enterprise Technology Services](https://jobs.apple.com/en-us/details/200664502-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR) — Sunnyvale — posted —
+
+### Datadog
+
+- [Partner Technology Solutions Engineer](https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297) — New York, New York, USA — posted 2026-05-27
 
 ### Google
 
@@ -59,16 +61,23 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer, Pixel Infrastructure, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/103688026671981254) — Mountain View, CA, USA — posted —
 - [Software Engineer, Cross-Platform Material](https://www.google.com/about/careers/applications/jobs/results/122948486462087878) — San Francisco, CA, USA — posted —
 
+### Harvey
+
+- [Software Engineer](https://jobs.ashbyhq.com/harvey/581cd358-0186-48a6-b76f-c76946c5c7a7) — San Francisco — posted 2026-05-27
+
+### Mercury
+
+- [Senior Risk Strategist - Card Fraud](https://job-boards.greenhouse.io/mercury/jobs/6007686004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-05-27
+
 ### NVIDIA
 
 - [Senior Software Engineer - HPC](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---HPC_JR2013372) — US, CA, Santa Clara — posted —
 - [Tegra System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2015299) — US, CA, Santa Clara — posted —
 - [System Software Engineer, GeForce Software](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GeForce-Software_JR2015749-1) — US, CA, Santa Clara — posted —
 
-### Replit
+### OpenAI
 
-- [Senior Software Engineer, Fraud](https://jobs.ashbyhq.com/replit/649b284a-75c3-4d58-9958-4db2740e6f8d) — Foster City, CA — posted 2026-05-26
-- [Senior Software Engineer, Risk](https://jobs.ashbyhq.com/replit/3a657901-8b8e-47cd-a122-e45881eef124) — Foster City, CA — posted 2026-05-26
+- [Software Engineer, Cyber Frontier](https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b) — San Francisco — posted 2026-05-27
 
 ### Snowflake
 
