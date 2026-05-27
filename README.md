@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-27T03:54:07.767Z
-**Active roles:** 50 of 91 across 12 companies
+**Last scan:** 2026-05-27T06:49:49.341Z
+**Active roles:** 50 of 96 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -11,6 +11,9 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Amazon
 
+- [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro) — WA, USA — posted —
+- [Software Engineer](https://amazon.jobs/en/jobs/3093439/software-engineer) — WA, USA — posted —
+- [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — WA, USA — posted —
 - [Software Engineer, Creator Sponsorships](https://amazon.jobs/en/jobs/3145977/software-engineer-creator-sponsorships) — San Francisco, CA, USA — posted —
 - [Senior Software Engineer, AWS](https://amazon.jobs/en/jobs/3208442/senior-software-engineer-aws) — San Francisco, CA, USA — posted —
 - [Software Engineer, Ring](https://amazon.jobs/en/jobs/10423547/software-engineer-ring) — San Francisco, CA, USA — posted —
@@ -55,11 +58,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Software Engineer, Cross-Platform Material](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Cross-Platform%20Material) — San Francisco, CA, USA — posted —
 - [Software Engineer, Cloud SDK](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Cloud%20SDK) — Kirkland, WA, USA — posted —
-- [Software Engineer, Decoding, Quantum AI](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Decoding%2C%20Quantum%20AI) — Los Angeles, CA, USA — posted —
-- [Software Engineer, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Platforms%20and%20Devices) — San Diego, CA, USA — posted —
-- [Software Engineer, Compiling, Quantum AI](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Compiling%2C%20Quantum%20AI) — Mountain View, CA, USA — posted —
-- [Security Software Engineer, Emerging On-prem AI infrastructure](https://www.google.com/about/careers/applications/jobs/results/?q=Security%20Software%20Engineer%2C%20Emerging%20On-prem%20AI%20infrastructure) — Reston, VA, USA — posted —
-- [Software Engineer III, Technical Infrastructure](https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%20III%2C%20Technical%20Infrastructure) — Sunnyvale, CA, USA — posted —
 
 ### NVIDIA
 
@@ -85,6 +83,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Snowflake
 
+- [Forward Deployment Senior Software Engineer](https://careers.snowflake.com/us/en/job/SNCOUS68A2FB6805104BB3B5E1A96543F1FEB0EXTERNALENUS13FE38E8D1304AB2BEA6F586E30B7C5E/Forward-Deployment-Senior-Software-Engineer) — McLean, Virginia, United States — posted —
 - [Software Engineer - Observe](https://careers.snowflake.com/us/en/job/SNCOUSA8A493EC92E24CBC985C9B175601A22EEXTERNALENUS07E50E2484AD269DE1D991362C/Software-Engineer-Observe) — Menlo Park, California, United States — posted —
 
 ### Twilio
@@ -93,6 +92,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Zoox
 
+- [Software Engineer - Site Reliability Engineering](https://jobs.lever.co/zoox) — Foster City, CA — posted —
 - [AV Safety Software Engineer](https://jobs.lever.co/zoox/78320bf3-5c38-4583-a16b-e67b676cc1f8) — FOSTER CITY, CA — posted —
 
 ---

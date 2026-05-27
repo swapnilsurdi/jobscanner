@@ -1,5 +1,60 @@
 [
   {
+    "company": "Amazon",
+    "title": "Software Engineer, EC2 Nitro",
+    "location": "WA, USA",
+    "url": "https://amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T06:49:49.341Z",
+    "source": "playwright",
+    "external_id": "117d55716b1c",
+    "last_seen_at": "2026-05-27T06:49:49.341Z"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer",
+    "location": "WA, USA",
+    "url": "https://amazon.jobs/en/jobs/3093439/software-engineer",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T06:49:49.341Z",
+    "source": "playwright",
+    "external_id": "1670d064ae09",
+    "last_seen_at": "2026-05-27T06:49:49.341Z"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer, EC2 Nitro",
+    "location": "WA, USA",
+    "url": "https://amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T06:49:49.341Z",
+    "source": "playwright",
+    "external_id": "874ea2076cfb",
+    "last_seen_at": "2026-05-27T06:49:49.341Z"
+  },
+  {
+    "company": "Snowflake",
+    "title": "Forward Deployment Senior Software Engineer",
+    "location": "McLean, Virginia, United States",
+    "url": "https://careers.snowflake.com/us/en/job/SNCOUS68A2FB6805104BB3B5E1A96543F1FEB0EXTERNALENUS13FE38E8D1304AB2BEA6F586E30B7C5E/Forward-Deployment-Senior-Software-Engineer",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T06:49:49.341Z",
+    "source": "playwright",
+    "external_id": "b320f299f734",
+    "last_seen_at": "2026-05-27T06:49:49.341Z"
+  },
+  {
+    "company": "Zoox",
+    "title": "Software Engineer - Site Reliability Engineering",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T06:49:49.341Z",
+    "source": "playwright",
+    "external_id": "089fb26b396e",
+    "last_seen_at": "2026-05-27T06:49:49.341Z"
+  },
+  {
     "company": "Apple",
     "title": "Software Engineer, Apple Services Engineering",
     "location": "San Francisco",
