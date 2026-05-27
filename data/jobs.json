@@ -10,6 +10,16 @@
     "external_id": "202eb061-23d7-4a58-80c8-bc3b41e56d39"
   },
   {
+    "company": "Datadog",
+    "title": "Senior Software Engineer- Linux/eBPF",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461",
+    "posted_at": "2026-05-26T08:33:13-04:00",
+    "discovered_at": "2026-05-26T16:24:04.374Z",
+    "source": "greenhouse",
+    "external_id": "7957461"
+  },
+  {
     "company": "Harvey",
     "title": "Senior Analytics Engineer, Product",
     "location": "San Francisco",
@@ -20,273 +30,223 @@
     "external_id": "754bb046-a622-40dd-8416-0af87f1f0301"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer, Cross-Platform Material",
+    "company": "Amazon",
+    "title": "Software Engineer",
     "location": "San Francisco, CA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Cross-Platform%20Material",
+    "url": "https://amazon.jobs/en/jobs/3092179/software-engineer",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "129a637d42ef"
+    "external_id": "fda74f6c1cbc"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer III, Embedded Systems/Firmware, Platforms and Devices",
-    "location": "Mountain View, CA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%20III%2C%20Embedded%20Systems%2FFirmware%2C%20Platforms%20and%20Devices",
+    "company": "Amazon",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/10386857/software-engineer",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "54cc5771db6e"
+    "external_id": "ef280ca345a3"
   },
   {
-    "company": "Google",
-    "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
-    "location": "Reston, VA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Security%20Software%20Engineer%2C%20Emerging%20On-prem%20AI%20infrastructure",
+    "company": "Amazon",
+    "title": "Software Engineer, Ring",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/10423547/software-engineer-ring",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "691dc9f22635"
+    "external_id": "5f483e99d5d3"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "location": "Sunnyvale, CA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%20III%2C%20Technical%20Infrastructure",
+    "company": "Amazon",
+    "title": "Software Engineer, Ring",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/10423551/software-engineer-ring",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "c7577c7ffc45"
+    "external_id": "e924fc5be751"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer, Compiling, Quantum AI",
-    "location": "Mountain View, CA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Compiling%2C%20Quantum%20AI",
+    "company": "Amazon",
+    "title": "Software Engineer, Safety",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/10390629/software-engineer-safety",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "625f8dd0d98d"
+    "external_id": "e28957df8735"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer, Full Stack, gUP Engineering",
-    "location": "Pittsburgh, PA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Full%20Stack%2C%20gUP%20Engineering",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Annapurna",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/10413540/embedded-software-engineer-annapurna",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "f1b35a5429d1"
+    "external_id": "98bc7a3a9a36"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer, Cloud SDK",
-    "location": "Kirkland, WA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Cloud%20SDK",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Graviton",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/3207894/embedded-software-engineer-graviton",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "1f8cb4f7c92c"
+    "external_id": "d4d593cce940"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer, GCS, Transfer Appliance Infrastructure",
-    "location": "Sunnyvale, CA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20GCS%2C%20Transfer%20Appliance%20Infrastructure",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, AWS",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/3208442/senior-software-engineer-aws",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "cc874c0c54b8"
+    "external_id": "5d89b0f9b675"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer, Decoding, Quantum AI",
-    "location": "Los Angeles, CA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Decoding%2C%20Quantum%20AI",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, Annapurna",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/3166256/senior-software-engineer-annapurna",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "438c73ce8aed"
+    "external_id": "9b7d217a5853"
   },
   {
-    "company": "Google",
-    "title": "Software Engineer, Platforms and Devices",
-    "location": "San Diego, CA, USA",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=Software%20Engineer%2C%20Platforms%20and%20Devices",
+    "company": "Amazon",
+    "title": "Software Engineer, Translation Services",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/3201861/software-engineer-translation-services",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "451519fc5efe"
+    "external_id": "61283f2f10b9"
+  },
+  {
+    "company": "Amazon",
+    "title": "Chip Validation Software Engineer",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/10409569/chip-validation-software-engineer",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "8ba5166e299f"
+  },
+  {
+    "company": "Amazon",
+    "title": "Software Engineer, Creator Sponsorships",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/3145977/software-engineer-creator-sponsorships",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "27a033e05c0a"
+  },
+  {
+    "company": "Amazon",
+    "title": "Embedded Software Engineer - Nitro",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/10429258/embedded-software-engineer-nitro",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "23a04f4952f2"
+  },
+  {
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Graviton",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/3203116/embedded-software-engineer-graviton",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "9142574e5373"
+  },
+  {
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Ring",
+    "location": "San Francisco, CA, USA",
+    "url": "https://amazon.jobs/en/jobs/3201662/embedded-software-engineer-ring",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "d8c958f4d9ce"
+  },
+  {
+    "company": "Apple",
+    "title": "Software Engineer, Infrastructure Services",
+    "location": "Sunnyvale",
+    "url": "https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "8a83357eb802"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - BaseOS",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---BaseOS_JR2012266",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "5bc6f0a5f582"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer - Omniverse",
+    "location": "US, CA, Remote",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Systems-Software-Engineer---Omniverse_JR2018165",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "6a6124e45c5b"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer, Machine Learning",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Machine-Learning_JR2018315",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "75e56a088a82"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Cloud Streaming - GeForce NOW",
+    "location": "US, CA, Remote",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--Cloud-Streaming---GeForce-NOW_JR2015957",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "b689e7a8d57e"
+  },
+  {
+    "company": "Zoox",
+    "title": "AV Safety Software Engineer",
+    "location": "FOSTER CITY, CA",
+    "url": "https://jobs.lever.co/zoox/78320bf3-5c38-4583-a16b-e67b676cc1f8",
+    "posted_at": "",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
+    "source": "playwright",
+    "external_id": "1eff979458de"
   },
   {
     "company": "Snowflake",
-    "title": "Software Engineer - SnowConvert AI",
+    "title": "Software Engineer - Observe",
     "location": "Menlo Park, California, United States",
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUS22941A2A520545C1ADE0F272E1A245A3EXTERNALENUS2A928B93A5D44285A92C032FB389FAA2/Software-Engineer-SnowConvert-AI",
+    "url": "https://careers.snowflake.com/us/en/job/SNCOUSA8A493EC92E24CBC985C9B175601A22EEXTERNALENUS07E50E2484AD269DE1D991362C/Software-Engineer-Observe",
     "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
+    "discovered_at": "2026-05-27T01:43:06.966Z",
     "source": "playwright",
-    "external_id": "4b3b42963cb4"
-  },
-  {
-    "company": "Snowflake",
-    "title": "Senior Software Engineer - Openflow",
-    "location": "Menlo Park, California, United States",
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUS2B6F6B0290C14E87AB17C54F71654B88EXTERNALENUSAFA654DD0431403098781E48C27465BD/Senior-Software-Engineer-Openflow",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "c432abaa49c8"
-  },
-  {
-    "company": "Snowflake",
-    "title": "Anti-Abuse Senior Software Engineer, Product Security",
-    "location": "Bellevue, Washington, United States",
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUS8591779BC15F4D7AA2D163154219F10AEXTERNALENUS6754DE86748548269AADEF24CCE405A9/Anti-Abuse-Senior-Software-Engineer-Product-Security",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "11f90bc39770"
-  },
-  {
-    "company": "Snowflake",
-    "title": "Senior Software Engineer - Snowflake Postgres",
-    "location": "Menlo Park, California, United States",
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUSB9A03FE41C2B48A3BBE643C256EEE621EXTERNALENUS3ACC2938FBCB4DCBB51205B62D03DCEE/Senior-Software-Engineer-Snowflake-Postgres",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "068a7de9b44e"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Backend Engineer, Cases Product",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/7a6f65a8-8a3f-4677-bfc4-9148eb5a96c9",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "21f7f5efeeff"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Backend Engineer, New Products",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/849d5856-a18f-47b6-b6d6-957ec7afb492",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "bfff9c076d6a"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Frontend Engineer, Cases Product",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/bbde0f35-8b4e-490e-8aa0-9f6d4c736f7d",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "7935dabbcafe"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Frontend Engineer, New Products",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/ba31da97-864c-4326-804f-ed89a48116e9",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "8e116280d9fb"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Backend Engineer, Cases Product",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/93ee7f2d-e8ef-4989-8759-92aafa837fb9",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "d4e6e4503df3"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Backend Engineer, Entities",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/14003192-676e-44df-998d-e2c5e01c2f69",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "87ab03c4f6cc"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Backend Engineer, New Products",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/2d74625d-0348-48f8-8f41-3cb2bb94f4dd",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "8d75f4a06c8d"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Backend Engineer, New Products",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/873559ab-5c74-4585-ad3c-7cbc0fe7c9fd",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "481b9b9f9980"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Frontend Engineer, Cases Product",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/7682dbef-ffb0-4669-abc9-fb480aacb6bb",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "ef1279613b5e"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Frontend Engineer, Client Portal",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/2a604b29-d10c-4bb3-8be4-8d2706a0507a",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "3849afd37209"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Frontend Engineer, New Products",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/a864f40b-45ee-4381-a6e0-92bd9cfc4869",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "65fc5047d878"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Frontend Engineer, New Products",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/ce4528ff-4b07-4219-a8d5-0a23a24a8f01",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "da40b8fdf131"
-  },
-  {
-    "company": "EvenUp",
-    "title": "Senior Software Engineer, Builders",
-    "location": "San Francisco (hybrid)",
-    "url": "https://jobs.ashbyhq.com/evenup/cf71aee9-e1b2-4a6e-a8a5-a6e93d2f3c2a",
-    "posted_at": "",
-    "discovered_at": "2026-05-26T05:38:27.000Z",
-    "source": "playwright",
-    "external_id": "6b7081612410"
+    "external_id": "5c422e4926d0"
   }
 ]

@@ -2,12 +2,33 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-26T05:38:27.000Z
-**Active roles:** 50 of 59 across 6 companies
+**Last scan:** 2026-05-27T01:43:06.966Z
+**Active roles:** 50 of 77 across 10 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
 ## Latest jobs
+
+### Amazon
+
+- [Software Engineer, Creator Sponsorships](https://amazon.jobs/en/jobs/3145977/software-engineer-creator-sponsorships) — San Francisco, CA, USA — posted —
+- [Senior Software Engineer, AWS](https://amazon.jobs/en/jobs/3208442/senior-software-engineer-aws) — San Francisco, CA, USA — posted —
+- [Software Engineer, Ring](https://amazon.jobs/en/jobs/10423547/software-engineer-ring) — San Francisco, CA, USA — posted —
+- [Software Engineer, Translation Services](https://amazon.jobs/en/jobs/3201861/software-engineer-translation-services) — San Francisco, CA, USA — posted —
+- [Chip Validation Software Engineer](https://amazon.jobs/en/jobs/10409569/chip-validation-software-engineer) — San Francisco, CA, USA — posted —
+- [Senior Software Engineer, Annapurna](https://amazon.jobs/en/jobs/3166256/senior-software-engineer-annapurna) — San Francisco, CA, USA — posted —
+- [Software Engineer, Safety](https://amazon.jobs/en/jobs/10390629/software-engineer-safety) — San Francisco, CA, USA — posted —
+- [Software Engineer, Ring](https://amazon.jobs/en/jobs/10423551/software-engineer-ring) — San Francisco, CA, USA — posted —
+- [Software Engineer](https://amazon.jobs/en/jobs/10386857/software-engineer) — San Francisco, CA, USA — posted —
+- [Software Engineer](https://amazon.jobs/en/jobs/3092179/software-engineer) — San Francisco, CA, USA — posted —
+
+### Apple
+
+- [Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services) — Sunnyvale — posted —
+
+### Datadog
+
+- [Senior Software Engineer- Linux/eBPF](https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461) — Portugal, Remote — posted 2026-05-26
 
 ### EvenUp
 
@@ -39,6 +60,13 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.metacareers.com/profile/job_details/1154738753397824) — Sunnyvale, CA — posted —
 
+### NVIDIA
+
+- [Senior Software Engineer - BaseOS](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---BaseOS_JR2012266) — US, CA, Santa Clara — posted —
+- [Senior Systems Software Engineer - Omniverse](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Systems-Software-Engineer---Omniverse_JR2018165) — US, CA, Remote — posted —
+- [Senior Systems Software Engineer, Machine Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Machine-Learning_JR2018315) — US, CA, Santa Clara — posted —
+- [Senior Software Engineer, Cloud Streaming - GeForce NOW](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer--Cloud-Streaming---GeForce-NOW_JR2015957) — US, CA, Remote — posted —
+
 ### ServiceNow
 
 - [Senior Software Engineer, Search Infrastructure - Moveworks](https://careers.servicenow.com/jobs/744000123804421/senior-software-engineer-search-infrastructure-moveworks/) — Mountain View — posted —
@@ -48,34 +76,18 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer - Moveworks](https://careers.servicenow.com/jobs/744000123281859/software-engineer-moveworks/) — Mountain View — posted —
 - [Software Engineer, DevOps - Moveworks](https://careers.servicenow.com/jobs/744000123804310/software-engineer-devops-moveworks/) — Mountain View — posted —
 - [Software Engineer, Agentic AI Product - Moveworks](https://careers.servicenow.com/jobs/744000107221865/software-engineer-agentic-ai-product-moveworks/) — Mountain View — posted —
-- [Sr. Software Engineer, Frontend/Fullstack - Moveworks](https://careers.servicenow.com/jobs/744000125226734/sr-software-engineer-frontendfullstack-moveworks/) — Mountain View — posted —
-- [Senior Software Engineer, Agentic AI Platform - Moveworks](https://careers.servicenow.com/jobs/744000127038079/senior-software-engineer-agentic-ai-platform-moveworks/) — Mountain View — posted —
 
 ### Snowflake
 
+- [Software Engineer - Observe](https://careers.snowflake.com/us/en/job/SNCOUSA8A493EC92E24CBC985C9B175601A22EEXTERNALENUS07E50E2484AD269DE1D991362C/Software-Engineer-Observe) — Menlo Park, California, United States — posted —
 - [Senior Software Engineer - Snowflake Postgres](https://careers.snowflake.com/us/en/job/SNCOUSB9A03FE41C2B48A3BBE643C256EEE621EXTERNALENUS3ACC2938FBCB4DCBB51205B62D03DCEE/Senior-Software-Engineer-Snowflake-Postgres) — Menlo Park, California, United States — posted —
 - [Anti-Abuse Senior Software Engineer, Product Security](https://careers.snowflake.com/us/en/job/SNCOUS8591779BC15F4D7AA2D163154219F10AEXTERNALENUS6754DE86748548269AADEF24CCE405A9/Anti-Abuse-Senior-Software-Engineer-Product-Security) — Bellevue, Washington, United States — posted —
 - [Software Engineer - SnowConvert AI](https://careers.snowflake.com/us/en/job/SNCOUS22941A2A520545C1ADE0F272E1A245A3EXTERNALENUS2A928B93A5D44285A92C032FB389FAA2/Software-Engineer-SnowConvert-AI) — Menlo Park, California, United States — posted —
 - [Senior Software Engineer - Openflow](https://careers.snowflake.com/us/en/job/SNCOUS2B6F6B0290C14E87AB17C54F71654B88EXTERNALENUSAFA654DD0431403098781E48C27465BD/Senior-Software-Engineer-Openflow) — Menlo Park, California, United States — posted —
-- [Software Engineer - Notebooks](https://careers.snowflake.com/us/en/job/SNCOUS7C44305F2344451F8EDAFC433114CA7AEXTERNALENUS3272836F807D4306AF0783A848803E01/Software-Engineer-Notebooks) — Bellevue, Washington, United States — posted —
-- [Software Engineer - APG](https://careers.snowflake.com/us/en/job/SNCOUS7791AB6A66D34A20BCE877FFC470EA41EXTERNALENUS5F4AE8D3BF84430D8F9F325F14DDF947/Software-Engineer-APG) — Menlo Park, California, United States — posted —
-- [Software Engineer - Streamlit](https://careers.snowflake.com/us/en/job/SNCOUS2B34F12F1DF44347A5AD660956C57645EXTERNALENUS3C01856463C04179BA91F42CE75A40FA/Software-Engineer-Streamlit) — Bellevue, Washington, United States — posted —
-- [Software Engineer - Observe](https://careers.snowflake.com/us/en/job/SNCOUSA8A493EC92E24CBC985C9B175601A22EEXTERNALENUS07E50E2484AC4002AD269DE1D991362C/Software-Engineer-Observe) — Menlo Park, California, United States — posted —
-- [Software Engineer, Data Governance](https://careers.snowflake.com/us/en/job/SNCOUS6C0368BABDCF4D8FB5BAC47B389DD77AEXTERNALENUSD8816F3F89D64434BC24EAF4169C1D95/Software-Engineer-Data-Governance) — Menlo Park, California, United States — posted —
 
-### Waymo
+### Zoox
 
-- [Software Engineer, Bulk/Interactive Inference](https://careers.withwaymo.com/jobs/software-engineer-bulk-interactive-inference-mountain-view-california-united-states) — Mountain View, California — posted —
-- [Onboard Frameworks Software Engineer](https://careers.withwaymo.com/jobs/onboard-frameworks-software-engineer-mountain-view-california-united-states) — Mountain View, California — posted —
-- [Software Engineer, Onboard Reliability Infra](https://careers.withwaymo.com/jobs/software-engineer-onboard-reliability-infra-mountain-view-california-united-states) — Mountain View, California — posted —
-- [Senior Software Engineer, Eval Authoring APIs](https://careers.withwaymo.com/jobs/senior-software-engineer-eval-authoring-apis-mountain-view-california-united-states) — Mountain View, California — posted —
-- [Software Engineer, Fleet Orchestration Core](https://careers.withwaymo.com/jobs/software-engineer-fleet-orchestration-core-mountain-view-california-united-states-san-francisco) — Mountain View, California, San Francisco, California — posted —
-- [Software Engineer, Simulator Evaluation](https://careers.withwaymo.com/jobs/software-engineer-simulator-evaluation-mountain-view-california-united-states) — Mountain View, California — posted —
-- [Senior Software Engineer, Agentic Workflows](https://careers.withwaymo.com/jobs/senior-software-engineer-agentic-workflows-mountain-view-california-united-states) — Mountain View, California — posted —
-- [Software Engineer, Perception Evaluation](https://careers.withwaymo.com/jobs/software-engineer-perception-evaluation-mountain-view-california-united-states-d9b9557a-1cd1-4ac1-a651-0097192805c3) — Mountain View, California — posted —
-- [Onboard Developer Platform Software Engineer](https://careers.withwaymo.com/jobs/onboard-developer-platform-software-engineer-mountain-view-california-united-states) — Mountain View, California — posted —
-- [Software Engineer, Fleet Monitoring](https://careers.withwaymo.com/jobs/software-engineer-fleet-monitoring-san-francisco-california-united-states-mountain-view) — Mountain View, California, San Francisco, California — posted —
-- [Software Engineer Weather Monitoring](https://careers.withwaymo.com/jobs/software-engineer-weather-monitoring-mountain-view-california-united-states-san-francisco) — Mountain View, California, San Francisco, California — posted —
+- [AV Safety Software Engineer](https://jobs.lever.co/zoox/78320bf3-5c38-4583-a16b-e67b676cc1f8) — FOSTER CITY, CA — posted —
 
 ---
 
