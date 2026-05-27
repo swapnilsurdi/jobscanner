@@ -1,5 +1,15 @@
 [
   {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7957639",
+    "posted_at": "2026-05-26T15:32:26-04:00",
+    "discovered_at": "2026-05-27T02:15:40.752Z",
+    "source": "greenhouse",
+    "external_id": "7957639"
+  },
+  {
     "company": "OpenAI",
     "title": "Software Engineer, Build Systems / CI",
     "location": "San Francisco",
@@ -28,16 +38,6 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "0b212a4a-6709-4da8-b59d-283a9bbf812e"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7957639",
-    "posted_at": "2026-05-26T15:32:26-04:00",
-    "discovered_at": "2026-05-27T02:15:40.752Z",
-    "source": "greenhouse",
-    "external_id": "7957639"
   },
   {
     "company": "Nuro",
