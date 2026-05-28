@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-28T18:42:18.708Z
-**Active roles:** 50 of 139 across 12 companies
+**Last scan:** 2026-05-28T19:51:36.594Z
+**Active roles:** 50 of 140 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -35,7 +35,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Apple
 
 - [Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
-- [Senior Software Engineer (Voice Platform), Customer Systems](https://jobs.apple.com/en-us/details/200663101-3956/senior-software-engineer-voice-platform-customer-systems?team=SFTWR) — Sunnyvale — posted —
 
 ### Cursor
 
@@ -83,6 +82,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### OpenAI
 
+- [Staff / Senior Staff Backend Software Engineer, Workspace Agents](https://jobs.ashbyhq.com/openai/57f0728b-7747-471e-a8d5-9d0f763b057c) — San Francisco — posted 2026-05-28
 - [Software Engineer, Cyber Frontier](https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b) — San Francisco — posted 2026-05-27
 
 ### Snowflake
