@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-28T08:07:55.305Z
-**Active roles:** 50 of 137 across 11 companies
+**Last scan:** 2026-05-28T17:29:05.307Z
+**Active roles:** 50 of 138 across 11 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -37,7 +37,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
 - [Senior Software Engineer (Voice Platform), Customer Systems](https://jobs.apple.com/en-us/details/200663101-3956/senior-software-engineer-voice-platform-customer-systems?team=SFTWR) — Sunnyvale — posted —
 - [Senior Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
-- [Senior Software Engineer](https://jobs.apple.com/en-us/details/200664840-3956/senior-software-engineer?team=SFTWR) — Sunnyvale — posted —
 
 ### Cursor
 
@@ -70,6 +69,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Mercury
 
+- [Senior People Partner - Risk & Banking Ops](https://job-boards.greenhouse.io/mercury/jobs/6007723004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-05-28
 - [Senior Risk Strategist - Card Fraud](https://job-boards.greenhouse.io/mercury/jobs/6007686004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-05-27
 
 ### NVIDIA
