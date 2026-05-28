@@ -1,5 +1,15 @@
 [
   {
+    "company": "Mercury",
+    "title": "Senior Risk Strategist - Card Fraud",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6007686004",
+    "posted_at": "2026-05-27T17:44:10-04:00",
+    "discovered_at": "2026-05-27T23:11:52.273Z",
+    "source": "greenhouse",
+    "external_id": "6007686004"
+  },
+  {
     "company": "Twilio",
     "title": "Senior Strategic Account Executive",
     "location": "Remote - US",
@@ -70,14 +80,14 @@
     "external_id": "27618f18-d516-42c0-a321-592f18606431"
   },
   {
-    "company": "Mercury",
-    "title": "Senior Risk Strategist - Card Fraud",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6007686004",
-    "posted_at": "2026-05-27T17:44:10-04:00",
-    "discovered_at": "2026-05-27T23:11:52.273Z",
+    "company": "Nuro",
+    "title": "Senior Software Engineer, FinOps",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7958983",
+    "posted_at": "2026-05-26T18:41:00-04:00",
+    "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "greenhouse",
-    "external_id": "6007686004"
+    "external_id": "7958983"
   },
   {
     "company": "Datadog",
@@ -88,16 +98,6 @@
     "discovered_at": "2026-05-27T20:34:27.322Z",
     "source": "greenhouse",
     "external_id": "7961297"
-  },
-  {
-    "company": "Nuro",
-    "title": "Senior Software Engineer, FinOps",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7958983",
-    "posted_at": "2026-05-26T18:41:00-04:00",
-    "discovered_at": "2026-05-27T02:15:40.752Z",
-    "source": "greenhouse",
-    "external_id": "7958983"
   },
   {
     "company": "Cursor",
