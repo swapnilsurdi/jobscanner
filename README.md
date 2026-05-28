@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-28T17:29:05.307Z
-**Active roles:** 50 of 138 across 11 companies
+**Last scan:** 2026-05-28T18:42:18.708Z
+**Active roles:** 50 of 139 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -36,7 +36,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
 - [Senior Software Engineer (Voice Platform), Customer Systems](https://jobs.apple.com/en-us/details/200663101-3956/senior-software-engineer-voice-platform-customer-systems?team=SFTWR) — Sunnyvale — posted —
-- [Senior Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
 
 ### Cursor
 
@@ -77,6 +76,10 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer - HPC](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---HPC_JR2013372) — US, CA, Santa Clara — posted —
 - [Tegra System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2015299) — US, CA, Santa Clara — posted —
 - [System Software Engineer, GeForce Software](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GeForce-Software_JR2015749-1) — US, CA, Santa Clara — posted —
+
+### Nuro
+
+- [Technical Lead, Evaluation Infrastructure](https://nuro.ai/careersitem?gh_jid=7963886) — Mountain View, California (HQ) — posted 2026-05-28
 
 ### OpenAI
 
