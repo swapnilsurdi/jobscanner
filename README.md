@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-27T23:11:52.273Z
-**Active roles:** 50 of 136 across 10 companies
+**Last scan:** 2026-05-28T08:07:55.305Z
+**Active roles:** 50 of 137 across 11 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -38,7 +38,10 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer (Voice Platform), Customer Systems](https://jobs.apple.com/en-us/details/200663101-3956/senior-software-engineer-voice-platform-customer-systems?team=SFTWR) — Sunnyvale — posted —
 - [Senior Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
 - [Senior Software Engineer](https://jobs.apple.com/en-us/details/200664840-3956/senior-software-engineer?team=SFTWR) — Sunnyvale — posted —
-- [Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200648325-3956/software-engineer-infrastructure-services?team=SFTWR) — Sunnyvale — posted —
+
+### Cursor
+
+- [Analytics Platform Engineer](https://jobs.ashbyhq.com/cursor/685bf26b-9119-4c89-8ff5-4f5adb748b88) — San Francisco — posted 2026-05-28
 
 ### Datadog
 
