@@ -8,7 +8,7 @@
     "discovered_at": "2026-05-28T19:51:36.594Z",
     "source": "ashby",
     "external_id": "57f0728b-7747-471e-a8d5-9d0f763b057c",
-    "last_seen_at": "2026-05-28T22:18:07.386Z"
+    "last_seen_at": "2026-05-29T03:22:51.182Z"
   },
   {
     "company": "Nuro",
@@ -63,7 +63,7 @@
     "discovered_at": "2026-05-27T23:11:52.273Z",
     "source": "ashby",
     "external_id": "b7f46b2e-dfc7-4b06-8e5e-8468555c102b",
-    "last_seen_at": "2026-05-28T22:18:07.386Z"
+    "last_seen_at": "2026-05-29T03:22:51.182Z"
   },
   {
     "company": "Mercury",
@@ -668,7 +668,7 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "0b212a4a-6709-4da8-b59d-283a9bbf812e",
-    "last_seen_at": "2026-05-28T22:18:07.386Z"
+    "last_seen_at": "2026-05-29T03:22:51.182Z"
   },
   {
     "company": "OpenAI",
@@ -679,7 +679,7 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "1312f55e-ff56-4dab-9bf7-a91e2c157572",
-    "last_seen_at": "2026-05-28T22:18:07.386Z"
+    "last_seen_at": "2026-05-29T03:22:51.182Z"
   },
   {
     "company": "Twilio",
