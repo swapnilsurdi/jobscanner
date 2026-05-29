@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-29T17:09:53.384Z
-**Active roles:** 50 of 142 across 11 companies
+**Last scan:** 2026-05-29T21:10:23.652Z
+**Active roles:** 50 of 144 across 11 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -30,7 +30,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10386614/senior-software-engineer-fauna) — New York, NY, USA — posted —
 - [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro) — WA, USA — posted —
 - [Software Engineer](https://amazon.jobs/en/jobs/3093439/software-engineer) — WA, USA — posted —
-- [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — WA, USA — posted —
 
 ### Cursor
 
@@ -39,6 +38,8 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Datadog
 
+- [Senior Software Engineer - Infrastructure R&D](https://careers.datadoghq.com/detail/7967161/?gh_jid=7967161) — Denver, Colorado, USA; New York, New York, USA — posted 2026-05-29
+- [Senior Software Engineer - Environments Accelerator](https://careers.datadoghq.com/detail/7966967/?gh_jid=7966967) — Denver, Colorado, USA; New York, New York, USA — posted 2026-05-29
 - [Staff Applied Scientist - Agentic Interfaces](https://careers.datadoghq.com/detail/7964141/?gh_jid=7964141) — New York, New York, USA — posted 2026-05-29
 - [Partner Technology Solutions Engineer](https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297) — New York, New York, USA — posted 2026-05-27
 
@@ -86,7 +87,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Snowflake
 
 - [Software Engineer - Backend](https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend) — Menlo Park, California, United States — posted —
-- [Forward Deployment Senior Software Engineer](https://careers.snowflake.com/us/en/job/SNCOUS68A2FB6805104BB3B5E1A96543F1FEB0EXTERNALENUS13FE38E8D1304AB2BEA6F586E30B7C5E/Forward-Deployment-Senior-Software-Engineer) — McLean, Virginia, United States — posted —
 
 ### Zoox
 
