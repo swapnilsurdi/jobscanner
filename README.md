@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-28T19:51:36.594Z
-**Active roles:** 50 of 140 across 12 companies
+**Last scan:** 2026-05-29T17:09:53.384Z
+**Active roles:** 50 of 142 across 11 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -32,16 +32,14 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer](https://amazon.jobs/en/jobs/3093439/software-engineer) — WA, USA — posted —
 - [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — WA, USA — posted —
 
-### Apple
-
-- [Software Engineer, Apple Services Engineering](https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR) — San Francisco — posted —
-
 ### Cursor
 
+- [Senior Staff Finance Systems Engineeer](https://jobs.ashbyhq.com/cursor/f2f84157-dfca-490b-801e-12fb37a02809) — San Francisco — posted 2026-05-29
 - [Analytics Platform Engineer](https://jobs.ashbyhq.com/cursor/685bf26b-9119-4c89-8ff5-4f5adb748b88) — San Francisco — posted 2026-05-28
 
 ### Datadog
 
+- [Staff Applied Scientist - Agentic Interfaces](https://careers.datadoghq.com/detail/7964141/?gh_jid=7964141) — New York, New York, USA — posted 2026-05-29
 - [Partner Technology Solutions Engineer](https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297) — New York, New York, USA — posted 2026-05-27
 
 ### Google
@@ -93,7 +91,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Zoox
 
 - [Software Engineer - Site Reliability Engineering](https://jobs.lever.co/zoox/357b4f2a-1dd8-4a53-8d39-9c898cdc2d79) — Foster City, CA — posted —
-- [Software Engineer - Site Reliability Engineering](https://jobs.lever.co/zoox) — Foster City, CA — posted —
 
 ---
 

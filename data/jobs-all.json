@@ -1,5 +1,27 @@
 [
   {
+    "company": "Cursor",
+    "title": "Senior Staff Finance Systems Engineeer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/f2f84157-dfca-490b-801e-12fb37a02809",
+    "posted_at": "2026-05-29T16:09:51.941+00:00",
+    "discovered_at": "2026-05-29T17:09:53.384Z",
+    "source": "ashby",
+    "external_id": "f2f84157-dfca-490b-801e-12fb37a02809",
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
+  },
+  {
+    "company": "Datadog",
+    "title": "Staff Applied Scientist - Agentic Interfaces",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7964141/?gh_jid=7964141",
+    "posted_at": "2026-05-29T10:06:44-04:00",
+    "discovered_at": "2026-05-29T17:09:53.384Z",
+    "source": "greenhouse",
+    "external_id": "7964141",
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
+  },
+  {
     "company": "OpenAI",
     "title": "Staff / Senior Staff Backend Software Engineer, Workspace Agents",
     "location": "San Francisco",
@@ -8,7 +30,7 @@
     "discovered_at": "2026-05-28T19:51:36.594Z",
     "source": "ashby",
     "external_id": "57f0728b-7747-471e-a8d5-9d0f763b057c",
-    "last_seen_at": "2026-05-29T03:22:51.182Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "Nuro",
@@ -41,7 +63,7 @@
     "discovered_at": "2026-05-28T08:07:55.305Z",
     "source": "ashby",
     "external_id": "685bf26b-9119-4c89-8ff5-4f5adb748b88",
-    "last_seen_at": "2026-05-29T01:54:47.494Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "Harvey",
@@ -52,7 +74,7 @@
     "discovered_at": "2026-05-27T23:11:52.273Z",
     "source": "ashby",
     "external_id": "581cd358-0186-48a6-b76f-c76946c5c7a7",
-    "last_seen_at": "2026-05-29T05:38:31.868Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "OpenAI",
@@ -63,7 +85,7 @@
     "discovered_at": "2026-05-27T23:11:52.273Z",
     "source": "ashby",
     "external_id": "b7f46b2e-dfc7-4b06-8e5e-8468555c102b",
-    "last_seen_at": "2026-05-29T03:22:51.182Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "Mercury",
@@ -624,7 +646,7 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "649b284a-75c3-4d58-9958-4db2740e6f8d",
-    "last_seen_at": "2026-05-29T04:36:10.207Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "Replit",
@@ -635,7 +657,7 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "3a657901-8b8e-47cd-a122-e45881eef124",
-    "last_seen_at": "2026-05-29T04:36:10.207Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "Replit",
@@ -646,7 +668,7 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "75477d6d-82e2-413c-b355-ec9426e56555",
-    "last_seen_at": "2026-05-29T04:36:10.207Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "Nuro",
@@ -668,7 +690,7 @@
     "discovered_at": "2026-05-27T02:15:40.752Z",
     "source": "ashby",
     "external_id": "0b212a4a-6709-4da8-b59d-283a9bbf812e",
-    "last_seen_at": "2026-05-29T03:22:51.182Z"
+    "last_seen_at": "2026-05-29T17:09:53.384Z"
   },
   {
     "company": "OpenAI",
