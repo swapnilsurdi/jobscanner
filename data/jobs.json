@@ -1,25 +1,5 @@
 [
   {
-    "company": "Datadog",
-    "title": "Partner Technology Solutions Engineer",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297",
-    "posted_at": "2026-05-27T16:26:28-04:00",
-    "discovered_at": "2026-05-27T20:34:27.322Z",
-    "source": "greenhouse",
-    "external_id": "7961297"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer- Linux/eBPF",
-    "location": "Portugal, Remote",
-    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461",
-    "posted_at": "2026-05-26T08:33:13-04:00",
-    "discovered_at": "2026-05-28T16:16:05.025Z",
-    "source": "greenhouse",
-    "external_id": "7957461"
-  },
-  {
     "company": "Mercury",
     "title": "Senior People Partner - Risk & Banking Ops",
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
@@ -38,6 +18,36 @@
     "discovered_at": "2026-05-27T23:11:52.273Z",
     "source": "greenhouse",
     "external_id": "6007686004"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7957639",
+    "posted_at": "2026-05-26T15:32:26-04:00",
+    "discovered_at": "2026-05-27T02:15:40.752Z",
+    "source": "greenhouse",
+    "external_id": "7957639"
+  },
+  {
+    "company": "Datadog",
+    "title": "Partner Technology Solutions Engineer",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297",
+    "posted_at": "2026-05-27T16:26:28-04:00",
+    "discovered_at": "2026-05-27T20:34:27.322Z",
+    "source": "greenhouse",
+    "external_id": "7961297"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer- Linux/eBPF",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461",
+    "posted_at": "2026-05-26T08:33:13-04:00",
+    "discovered_at": "2026-05-28T16:16:05.025Z",
+    "source": "greenhouse",
+    "external_id": "7957461"
   },
   {
     "company": "Nuro",
@@ -60,14 +70,74 @@
     "external_id": "7963886"
   },
   {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7957639",
-    "posted_at": "2026-05-26T15:32:26-04:00",
-    "discovered_at": "2026-05-27T02:15:40.752Z",
-    "source": "greenhouse",
-    "external_id": "7957639"
+    "company": "Cursor",
+    "title": "Analytics Platform Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/685bf26b-9119-4c89-8ff5-4f5adb748b88",
+    "posted_at": "2026-05-28T07:22:37.547+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "685bf26b-9119-4c89-8ff5-4f5adb748b88"
+  },
+  {
+    "company": "Replit",
+    "title": "Senior Software Engineer, Trust & Safety",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/75477d6d-82e2-413c-b355-ec9426e56555",
+    "posted_at": "2026-05-26T22:47:33.151+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "75477d6d-82e2-413c-b355-ec9426e56555"
+  },
+  {
+    "company": "Replit",
+    "title": "Senior Software Engineer, Risk",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/3a657901-8b8e-47cd-a122-e45881eef124",
+    "posted_at": "2026-05-26T22:49:32.911+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "3a657901-8b8e-47cd-a122-e45881eef124"
+  },
+  {
+    "company": "Replit",
+    "title": "Senior Software Engineer, Fraud",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/649b284a-75c3-4d58-9958-4db2740e6f8d",
+    "posted_at": "2026-05-26T22:50:13.595+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "649b284a-75c3-4d58-9958-4db2740e6f8d"
+  },
+  {
+    "company": "Replit",
+    "title": "Staff Software Engineer, Trust & Safety",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/bd27a146-a100-4eef-80b5-f24a7ddff344",
+    "posted_at": "2026-05-26T22:53:04.613+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "bd27a146-a100-4eef-80b5-f24a7ddff344"
+  },
+  {
+    "company": "Replit",
+    "title": "Staff Software Engineer, Risk",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/76aebfe2-f481-4463-9650-1bdaffaeb24d",
+    "posted_at": "2026-05-26T22:53:46.059+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "76aebfe2-f481-4463-9650-1bdaffaeb24d"
+  },
+  {
+    "company": "Replit",
+    "title": "Staff Software Engineer, Fraud",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/27618f18-d516-42c0-a321-592f18606431",
+    "posted_at": "2026-05-26T22:54:33.932+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "27618f18-d516-42c0-a321-592f18606431"
   },
   {
     "company": "Harvey",
