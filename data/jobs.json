@@ -20,26 +20,6 @@
     "external_id": "6007686004"
   },
   {
-    "company": "Datadog",
-    "title": "Partner Technology Solutions Engineer",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297",
-    "posted_at": "2026-05-27T16:26:28-04:00",
-    "discovered_at": "2026-05-27T20:34:27.322Z",
-    "source": "greenhouse",
-    "external_id": "7961297"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer- Linux/eBPF",
-    "location": "Portugal, Remote",
-    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461",
-    "posted_at": "2026-05-26T08:33:13-04:00",
-    "discovered_at": "2026-05-28T16:16:05.025Z",
-    "source": "greenhouse",
-    "external_id": "7957461"
-  },
-  {
     "company": "Nuro",
     "title": "Senior Software Engineer, FinOps",
     "location": "Mountain View, California (HQ)",
@@ -70,14 +50,24 @@
     "external_id": "7957639"
   },
   {
-    "company": "Cursor",
-    "title": "Analytics Platform Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/685bf26b-9119-4c89-8ff5-4f5adb748b88",
-    "posted_at": "2026-05-28T07:22:37.547+00:00",
-    "discovered_at": "2026-05-29T01:54:47.494Z",
-    "source": "ashby",
-    "external_id": "685bf26b-9119-4c89-8ff5-4f5adb748b88"
+    "company": "Datadog",
+    "title": "Partner Technology Solutions Engineer",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297",
+    "posted_at": "2026-05-27T16:26:28-04:00",
+    "discovered_at": "2026-05-27T20:34:27.322Z",
+    "source": "greenhouse",
+    "external_id": "7961297"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer- Linux/eBPF",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461",
+    "posted_at": "2026-05-26T08:33:13-04:00",
+    "discovered_at": "2026-05-28T16:16:05.025Z",
+    "source": "greenhouse",
+    "external_id": "7957461"
   },
   {
     "company": "Replit",
@@ -178,5 +168,25 @@
     "discovered_at": "2026-05-29T03:22:51.182Z",
     "source": "ashby",
     "external_id": "57f0728b-7747-471e-a8d5-9d0f763b057c"
+  },
+  {
+    "company": "Cursor",
+    "title": "Analytics Platform Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/685bf26b-9119-4c89-8ff5-4f5adb748b88",
+    "posted_at": "2026-05-28T07:22:37.547+00:00",
+    "discovered_at": "2026-05-29T01:54:47.494Z",
+    "source": "ashby",
+    "external_id": "685bf26b-9119-4c89-8ff5-4f5adb748b88"
+  },
+  {
+    "company": "Harvey",
+    "title": "Software Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/harvey/581cd358-0186-48a6-b76f-c76946c5c7a7",
+    "posted_at": "2026-05-27T22:27:07.852+00:00",
+    "discovered_at": "2026-05-29T05:38:31.868Z",
+    "source": "ashby",
+    "external_id": "581cd358-0186-48a6-b76f-c76946c5c7a7"
   }
 ]
