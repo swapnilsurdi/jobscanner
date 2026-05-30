@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-29T21:10:23.652Z
-**Active roles:** 50 of 144 across 11 companies
+**Last scan:** 2026-05-30T00:34:41.802Z
+**Active roles:** 50 of 145 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -29,7 +29,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10421819/senior-software-engineer-fauna) — New York, NY, USA — posted —
 - [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10386614/senior-software-engineer-fauna) — New York, NY, USA — posted —
 - [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro) — WA, USA — posted —
-- [Software Engineer](https://amazon.jobs/en/jobs/3093439/software-engineer) — WA, USA — posted —
 
 ### Cursor
 
@@ -42,6 +41,10 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer - Environments Accelerator](https://careers.datadoghq.com/detail/7966967/?gh_jid=7966967) — Denver, Colorado, USA; New York, New York, USA — posted 2026-05-29
 - [Staff Applied Scientist - Agentic Interfaces](https://careers.datadoghq.com/detail/7964141/?gh_jid=7964141) — New York, New York, USA — posted 2026-05-29
 - [Partner Technology Solutions Engineer](https://careers.datadoghq.com/detail/7961297/?gh_jid=7961297) — New York, New York, USA — posted 2026-05-27
+
+### Decagon
+
+- [Senior Software Engineer, Data Infrastructure](https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd) — San Francisco — posted 2026-05-29
 
 ### Google
 

@@ -1,5 +1,16 @@
 [
   {
+    "company": "Decagon",
+    "title": "Senior Software Engineer, Data Infrastructure",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd",
+    "posted_at": "2026-05-29T23:14:29.883+00:00",
+    "discovered_at": "2026-05-30T00:34:41.802Z",
+    "source": "ashby",
+    "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd",
+    "last_seen_at": "2026-05-30T00:34:41.802Z"
+  },
+  {
     "company": "Datadog",
     "title": "Senior Software Engineer - Infrastructure R&D",
     "location": "Denver, Colorado, USA; New York, New York, USA",
