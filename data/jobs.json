@@ -10,6 +10,16 @@
     "external_id": "6007723004"
   },
   {
+    "company": "Nuro",
+    "title": "Technical Lead, Evaluation Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7963886",
+    "posted_at": "2026-05-28T13:37:36-04:00",
+    "discovered_at": "2026-05-28T18:42:18.708Z",
+    "source": "greenhouse",
+    "external_id": "7963886"
+  },
+  {
     "company": "Datadog",
     "title": "Senior Software Engineer - Environments Accelerator",
     "location": "Denver, Colorado, USA; New York, New York, USA",
@@ -40,24 +50,14 @@
     "external_id": "7964141"
   },
   {
-    "company": "Nuro",
-    "title": "Technical Lead, Evaluation Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7963886",
-    "posted_at": "2026-05-28T13:37:36-04:00",
-    "discovered_at": "2026-05-28T18:42:18.708Z",
-    "source": "greenhouse",
-    "external_id": "7963886"
-  },
-  {
-    "company": "Cursor",
-    "title": "Analytics Platform Engineer",
+    "company": "Decagon",
+    "title": "Senior Software Engineer, Data Infrastructure",
     "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/685bf26b-9119-4c89-8ff5-4f5adb748b88",
-    "posted_at": "2026-05-28T07:22:37.547+00:00",
-    "discovered_at": "2026-05-29T17:09:53.384Z",
+    "url": "https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd",
+    "posted_at": "2026-05-29T23:14:29.883+00:00",
+    "discovered_at": "2026-05-30T00:34:41.802Z",
     "source": "ashby",
-    "external_id": "685bf26b-9119-4c89-8ff5-4f5adb748b88"
+    "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd"
   },
   {
     "company": "Cursor",
@@ -68,15 +68,5 @@
     "discovered_at": "2026-05-29T17:09:53.384Z",
     "source": "ashby",
     "external_id": "f2f84157-dfca-490b-801e-12fb37a02809"
-  },
-  {
-    "company": "Decagon",
-    "title": "Senior Software Engineer, Data Infrastructure",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd",
-    "posted_at": "2026-05-29T23:14:29.883+00:00",
-    "discovered_at": "2026-05-30T00:34:41.802Z",
-    "source": "ashby",
-    "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd"
   }
 ]
