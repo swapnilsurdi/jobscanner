@@ -1,25 +1,5 @@
 [
   {
-    "company": "Mercury",
-    "title": "Senior People Partner - Risk & Banking Ops",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6007723004",
-    "posted_at": "2026-05-28T12:30:36-04:00",
-    "discovered_at": "2026-05-28T17:29:05.307Z",
-    "source": "greenhouse",
-    "external_id": "6007723004"
-  },
-  {
-    "company": "Nuro",
-    "title": "Technical Lead, Evaluation Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7963886",
-    "posted_at": "2026-05-28T13:37:36-04:00",
-    "discovered_at": "2026-05-28T18:42:18.708Z",
-    "source": "greenhouse",
-    "external_id": "7963886"
-  },
-  {
     "company": "Datadog",
     "title": "Senior Software Engineer - Environments Accelerator",
     "location": "Denver, Colorado, USA; New York, New York, USA",
@@ -50,14 +30,14 @@
     "external_id": "7964141"
   },
   {
-    "company": "Decagon",
-    "title": "Senior Software Engineer, Data Infrastructure",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd",
-    "posted_at": "2026-05-29T23:14:29.883+00:00",
-    "discovered_at": "2026-05-30T00:34:41.802Z",
-    "source": "ashby",
-    "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd"
+    "company": "Nuro",
+    "title": "Technical Lead, Evaluation Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7963886",
+    "posted_at": "2026-05-28T13:37:36-04:00",
+    "discovered_at": "2026-05-28T18:42:18.708Z",
+    "source": "greenhouse",
+    "external_id": "7963886"
   },
   {
     "company": "Cursor",
@@ -68,5 +48,15 @@
     "discovered_at": "2026-05-29T17:09:53.384Z",
     "source": "ashby",
     "external_id": "f2f84157-dfca-490b-801e-12fb37a02809"
+  },
+  {
+    "company": "Decagon",
+    "title": "Senior Software Engineer, Data Infrastructure",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd",
+    "posted_at": "2026-05-29T23:14:29.883+00:00",
+    "discovered_at": "2026-05-30T00:34:41.802Z",
+    "source": "ashby",
+    "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd"
   }
 ]
