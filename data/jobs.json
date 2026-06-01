@@ -1,15 +1,5 @@
 [
   {
-    "company": "Cursor",
-    "title": "Senior Staff Finance Systems Engineeer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/f2f84157-dfca-490b-801e-12fb37a02809",
-    "posted_at": "2026-05-29T16:09:51.941+00:00",
-    "discovered_at": "2026-05-29T17:09:53.384Z",
-    "source": "ashby",
-    "external_id": "f2f84157-dfca-490b-801e-12fb37a02809"
-  },
-  {
     "company": "Decagon",
     "title": "Senior Software Engineer, Data Infrastructure",
     "location": "San Francisco",
@@ -18,5 +8,25 @@
     "discovered_at": "2026-05-30T00:34:41.802Z",
     "source": "ashby",
     "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Environments Accelerator",
+    "location": "Denver, Colorado, USA; New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7966967/?gh_jid=7966967",
+    "posted_at": "2026-05-29T16:24:14-04:00",
+    "discovered_at": "2026-06-01T16:44:15.798Z",
+    "source": "greenhouse",
+    "external_id": "7966967"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Infrastructure R&D",
+    "location": "Denver, Colorado, USA; New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7967161/?gh_jid=7967161",
+    "posted_at": "2026-05-29T16:24:15-04:00",
+    "discovered_at": "2026-06-01T16:44:15.798Z",
+    "source": "greenhouse",
+    "external_id": "7967161"
   }
 ]
