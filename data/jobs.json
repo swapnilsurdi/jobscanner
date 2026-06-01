@@ -10,6 +10,16 @@
     "external_id": "7954715"
   },
   {
+    "company": "Twilio",
+    "title": "Staff, Software Engineer (L4) - Email",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
+    "posted_at": "2026-06-01T15:38:55-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7967685"
+  },
+  {
     "company": "Decagon",
     "title": "Senior Software Engineer, Data Infrastructure",
     "location": "San Francisco",
@@ -38,5 +48,15 @@
     "discovered_at": "2026-06-01T16:44:15.798Z",
     "source": "greenhouse",
     "external_id": "7967161"
+  },
+  {
+    "company": "Datadog",
+    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
+    "posted_at": "2026-06-01T15:19:28-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7974511"
   }
 ]

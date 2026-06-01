@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-01T18:28:52.644Z
-**Active roles:** 50 of 146 across 13 companies
+**Last scan:** 2026-06-01T19:47:55.129Z
+**Active roles:** 50 of 148 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -36,6 +36,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Datadog
 
+- [Staff GenAI Engineer - Application Performance Monitoring (APM)](https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511) — New York, New York, USA — posted 2026-06-01
 - [Senior Software Engineer - Infrastructure R&D](https://careers.datadoghq.com/detail/7967161/?gh_jid=7967161) — Denver, Colorado, USA; New York, New York, USA — posted 2026-05-29
 - [Senior Software Engineer - Environments Accelerator](https://careers.datadoghq.com/detail/7966967/?gh_jid=7966967) — Denver, Colorado, USA; New York, New York, USA — posted 2026-05-29
 - [Staff Applied Scientist - Agentic Interfaces](https://careers.datadoghq.com/detail/7964141/?gh_jid=7964141) — New York, New York, USA — posted 2026-05-29
@@ -75,7 +76,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Senior Software Engineer - HPC](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---HPC_JR2013372) — US, CA, Santa Clara — posted —
 - [Tegra System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2015299) — US, CA, Santa Clara — posted —
-- [System Software Engineer, GeForce Software](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GeForce-Software_JR2015749-1) — US, CA, Santa Clara — posted —
 
 ### Nuro
 
@@ -86,12 +86,9 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Staff / Senior Staff Backend Software Engineer, Workspace Agents](https://jobs.ashbyhq.com/openai/57f0728b-7747-471e-a8d5-9d0f763b057c) — San Francisco — posted 2026-05-28
 - [Software Engineer, Cyber Frontier](https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b) — San Francisco — posted 2026-05-27
 
-### Snowflake
-
-- [Software Engineer - Backend](https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend) — Menlo Park, California, United States — posted —
-
 ### Twilio
 
+- [Staff, Software Engineer (L4) - Email](https://job-boards.greenhouse.io/twilio/jobs/7967685) — Remote - US — posted 2026-06-01
 - [Software Engineer (L3) Data Substrate](https://job-boards.greenhouse.io/twilio/jobs/7954715) — Remote - US — posted 2026-06-01
 
 ### Zoox
