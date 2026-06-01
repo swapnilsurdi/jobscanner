@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-01T19:47:55.129Z
-**Active roles:** 50 of 148 across 12 companies
+**Last scan:** 2026-06-01T20:47:58.970Z
+**Active roles:** 50 of 149 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -75,7 +75,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### NVIDIA
 
 - [Senior Software Engineer - HPC](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---HPC_JR2013372) — US, CA, Santa Clara — posted —
-- [Tegra System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2015299) — US, CA, Santa Clara — posted —
 
 ### Nuro
 
@@ -88,6 +87,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Twilio
 
+- [Senior Strategic Account Executive](https://job-boards.greenhouse.io/twilio/jobs/7968031) — Remote - Brazil — posted 2026-06-01
 - [Staff, Software Engineer (L4) - Email](https://job-boards.greenhouse.io/twilio/jobs/7967685) — Remote - US — posted 2026-06-01
 - [Software Engineer (L3) Data Substrate](https://job-boards.greenhouse.io/twilio/jobs/7954715) — Remote - US — posted 2026-06-01
 

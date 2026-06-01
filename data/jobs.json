@@ -1,5 +1,25 @@
 [
   {
+    "company": "Datadog",
+    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
+    "posted_at": "2026-06-01T15:19:28-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7974511"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - Brazil",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
+    "posted_at": "2026-06-01T16:04:51-04:00",
+    "discovered_at": "2026-06-01T20:47:58.970Z",
+    "source": "greenhouse",
+    "external_id": "7968031"
+  },
+  {
     "company": "Twilio",
     "title": "Software Engineer (L3) Data Substrate",
     "location": "Remote - US",
@@ -28,35 +48,5 @@
     "discovered_at": "2026-05-30T00:34:41.802Z",
     "source": "ashby",
     "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Environments Accelerator",
-    "location": "Denver, Colorado, USA; New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7966967/?gh_jid=7966967",
-    "posted_at": "2026-05-29T16:24:14-04:00",
-    "discovered_at": "2026-06-01T16:44:15.798Z",
-    "source": "greenhouse",
-    "external_id": "7966967"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Infrastructure R&D",
-    "location": "Denver, Colorado, USA; New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7967161/?gh_jid=7967161",
-    "posted_at": "2026-05-29T16:24:15-04:00",
-    "discovered_at": "2026-06-01T16:44:15.798Z",
-    "source": "greenhouse",
-    "external_id": "7967161"
-  },
-  {
-    "company": "Datadog",
-    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
-    "posted_at": "2026-06-01T15:19:28-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7974511"
   }
 ]
