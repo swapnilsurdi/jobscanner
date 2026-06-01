@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-05-30T00:34:41.802Z
-**Active roles:** 50 of 145 across 12 companies
+**Last scan:** 2026-06-01T18:28:52.644Z
+**Active roles:** 50 of 146 across 13 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -28,7 +28,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer II, Safety](https://www.amazon.jobs/en/jobs/10387280/software-engineer-ii-safety) — San Francisco, CA, USA — posted —
 - [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10421819/senior-software-engineer-fauna) — New York, NY, USA — posted —
 - [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10386614/senior-software-engineer-fauna) — New York, NY, USA — posted —
-- [Software Engineer, EC2 Nitro](https://amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro) — WA, USA — posted —
 
 ### Cursor
 
@@ -90,6 +89,10 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Snowflake
 
 - [Software Engineer - Backend](https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend) — Menlo Park, California, United States — posted —
+
+### Twilio
+
+- [Software Engineer (L3) Data Substrate](https://job-boards.greenhouse.io/twilio/jobs/7954715) — Remote - US — posted 2026-06-01
 
 ### Zoox
 
