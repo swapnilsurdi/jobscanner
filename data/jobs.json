@@ -1,15 +1,5 @@
 [
   {
-    "company": "Cursor",
-    "title": "Senior Staff Finance Systems Engineeer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/f2f84157-dfca-490b-801e-12fb37a02809",
-    "posted_at": "2026-05-29T16:09:51.941+00:00",
-    "discovered_at": "2026-05-29T17:09:53.384Z",
-    "source": "ashby",
-    "external_id": "f2f84157-dfca-490b-801e-12fb37a02809"
-  },
-  {
     "company": "Datadog",
     "title": "Senior Software Engineer - Environments Accelerator",
     "location": "Denver, Colorado, USA; New York, New York, USA",
@@ -38,6 +28,16 @@
     "discovered_at": "2026-05-29T17:09:53.384Z",
     "source": "greenhouse",
     "external_id": "7964141"
+  },
+  {
+    "company": "Cursor",
+    "title": "Senior Staff Finance Systems Engineeer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/f2f84157-dfca-490b-801e-12fb37a02809",
+    "posted_at": "2026-05-29T16:09:51.941+00:00",
+    "discovered_at": "2026-05-29T17:09:53.384Z",
+    "source": "ashby",
+    "external_id": "f2f84157-dfca-490b-801e-12fb37a02809"
   },
   {
     "company": "Decagon",
