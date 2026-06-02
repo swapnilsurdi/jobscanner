@@ -1,15 +1,5 @@
 [
   {
-    "company": "Datadog",
-    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
-    "posted_at": "2026-06-01T15:19:28-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7974511"
-  },
-  {
     "company": "Twilio",
     "title": "Senior Strategic Account Executive",
     "location": "Remote - Brazil",
@@ -40,13 +30,23 @@
     "external_id": "7967685"
   },
   {
-    "company": "Decagon",
-    "title": "Senior Software Engineer, Data Infrastructure",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd",
-    "posted_at": "2026-05-29T23:14:29.883+00:00",
-    "discovered_at": "2026-05-30T00:34:41.802Z",
-    "source": "ashby",
-    "external_id": "d400020b-2f97-4316-a8c2-9dc70f254cdd"
+    "company": "Nuro",
+    "title": "Staff Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
+    "posted_at": "2026-06-01T18:01:08-04:00",
+    "discovered_at": "2026-06-02T00:03:42.670Z",
+    "source": "greenhouse",
+    "external_id": "7974966"
+  },
+  {
+    "company": "Datadog",
+    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
+    "posted_at": "2026-06-01T15:19:28-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7974511"
   }
 ]
