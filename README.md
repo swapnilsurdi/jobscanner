@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-01T20:47:58.970Z
-**Active roles:** 50 of 149 across 12 companies
+**Last scan:** 2026-06-02T01:10:47.199Z
+**Active roles:** 50 of 150 across 12 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -28,6 +28,10 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer II, Safety](https://www.amazon.jobs/en/jobs/10387280/software-engineer-ii-safety) — San Francisco, CA, USA — posted —
 - [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10421819/senior-software-engineer-fauna) — New York, NY, USA — posted —
 - [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10386614/senior-software-engineer-fauna) — New York, NY, USA — posted —
+
+### Baseten
+
+- [Software Engineer- BIS (Baseten Inference Stack)](https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73) — San Francisco — posted 2026-06-02
 
 ### Cursor
 
@@ -71,10 +75,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Senior People Partner - Risk & Banking Ops](https://job-boards.greenhouse.io/mercury/jobs/6007723004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-05-28
 - [Senior Risk Strategist - Card Fraud](https://job-boards.greenhouse.io/mercury/jobs/6007686004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-05-27
-
-### NVIDIA
-
-- [Senior Software Engineer - HPC](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---HPC_JR2013372) — US, CA, Santa Clara — posted —
 
 ### Nuro
 
