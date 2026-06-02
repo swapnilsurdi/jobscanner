@@ -1,5 +1,45 @@
 [
   {
+    "company": "Nuro",
+    "title": "Staff Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
+    "posted_at": "2026-06-01T18:01:08-04:00",
+    "discovered_at": "2026-06-02T00:03:42.670Z",
+    "source": "greenhouse",
+    "external_id": "7974966"
+  },
+  {
+    "company": "Datadog",
+    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
+    "posted_at": "2026-06-01T15:19:28-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7974511"
+  },
+  {
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Machine Learning Platform",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
+    "posted_at": "2026-06-02T10:50:40-04:00",
+    "discovered_at": "2026-06-02T15:04:29.499Z",
+    "source": "greenhouse",
+    "external_id": "7939868"
+  },
+  {
+    "company": "Baseten",
+    "title": "Software Engineer- BIS (Baseten Inference Stack)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
+    "posted_at": "2026-06-02T00:16:06.843+00:00",
+    "discovered_at": "2026-06-02T01:10:47.199Z",
+    "source": "ashby",
+    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+  },
+  {
     "company": "Twilio",
     "title": "Senior Strategic Account Executive",
     "location": "Remote - Brazil",
@@ -28,35 +68,5 @@
     "discovered_at": "2026-06-01T19:47:55.129Z",
     "source": "greenhouse",
     "external_id": "7967685"
-  },
-  {
-    "company": "Baseten",
-    "title": "Software Engineer- BIS (Baseten Inference Stack)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
-    "posted_at": "2026-06-02T00:16:06.843+00:00",
-    "discovered_at": "2026-06-02T01:10:47.199Z",
-    "source": "ashby",
-    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
-  },
-  {
-    "company": "Nuro",
-    "title": "Staff Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
-    "posted_at": "2026-06-01T18:01:08-04:00",
-    "discovered_at": "2026-06-02T00:03:42.670Z",
-    "source": "greenhouse",
-    "external_id": "7974966"
-  },
-  {
-    "company": "Datadog",
-    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
-    "posted_at": "2026-06-01T15:19:28-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7974511"
   }
 ]
