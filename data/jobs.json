@@ -10,6 +10,66 @@
     "external_id": "a55bbee6-e0cb-4074-8461-805e16323cd9"
   },
   {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - Brazil",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
+    "posted_at": "2026-06-01T16:04:51-04:00",
+    "discovered_at": "2026-06-01T20:47:58.970Z",
+    "source": "greenhouse",
+    "external_id": "7968031"
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3) Data Substrate",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
+    "posted_at": "2026-06-01T13:07:39-04:00",
+    "discovered_at": "2026-06-01T18:28:52.644Z",
+    "source": "greenhouse",
+    "external_id": "7954715"
+  },
+  {
+    "company": "Twilio",
+    "title": "Staff, Software Engineer (L4) - Email",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
+    "posted_at": "2026-06-01T15:38:55-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7967685"
+  },
+  {
+    "company": "Nuro",
+    "title": "Staff Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
+    "posted_at": "2026-06-01T18:01:08-04:00",
+    "discovered_at": "2026-06-02T00:03:42.670Z",
+    "source": "greenhouse",
+    "external_id": "7974966"
+  },
+  {
+    "company": "Datadog",
+    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
+    "posted_at": "2026-06-01T15:19:28-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7974511"
+  },
+  {
+    "company": "Baseten",
+    "title": "Software Engineer- BIS (Baseten Inference Stack)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
+    "posted_at": "2026-06-02T00:16:06.843+00:00",
+    "discovered_at": "2026-06-02T01:10:47.199Z",
+    "source": "ashby",
+    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+  },
+  {
     "company": "Robinhood",
     "title": "Senior Machine Learning Engineer",
     "location": "Menlo Park, CA",
@@ -180,56 +240,6 @@
     "external_id": "7975531"
   },
   {
-    "company": "Nuro",
-    "title": "Staff Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
-    "posted_at": "2026-06-01T18:01:08-04:00",
-    "discovered_at": "2026-06-02T00:03:42.670Z",
-    "source": "greenhouse",
-    "external_id": "7974966"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - Brazil",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
-    "posted_at": "2026-06-01T16:04:51-04:00",
-    "discovered_at": "2026-06-01T20:47:58.970Z",
-    "source": "greenhouse",
-    "external_id": "7968031"
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer (L3) Data Substrate",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
-    "posted_at": "2026-06-01T13:07:39-04:00",
-    "discovered_at": "2026-06-01T18:28:52.644Z",
-    "source": "greenhouse",
-    "external_id": "7954715"
-  },
-  {
-    "company": "Twilio",
-    "title": "Staff, Software Engineer (L4) - Email",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
-    "posted_at": "2026-06-01T15:38:55-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7967685"
-  },
-  {
-    "company": "Baseten",
-    "title": "Software Engineer- BIS (Baseten Inference Stack)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
-    "posted_at": "2026-06-02T00:16:06.843+00:00",
-    "discovered_at": "2026-06-02T01:10:47.199Z",
-    "source": "ashby",
-    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
-  },
-  {
     "company": "Stripe",
     "title": "Staff Software Engineer, Machine Learning Platform",
     "location": "San Francisco, Seattle",
@@ -238,16 +248,6 @@
     "discovered_at": "2026-06-02T15:04:29.499Z",
     "source": "greenhouse",
     "external_id": "7939868"
-  },
-  {
-    "company": "Datadog",
-    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
-    "posted_at": "2026-06-01T15:19:28-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7974511"
   },
   {
     "company": "Sierra",
