@@ -1,5 +1,16 @@
 [
   {
+    "company": "Sierra",
+    "title": "Software Engineer, Payments Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
+    "posted_at": "2026-06-02T17:38:25.749+00:00",
+    "discovered_at": "2026-06-02T18:13:58.181Z",
+    "source": "ashby",
+    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c",
+    "last_seen_at": "2026-06-02T18:13:58.181Z"
+  },
+  {
     "company": "Airbyte",
     "title": "Senior GTM Engineer",
     "location": "San Francisco",

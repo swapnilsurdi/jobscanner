@@ -10,56 +10,6 @@
     "external_id": "a55bbee6-e0cb-4074-8461-805e16323cd9"
   },
   {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - Brazil",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
-    "posted_at": "2026-06-01T16:04:51-04:00",
-    "discovered_at": "2026-06-01T20:47:58.970Z",
-    "source": "greenhouse",
-    "external_id": "7968031"
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer (L3) Data Substrate",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
-    "posted_at": "2026-06-01T13:07:39-04:00",
-    "discovered_at": "2026-06-01T18:28:52.644Z",
-    "source": "greenhouse",
-    "external_id": "7954715"
-  },
-  {
-    "company": "Twilio",
-    "title": "Staff, Software Engineer (L4) - Email",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
-    "posted_at": "2026-06-01T15:38:55-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7967685"
-  },
-  {
-    "company": "Datadog",
-    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
-    "posted_at": "2026-06-01T15:19:28-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7974511"
-  },
-  {
-    "company": "Nuro",
-    "title": "Staff Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
-    "posted_at": "2026-06-01T18:01:08-04:00",
-    "discovered_at": "2026-06-02T00:03:42.670Z",
-    "source": "greenhouse",
-    "external_id": "7974966"
-  },
-  {
     "company": "Robinhood",
     "title": "Senior Machine Learning Engineer",
     "location": "Menlo Park, CA",
@@ -68,26 +18,6 @@
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
     "external_id": "7976529"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Senior Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975544?t=gh_src=&gh_jid=7975544",
-    "posted_at": "2026-06-01T22:33:43-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975544"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Senior Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975519?t=gh_src=&gh_jid=7975519",
-    "posted_at": "2026-06-01T22:22:00-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975519"
   },
   {
     "company": "Robinhood",
@@ -111,43 +41,33 @@
   },
   {
     "company": "Robinhood",
-    "title": "Software Engineer",
+    "title": "Senior Software Engineer",
     "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531",
-    "posted_at": "2026-06-01T22:30:27-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975519?t=gh_src=&gh_jid=7975519",
+    "posted_at": "2026-06-01T22:22:00-04:00",
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
-    "external_id": "7975531"
+    "external_id": "7975519"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Senior Software Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975544?t=gh_src=&gh_jid=7975544",
+    "posted_at": "2026-06-01T22:33:43-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "greenhouse",
+    "external_id": "7975544"
   },
   {
     "company": "Robinhood",
     "title": "Software Engineer",
     "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734",
-    "posted_at": "2026-06-01T21:42:34-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530",
+    "posted_at": "2026-06-01T22:28:29-04:00",
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
-    "external_id": "7960734"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480",
-    "posted_at": "2026-06-01T21:58:52-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975480"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507",
-    "posted_at": "2026-06-01T22:16:55-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975507"
+    "external_id": "7975530"
   },
   {
     "company": "Robinhood",
@@ -163,31 +83,41 @@
     "company": "Robinhood",
     "title": "Software Engineer",
     "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507",
+    "posted_at": "2026-06-01T22:16:55-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "greenhouse",
+    "external_id": "7975507"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480",
+    "posted_at": "2026-06-01T21:58:52-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "greenhouse",
+    "external_id": "7975480"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734",
+    "posted_at": "2026-06-01T21:42:34-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "greenhouse",
+    "external_id": "7960734"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineer",
+    "location": "Menlo Park, CA",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526",
     "posted_at": "2026-06-01T22:24:24-04:00",
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
     "external_id": "7975526"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529",
-    "posted_at": "2026-06-01T22:26:30-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975529"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530",
-    "posted_at": "2026-06-01T22:28:29-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975530"
   },
   {
     "company": "Robinhood",
@@ -230,14 +160,64 @@
     "external_id": "7975558"
   },
   {
-    "company": "Stripe",
-    "title": "Staff Software Engineer, Machine Learning Platform",
-    "location": "San Francisco, Seattle",
-    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
-    "posted_at": "2026-06-02T10:50:40-04:00",
-    "discovered_at": "2026-06-02T15:04:29.499Z",
+    "company": "Robinhood",
+    "title": "Software Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529",
+    "posted_at": "2026-06-01T22:26:30-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
-    "external_id": "7939868"
+    "external_id": "7975529"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531",
+    "posted_at": "2026-06-01T22:30:27-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "greenhouse",
+    "external_id": "7975531"
+  },
+  {
+    "company": "Nuro",
+    "title": "Staff Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
+    "posted_at": "2026-06-01T18:01:08-04:00",
+    "discovered_at": "2026-06-02T00:03:42.670Z",
+    "source": "greenhouse",
+    "external_id": "7974966"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - Brazil",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
+    "posted_at": "2026-06-01T16:04:51-04:00",
+    "discovered_at": "2026-06-01T20:47:58.970Z",
+    "source": "greenhouse",
+    "external_id": "7968031"
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3) Data Substrate",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
+    "posted_at": "2026-06-01T13:07:39-04:00",
+    "discovered_at": "2026-06-01T18:28:52.644Z",
+    "source": "greenhouse",
+    "external_id": "7954715"
+  },
+  {
+    "company": "Twilio",
+    "title": "Staff, Software Engineer (L4) - Email",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
+    "posted_at": "2026-06-01T15:38:55-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7967685"
   },
   {
     "company": "Baseten",
@@ -248,5 +228,35 @@
     "discovered_at": "2026-06-02T01:10:47.199Z",
     "source": "ashby",
     "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+  },
+  {
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Machine Learning Platform",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
+    "posted_at": "2026-06-02T10:50:40-04:00",
+    "discovered_at": "2026-06-02T15:04:29.499Z",
+    "source": "greenhouse",
+    "external_id": "7939868"
+  },
+  {
+    "company": "Datadog",
+    "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
+    "posted_at": "2026-06-01T15:19:28-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7974511"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Payments Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
+    "posted_at": "2026-06-02T17:38:25.749+00:00",
+    "discovered_at": "2026-06-02T18:13:58.181Z",
+    "source": "ashby",
+    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
   }
 ]

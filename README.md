@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-02T17:02:35.925Z
-**Active roles:** 50 of 168 across 13 companies
+**Last scan:** 2026-06-02T18:13:58.181Z
+**Active roles:** 50 of 169 across 14 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -27,7 +27,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer III](https://www.amazon.jobs/en/jobs/10406805/senior-software-engineer-iii) — Dallas, TX, USA — posted —
 - [Software Engineer, EC2 Nitro](https://www.amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — Seattle, WA, USA — posted —
 - [Software Engineer, Amazon Photos](https://www.amazon.jobs/en/jobs/10423211/software-engineer-amazon-photos) — Seattle, WA, USA — posted —
-- [Software Engineer, Monetization ML](https://www.amazon.jobs/en/jobs/3113621/software-engineer-monetization-ml) — New York, NY, USA — posted —
 
 ### Baseten
 
@@ -87,6 +86,10 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734) — Menlo Park, CA — posted 2026-06-02
+
+### Sierra
+
+- [Software Engineer, Payments Infrastructure](https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c) — San Francisco, CA — posted 2026-06-02
 
 ### Twilio
 
