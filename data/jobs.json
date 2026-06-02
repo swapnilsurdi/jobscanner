@@ -1,15 +1,5 @@
 [
   {
-    "company": "Nuro",
-    "title": "Staff Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
-    "posted_at": "2026-06-01T18:01:08-04:00",
-    "discovered_at": "2026-06-02T00:03:42.670Z",
-    "source": "greenhouse",
-    "external_id": "7974966"
-  },
-  {
     "company": "Twilio",
     "title": "Senior Strategic Account Executive",
     "location": "Remote - Brazil",
@@ -38,6 +28,16 @@
     "discovered_at": "2026-06-01T19:47:55.129Z",
     "source": "greenhouse",
     "external_id": "7967685"
+  },
+  {
+    "company": "Nuro",
+    "title": "Staff Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
+    "posted_at": "2026-06-01T18:01:08-04:00",
+    "discovered_at": "2026-06-02T00:03:42.670Z",
+    "source": "greenhouse",
+    "external_id": "7974966"
   },
   {
     "company": "Baseten",
