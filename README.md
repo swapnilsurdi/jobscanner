@@ -2,12 +2,16 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-02T01:10:47.199Z
-**Active roles:** 50 of 150 across 12 companies
+**Last scan:** 2026-06-02T17:02:35.925Z
+**Active roles:** 50 of 168 across 13 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
 ## Latest jobs
+
+### Airbyte
+
+- [Senior GTM Engineer](https://jobs.ashbyhq.com/airbyte/a55bbee6-e0cb-4074-8461-805e16323cd9) — San Francisco — posted 2026-06-02
 
 ### Amazon
 
@@ -24,10 +28,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer, EC2 Nitro](https://www.amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — Seattle, WA, USA — posted —
 - [Software Engineer, Amazon Photos](https://www.amazon.jobs/en/jobs/10423211/software-engineer-amazon-photos) — Seattle, WA, USA — posted —
 - [Software Engineer, Monetization ML](https://www.amazon.jobs/en/jobs/3113621/software-engineer-monetization-ml) — New York, NY, USA — posted —
-- [Principal Software Engineer, S3 Keystone](https://www.amazon.jobs/en/jobs/3064651/principal-software-engineer-s3-keystone) — Arlington, VA, USA — posted —
-- [Software Engineer II, Safety](https://www.amazon.jobs/en/jobs/10387280/software-engineer-ii-safety) — San Francisco, CA, USA — posted —
-- [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10421819/senior-software-engineer-fauna) — New York, NY, USA — posted —
-- [Senior Software Engineer, Fauna](https://www.amazon.jobs/en/jobs/10386614/senior-software-engineer-fauna) — New York, NY, USA — posted —
 
 ### Baseten
 
@@ -50,23 +50,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Senior Software Engineer, Data Infrastructure](https://jobs.ashbyhq.com/decagon/d400020b-2f97-4316-a8c2-9dc70f254cdd) — San Francisco — posted 2026-05-29
 
-### Google
-
-- [Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://www.google.com/about/careers/applications/jobs/results/88714689822761670) — Sunnyvale, CA, USA — posted —
-- [Software Engineer III, Technical Infrastructure](https://www.google.com/about/careers/applications/jobs/results/99326551270531782) — Sunnyvale, CA, USA — posted —
-- [Security Software Engineer, Emerging On-prem AI infrastructure](https://www.google.com/about/careers/applications/jobs/results/114738878203470534) — Reston, VA, USA — posted —
-- [Software Engineer, Pixel Camera, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/74768609561191110) — Mountain View, CA, USA — posted —
-- [Software Engineer, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/128857467034444486) — San Diego, CA, USA — posted —
-- [Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube](https://www.google.com/about/careers/applications/jobs/results/129280004709065414) — Mountain View, CA, USA — posted —
-- [Software Engineer, Modem Power/Thermal, Pixel](https://www.google.com/about/careers/applications/jobs/results/73072310080152262) — Kirkland, WA, USA — posted —
-- [Software Engineer, Security, Chrome Product Security](https://www.google.com/about/careers/applications/jobs/results/92701240483291846) — Kirkland, WA, USA — posted —
-- [Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start](https://www.google.com/about/careers/applications/jobs/results/122258040807137990) — Sunnyvale, CA, USA — posted —
-- [Software Engineer, Apps, Video and Display Modeling Infrastructure](https://www.google.com/about/careers/applications/jobs/results/120016590388241094) — Mountain View, CA, USA — posted —
-- [Software Engineer, Google Beam, Full Stack](https://www.google.com/about/careers/applications/jobs/results/104327517237584582) — Seattle, WA, USA — posted —
-- [Software Engineer, Fabric Networking](https://www.google.com/about/careers/applications/jobs/results/140194199642219206) — Sunnyvale, CA, USA — posted —
-- [Software Engineer, Pixel Infrastructure, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/103688026671981254) — Mountain View, CA, USA — posted —
-- [Software Engineer, Cross-Platform Material](https://www.google.com/about/careers/applications/jobs/results/122948486462087878) — San Francisco, CA, USA — posted —
-
 ### Harvey
 
 - [Software Engineer](https://jobs.ashbyhq.com/harvey/581cd358-0186-48a6-b76f-c76946c5c7a7) — San Francisco — posted 2026-05-27
@@ -84,6 +67,26 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Staff / Senior Staff Backend Software Engineer, Workspace Agents](https://jobs.ashbyhq.com/openai/57f0728b-7747-471e-a8d5-9d0f763b057c) — San Francisco — posted 2026-05-28
 - [Software Engineer, Cyber Frontier](https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b) — San Francisco — posted 2026-05-27
+
+### Robinhood
+
+- [Senior Machine Learning Engineer](https://boards.greenhouse.io/robinhood/jobs/7976529?t=gh_src=&gh_jid=7976529) — Menlo Park, CA — posted 2026-06-02
+- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975563?t=gh_src=&gh_jid=7975563) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) — Menlo Park, CA — posted 2026-06-02
+- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975551?t=gh_src=&gh_jid=7975551) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) — Menlo Park, CA — posted 2026-06-02
+- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975544?t=gh_src=&gh_jid=7975544) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526) — Menlo Park, CA — posted 2026-06-02
+- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975519?t=gh_src=&gh_jid=7975519) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975516?t=gh_src=&gh_jid=7975516) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480) — Menlo Park, CA — posted 2026-06-02
+- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734) — Menlo Park, CA — posted 2026-06-02
 
 ### Twilio
 
