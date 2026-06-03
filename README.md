@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-03T18:00:00.000Z
-**Active roles:** 50 of 200 across 12 companies
+**Last scan:** 2026-06-03T20:21:15.564Z
+**Active roles:** 50 of 205 across 14 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -16,6 +16,15 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Atlassian
 
 - [Senior Infrastructure Software Engineer | DX](https://www.atlassian.com/company/careers/details/25116) — Salt Lake City, United States / Remote — posted —
+
+### Confluent
+
+- [Senior Software Engineer](https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772) — *Job Posting Only: USA1 — posted 2026-06-03
+- [Senior Software Engineer - Infrastructure](https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4) — CA Remote Ontario — posted 2026-06-03
+
+### Mercury
+
+- [Senior Design Engineer - Top of Funnel](https://job-boards.greenhouse.io/mercury/jobs/5986638004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-03
 
 ### Meta
 
@@ -56,11 +65,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526) — Menlo Park, CA — posted 2026-06-02
-- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975519?t=gh_src=&gh_jid=7975519) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975516?t=gh_src=&gh_jid=7975516) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734) — Menlo Park, CA — posted 2026-06-02
 
 ### Sierra
 
@@ -78,6 +82,8 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Vapi
 
+- [Member of Technical Staff, DevOps](https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50) — San Francisco — posted 2026-06-03
+- [Member of Technical Staff, Site Reliablity Engineer](https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4) — San Francisco — posted 2026-06-03
 - [Member of Technical Staff, Core Backend](https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df) — San Francisco — posted 2026-06-03
 
 ### Writer
