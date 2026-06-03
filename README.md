@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-02T22:13:13.458Z
-**Active roles:** 50 of 170 across 14 companies
+**Last scan:** 2026-06-03T04:51:59.399Z
+**Active roles:** 50 of 173 across 14 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -23,9 +23,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer, EC2 Nitro](https://www.amazon.jobs/en/jobs/10430582/software-engineer-ec2-nitro) — Seattle, WA, USA — posted —
 - [Senior Software Engineer, Amazon Photos](https://www.amazon.jobs/en/jobs/10421006/senior-software-engineer-amazon-photos) — Seattle, WA, USA — posted —
 - [Software Engineer, Creator Sponsorships](https://www.amazon.jobs/en/jobs/3145977/software-engineer-creator-sponsorships) — San Francisco, CA, USA — posted —
-- [Senior Software Engineer, Prime Air](https://www.amazon.jobs/en/jobs/3177500/senior-software-engineer-prime-air) — Seattle, WA, USA — posted —
-- [Senior Software Engineer III](https://www.amazon.jobs/en/jobs/10406805/senior-software-engineer-iii) — Dallas, TX, USA — posted —
-- [Software Engineer, EC2 Nitro](https://www.amazon.jobs/en/jobs/10396449/software-engineer-ec2-nitro) — Seattle, WA, USA — posted —
 
 ### Baseten
 
@@ -59,6 +56,9 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Nuro
 
+- [Software Engineer, Performance - New Grad](https://nuro.ai/careersitem?gh_jid=7978432) — Mountain View, California (HQ) — posted 2026-06-03
+- [Software Engineer, Performance](https://nuro.ai/careersitem?gh_jid=7978428) — Mountain View, California (HQ) — posted 2026-06-03
+- [Senior Software Engineer, Performance](https://nuro.ai/careersitem?gh_jid=7978431) — Mountain View, California (HQ) — posted 2026-06-03
 - [Technical Lead, Evaluation Infrastructure](https://nuro.ai/careersitem?gh_jid=7963886) — Mountain View, California (HQ) — posted 2026-05-28
 
 ### OpenAI

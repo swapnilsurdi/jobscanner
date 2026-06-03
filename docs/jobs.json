@@ -1,5 +1,38 @@
 [
   {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance - New Grad",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
+    "posted_at": "2026-06-03T00:38:51-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978432",
+    "last_seen_at": "2026-06-03T04:51:59.399Z"
+  },
+  {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
+    "posted_at": "2026-06-03T00:38:50-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978428",
+    "last_seen_at": "2026-06-03T04:51:59.399Z"
+  },
+  {
+    "company": "Nuro",
+    "title": "Senior Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
+    "posted_at": "2026-06-03T00:38:43-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978431",
+    "last_seen_at": "2026-06-03T04:51:59.399Z"
+  },
+  {
     "company": "Twilio",
     "title": "Senior Strategic Account Executive",
     "location": "Remote - US",
