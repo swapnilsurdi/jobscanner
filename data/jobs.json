@@ -1,5 +1,45 @@
 [
   {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7977313",
+    "posted_at": "2026-06-02T18:11:06-04:00",
+    "discovered_at": "2026-06-02T22:13:13.458Z",
+    "source": "greenhouse",
+    "external_id": "7977313"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - Brazil",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
+    "posted_at": "2026-06-01T16:04:51-04:00",
+    "discovered_at": "2026-06-01T20:47:58.970Z",
+    "source": "greenhouse",
+    "external_id": "7968031"
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3) Data Substrate",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
+    "posted_at": "2026-06-01T13:07:39-04:00",
+    "discovered_at": "2026-06-01T18:28:52.644Z",
+    "source": "greenhouse",
+    "external_id": "7954715"
+  },
+  {
+    "company": "Twilio",
+    "title": "Staff, Software Engineer (L4) - Email",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
+    "posted_at": "2026-06-01T15:38:55-04:00",
+    "discovered_at": "2026-06-01T19:47:55.129Z",
+    "source": "greenhouse",
+    "external_id": "7967685"
+  },
+  {
     "company": "Airbyte",
     "title": "Senior GTM Engineer",
     "location": "San Francisco",
@@ -8,36 +48,6 @@
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "ashby",
     "external_id": "a55bbee6-e0cb-4074-8461-805e16323cd9"
-  },
-  {
-    "company": "Baseten",
-    "title": "Software Engineer- BIS (Baseten Inference Stack)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
-    "posted_at": "2026-06-02T00:16:06.843+00:00",
-    "discovered_at": "2026-06-02T01:10:47.199Z",
-    "source": "ashby",
-    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
-  },
-  {
-    "company": "Sierra",
-    "title": "Software Engineer, Payments Infrastructure",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
-    "posted_at": "2026-06-02T17:38:25.749+00:00",
-    "discovered_at": "2026-06-02T18:13:58.181Z",
-    "source": "ashby",
-    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, Core Backend",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
-    "posted_at": "2026-06-03T17:19:36.120+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
   },
   {
     "company": "Nuro",
@@ -78,6 +88,36 @@
     "discovered_at": "2026-06-02T00:03:42.670Z",
     "source": "greenhouse",
     "external_id": "7974966"
+  },
+  {
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Machine Learning Platform",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
+    "posted_at": "2026-06-02T10:50:40-04:00",
+    "discovered_at": "2026-06-02T15:04:29.499Z",
+    "source": "greenhouse",
+    "external_id": "7939868"
+  },
+  {
+    "company": "Baseten",
+    "title": "Software Engineer- BIS (Baseten Inference Stack)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
+    "posted_at": "2026-06-02T00:16:06.843+00:00",
+    "discovered_at": "2026-06-02T01:10:47.199Z",
+    "source": "ashby",
+    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, Core Backend",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
+    "posted_at": "2026-06-03T17:19:36.120+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
   },
   {
     "company": "Robinhood",
@@ -310,54 +350,14 @@
     "external_id": "33a48d64-ba8c-444f-a41d-9c77c6c00320"
   },
   {
-    "company": "Stripe",
-    "title": "Staff Software Engineer, Machine Learning Platform",
-    "location": "San Francisco, Seattle",
-    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
-    "posted_at": "2026-06-02T10:50:40-04:00",
-    "discovered_at": "2026-06-02T15:04:29.499Z",
-    "source": "greenhouse",
-    "external_id": "7939868"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7977313",
-    "posted_at": "2026-06-02T18:11:06-04:00",
-    "discovered_at": "2026-06-02T22:13:13.458Z",
-    "source": "greenhouse",
-    "external_id": "7977313"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - Brazil",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
-    "posted_at": "2026-06-01T16:04:51-04:00",
-    "discovered_at": "2026-06-01T20:47:58.970Z",
-    "source": "greenhouse",
-    "external_id": "7968031"
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer (L3) Data Substrate",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
-    "posted_at": "2026-06-01T13:07:39-04:00",
-    "discovered_at": "2026-06-01T18:28:52.644Z",
-    "source": "greenhouse",
-    "external_id": "7954715"
-  },
-  {
-    "company": "Twilio",
-    "title": "Staff, Software Engineer (L4) - Email",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
-    "posted_at": "2026-06-01T15:38:55-04:00",
-    "discovered_at": "2026-06-01T19:47:55.129Z",
-    "source": "greenhouse",
-    "external_id": "7967685"
+    "company": "Sierra",
+    "title": "Software Engineer, Payments Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
+    "posted_at": "2026-06-02T17:38:25.749+00:00",
+    "discovered_at": "2026-06-02T18:13:58.181Z",
+    "source": "ashby",
+    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
   },
   {
     "company": "Datadog",
@@ -368,285 +368,5 @@
     "discovered_at": "2026-06-01T19:47:55.129Z",
     "source": "greenhouse",
     "external_id": "7974511"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Systems Engineer",
-    "location": "Bellevue, WA +2 locations",
-    "url": "https://www.metacareers.com/profile/job_details/1292061312445123",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-1292061312445123"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer (Technical Leadership)",
-    "location": "Sunnyvale, CA +6 locations",
-    "url": "https://www.metacareers.com/profile/job_details/1187958502273564",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-1187958502273564"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer, Systems ML",
-    "location": "Sunnyvale, CA +1 locations",
-    "url": "https://www.metacareers.com/profile/job_details/3414246448833665",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-3414246448833665"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer, Video AI/ML Specialist",
-    "location": "Bellevue, WA +2 locations",
-    "url": "https://www.metacareers.com/profile/job_details/902497998816139",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-902497998816139"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer, Systems ML - SW/HW Co-design",
-    "location": "Sunnyvale, CA +1 locations",
-    "url": "https://www.metacareers.com/profile/job_details/1108948753413269",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-1108948753413269"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer, AI Specialist - Monetization (Technical Leadership)",
-    "location": "Sunnyvale, CA",
-    "url": "https://www.metacareers.com/profile/job_details/1154738753397824",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-1154738753397824"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer - AI SysML (Technical Leadership)",
-    "location": "Sunnyvale, CA +2 locations",
-    "url": "https://www.metacareers.com/profile/job_details/596583419835692",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-596583419835692"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer, Databases (Technical Leadership)",
-    "location": "Bellevue, WA +1 locations",
-    "url": "https://www.metacareers.com/profile/job_details/922434207363047",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-922434207363047"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer, Audio Embedded Device",
-    "location": "Sunnyvale, CA +2 locations",
-    "url": "https://www.metacareers.com/profile/job_details/4369370729998039",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-4369370729998039"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer (Technical Leadership)",
-    "location": "Menlo Park, CA",
-    "url": "https://www.metacareers.com/profile/job_details/978903851762450",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-978903851762450"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer, Machine Learning",
-    "location": "Sunnyvale, CA +13 locations",
-    "url": "https://www.metacareers.com/profile/job_details/1436181490732782",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-1436181490732782"
-  },
-  {
-    "company": "Meta",
-    "title": "Software Engineer (Technical Leadership) - Host Networking",
-    "location": "Menlo Park, CA +1 locations",
-    "url": "https://www.metacareers.com/profile/job_details/1339970608030608",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-1339970608030608"
-  },
-  {
-    "company": "Atlassian",
-    "title": "Senior Infrastructure Software Engineer | DX",
-    "location": "Salt Lake City, United States / Remote",
-    "url": "https://www.atlassian.com/company/careers/details/25116",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-25116"
-  },
-  {
-    "company": "Zoox",
-    "title": "AV Safety Software Engineer",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/78320bf3-5c38-4583-a16b-e67b676cc1f8",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-78320bf3"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Engineer - 3D Simulation Applications",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/bebe062b-0315-4730-83dd-0c186d8444c5",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-bebe062b"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Engineer - C++ GPU Performance",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/2042bc12-6247-48d5-a9fb-a6e41363a5ce",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-2042bc12"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Engineer - Core Sensors",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/fa96e7a4-df02-41c3-91c6-248a5bad6fa7",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-fa96e7a4"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Engineer - Mapping Automation",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/87edbf16-c565-48b4-8fcf-546bcc6bdf61",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-87edbf16"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Engineer - Performance",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/364f69da-b4bb-48f3-ac43-b8fe9065789d",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-364f69da"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Engineer, Full-Stack Android",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/24acff6d-ef3d-4b4e-8856-455164bd8378",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-24acff6d"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Integration Engineer",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/2aa94106-52ac-4f67-871b-1140f8644ea4",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-2aa94106"
-  },
-  {
-    "company": "Zoox",
-    "title": "Senior Software Systems Engineer - Middleware & Diagnostics",
-    "location": "Foster City, CA",
-    "url": "https://jobs.lever.co/zoox/c6afbf00-9a9e-404f-8228-bc68383e1c8d",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-c6afbf00"
-  },
-  {
-    "company": "Snowflake",
-    "title": "Software Engineer - Backend",
-    "location": "Menlo Park, California, United States",
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-sn-dd524b93"
-  },
-  {
-    "company": "Snowflake",
-    "title": "Software Engineer - APG",
-    "location": "Menlo Park, California, United States",
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUS7791AB6A66D34A20BCE877FFC470EA41EXTERNALENUS5F4AE8D3BF84430D8F9F325F14DDF947/Software-Engineer-APG",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-sn-7791ab6a"
-  },
-  {
-    "company": "Snowflake",
-    "title": "Software Engineer, Data Governance",
-    "location": "Menlo Park, California, United States",
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUS6C0368BABDCF4D8FB5BAC47B389DD77AEXTERNALENUSD8816F3F89D64434BC24EAF4169C1D95/Software-Engineer-Data-Governance",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-sn-6c0368ba"
-  },
-  {
-    "company": "Apple",
-    "title": "Core Audio System Software Engineer",
-    "location": "Cupertino",
-    "url": "https://jobs.apple.com/en-us/details/200666534-0836/core-audio-system-software-engineer",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-200666534"
-  },
-  {
-    "company": "Apple",
-    "title": "AI Software Engineer, Siri User Experiences",
-    "location": "Cupertino",
-    "url": "https://jobs.apple.com/en-us/details/200666380-0836/ai-software-engineer-siri-user-experiences",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-200666380"
-  },
-  {
-    "company": "Apple",
-    "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-    "location": "Cupertino",
-    "url": "https://jobs.apple.com/en-us/details/200666337-0836/wi-fi-software-engineer-wireless-technologies-ecosystems",
-    "posted_at": "",
-    "discovered_at": "2026-06-03T18:00:00.000Z",
-    "source": "playwright",
-    "external_id": "pw-200666337"
   }
 ]
