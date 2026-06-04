@@ -1,5 +1,27 @@
 [
   {
+    "company": "Writer",
+    "title": "Software engineer, connectors & MCP",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e",
+    "posted_at": "2026-06-03T21:36:39.317+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
+    "source": "ashby",
+    "external_id": "26f309e7-04eb-4467-b201-b0a909b9524e",
+    "last_seen_at": "2026-06-03T21:42:47.433Z"
+  },
+  {
+    "company": "Airbyte",
+    "title": "Senior Integrations Engineer (API Sources & Automation)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005",
+    "posted_at": "2026-06-03T21:15:50.875+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
+    "source": "ashby",
+    "external_id": "cf6a373c-1649-45f0-857d-4974b1c25005",
+    "last_seen_at": "2026-06-03T21:42:47.433Z"
+  },
+  {
     "company": "Vapi",
     "title": "Member of Technical Staff, DevOps",
     "location": "San Francisco",

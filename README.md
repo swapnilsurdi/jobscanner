@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-03T20:21:15.564Z
-**Active roles:** 50 of 205 across 14 companies
+**Last scan:** 2026-06-03T21:42:47.433Z
+**Active roles:** 50 of 207 across 14 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -11,6 +11,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Airbyte
 
+- [Senior Integrations Engineer (API Sources & Automation)](https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005) — San Francisco — posted 2026-06-03
 - [Senior GTM Engineer](https://jobs.ashbyhq.com/airbyte/a55bbee6-e0cb-4074-8461-805e16323cd9) — San Francisco — posted 2026-06-02
 
 ### Atlassian
@@ -63,8 +64,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975544?t=gh_src=&gh_jid=7975544) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526) — Menlo Park, CA — posted 2026-06-02
 
 ### Sierra
 
@@ -88,6 +87,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Writer
 
+- [Software engineer, connectors & MCP](https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e) — San Francisco, CA — posted 2026-06-03
 - [Software engineer, generative AI](https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c) — San Francisco, CA — posted 2026-06-03
 
 ### Zoox

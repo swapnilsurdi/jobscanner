@@ -1,43 +1,123 @@
 [
   {
-    "company": "Nuro",
-    "title": "Senior Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
-    "posted_at": "2026-06-03T00:38:43-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978431"
+    "company": "Sierra",
+    "title": "Software Engineer, Payments Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
+    "posted_at": "2026-06-02T17:38:25.749+00:00",
+    "discovered_at": "2026-06-02T18:13:58.181Z",
+    "source": "ashby",
+    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
   },
   {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
-    "posted_at": "2026-06-03T00:38:50-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978428"
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Cloud Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
+    "posted_at": "2026-06-03T15:09:25.530+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "0d722589-0f8c-4500-ae79-d3bba5c8a0ea"
   },
   {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance - New Grad",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
-    "posted_at": "2026-06-03T00:38:51-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978432"
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Data Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6",
+    "posted_at": "2026-06-03T15:09:34.130+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "2e73bc78-684c-47c5-95df-e9973a10e0b6"
   },
   {
-    "company": "Nuro",
-    "title": "Staff Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
-    "posted_at": "2026-06-01T18:01:08-04:00",
-    "discovered_at": "2026-06-02T00:03:42.670Z",
-    "source": "greenhouse",
-    "external_id": "7974966"
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b",
+    "posted_at": "2026-06-03T15:09:42.080+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "7795683f-6c5f-40cd-af2d-51294edddd4b"
+  },
+  {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Storage Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf",
+    "posted_at": "2026-06-03T15:09:51.053+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "b404e73c-5aff-4151-a1a8-6593fb6ccabf"
+  },
+  {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Enterprise Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/33a48d64-ba8c-444f-a41d-9c77c6c00320",
+    "posted_at": "2026-06-03T16:21:28.114+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "33a48d64-ba8c-444f-a41d-9c77c6c00320"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, Core Backend",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
+    "posted_at": "2026-06-03T17:19:36.120+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, Site Reliablity Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4",
+    "posted_at": "2026-06-03T20:12:26.288+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "4b6abd59-ac74-40e9-8cab-74253078aaf4"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, DevOps",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50",
+    "posted_at": "2026-06-03T20:13:31.781+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "2d702840-a588-4273-8b98-49ed815c0c50"
+  },
+  {
+    "company": "Confluent",
+    "title": "Senior Software Engineer",
+    "location": "*Job Posting Only: USA1",
+    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
+    "posted_at": "2026-06-03T19:45:32.470+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
+  },
+  {
+    "company": "Confluent",
+    "title": "Senior Software Engineer - Infrastructure",
+    "location": "CA Remote Ontario",
+    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
+    "posted_at": "2026-06-03T19:44:12.337+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
+  },
+  {
+    "company": "Baseten",
+    "title": "Software Engineer- BIS (Baseten Inference Stack)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
+    "posted_at": "2026-06-02T00:16:06.843+00:00",
+    "discovered_at": "2026-06-02T01:10:47.199Z",
+    "source": "ashby",
+    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
   },
   {
     "company": "Twilio",
@@ -80,36 +160,6 @@
     "external_id": "7967685"
   },
   {
-    "company": "Sierra",
-    "title": "Software Engineer, Payments Infrastructure",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
-    "posted_at": "2026-06-02T17:38:25.749+00:00",
-    "discovered_at": "2026-06-02T18:13:58.181Z",
-    "source": "ashby",
-    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
-  },
-  {
-    "company": "Airbyte",
-    "title": "Senior GTM Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/airbyte/a55bbee6-e0cb-4074-8461-805e16323cd9",
-    "posted_at": "2026-06-02T16:57:16.133+00:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "ashby",
-    "external_id": "a55bbee6-e0cb-4074-8461-805e16323cd9"
-  },
-  {
-    "company": "Mercury",
-    "title": "Senior Design Engineer - Top of Funnel",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/5986638004",
-    "posted_at": "2026-06-03T15:16:14-04:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "greenhouse",
-    "external_id": "5986638004"
-  },
-  {
     "company": "Robinhood",
     "title": "Senior Machine Learning Engineer",
     "location": "Menlo Park, CA",
@@ -133,16 +183,6 @@
     "company": "Robinhood",
     "title": "Senior Software Engineer",
     "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975519?t=gh_src=&gh_jid=7975519",
-    "posted_at": "2026-06-01T22:22:00-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975519"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Senior Software Engineer",
-    "location": "Menlo Park, CA",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7975563?t=gh_src=&gh_jid=7975563",
     "posted_at": "2026-06-01T22:52:44-04:00",
     "discovered_at": "2026-06-02T17:02:35.925Z",
@@ -161,13 +201,23 @@
   },
   {
     "company": "Robinhood",
-    "title": "Software Engineer",
+    "title": "Senior Software Engineer",
     "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480",
-    "posted_at": "2026-06-01T21:58:52-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975519?t=gh_src=&gh_jid=7975519",
+    "posted_at": "2026-06-01T22:22:00-04:00",
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
-    "external_id": "7975480"
+    "external_id": "7975519"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550",
+    "posted_at": "2026-06-01T22:38:19-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "greenhouse",
+    "external_id": "7975550"
   },
   {
     "company": "Robinhood",
@@ -178,6 +228,16 @@
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
     "external_id": "7960734"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineer",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480",
+    "posted_at": "2026-06-01T21:58:52-04:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "greenhouse",
+    "external_id": "7975480"
   },
   {
     "company": "Robinhood",
@@ -253,16 +313,6 @@
     "company": "Robinhood",
     "title": "Software Engineer",
     "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550",
-    "posted_at": "2026-06-01T22:38:19-04:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "greenhouse",
-    "external_id": "7975550"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Software Engineer",
-    "location": "Menlo Park, CA",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557",
     "posted_at": "2026-06-01T22:47:54-04:00",
     "discovered_at": "2026-06-02T17:02:35.925Z",
@@ -278,6 +328,66 @@
     "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "greenhouse",
     "external_id": "7975558"
+  },
+  {
+    "company": "Nuro",
+    "title": "Senior Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
+    "posted_at": "2026-06-03T00:38:43-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978431"
+  },
+  {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
+    "posted_at": "2026-06-03T00:38:50-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978428"
+  },
+  {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance - New Grad",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
+    "posted_at": "2026-06-03T00:38:51-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978432"
+  },
+  {
+    "company": "Nuro",
+    "title": "Staff Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
+    "posted_at": "2026-06-01T18:01:08-04:00",
+    "discovered_at": "2026-06-02T00:03:42.670Z",
+    "source": "greenhouse",
+    "external_id": "7974966"
+  },
+  {
+    "company": "Writer",
+    "title": "Software engineer, generative AI",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c",
+    "posted_at": "2026-06-03T17:33:11.886+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "4d5f11bd-0375-4bc2-af4d-9434e103957c"
+  },
+  {
+    "company": "Writer",
+    "title": "Software engineer, connectors & MCP",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e",
+    "posted_at": "2026-06-03T21:36:39.317+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
+    "source": "ashby",
+    "external_id": "26f309e7-04eb-4467-b201-b0a909b9524e"
   },
   {
     "company": "Datadog",
@@ -300,123 +410,33 @@
     "external_id": "7939868"
   },
   {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, Core Backend",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
-    "posted_at": "2026-06-03T17:19:36.120+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, Site Reliablity Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4",
-    "posted_at": "2026-06-03T20:12:26.288+00:00",
+    "company": "Mercury",
+    "title": "Senior Design Engineer - Top of Funnel",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5986638004",
+    "posted_at": "2026-06-03T15:16:14-04:00",
     "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "4b6abd59-ac74-40e9-8cab-74253078aaf4"
+    "source": "greenhouse",
+    "external_id": "5986638004"
   },
   {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, DevOps",
+    "company": "Airbyte",
+    "title": "Senior GTM Engineer",
     "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50",
-    "posted_at": "2026-06-03T20:13:31.781+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "url": "https://jobs.ashbyhq.com/airbyte/a55bbee6-e0cb-4074-8461-805e16323cd9",
+    "posted_at": "2026-06-02T16:57:16.133+00:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
     "source": "ashby",
-    "external_id": "2d702840-a588-4273-8b98-49ed815c0c50"
+    "external_id": "a55bbee6-e0cb-4074-8461-805e16323cd9"
   },
   {
-    "company": "Writer",
-    "title": "Software engineer, generative AI",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c",
-    "posted_at": "2026-06-03T17:33:11.886+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "4d5f11bd-0375-4bc2-af4d-9434e103957c"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer",
-    "location": "*Job Posting Only: USA1",
-    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
-    "posted_at": "2026-06-03T19:45:32.470+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer - Infrastructure",
-    "location": "CA Remote Ontario",
-    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
-    "posted_at": "2026-06-03T19:44:12.337+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
-  },
-  {
-    "company": "Baseten",
-    "title": "Software Engineer- BIS (Baseten Inference Stack)",
+    "company": "Airbyte",
+    "title": "Senior Integrations Engineer (API Sources & Automation)",
     "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
-    "posted_at": "2026-06-02T00:16:06.843+00:00",
-    "discovered_at": "2026-06-02T01:10:47.199Z",
+    "url": "https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005",
+    "posted_at": "2026-06-03T21:15:50.875+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
     "source": "ashby",
-    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (Software Engineer, Cloud Infrastructure)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
-    "posted_at": "2026-06-03T15:09:25.530+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "0d722589-0f8c-4500-ae79-d3bba5c8a0ea"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (Software Engineer, Data Platform)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6",
-    "posted_at": "2026-06-03T15:09:34.130+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "2e73bc78-684c-47c5-95df-e9973a10e0b6"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b",
-    "posted_at": "2026-06-03T15:09:42.080+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "7795683f-6c5f-40cd-af2d-51294edddd4b"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (Software Engineer, Storage Platform)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf",
-    "posted_at": "2026-06-03T15:09:51.053+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "b404e73c-5aff-4151-a1a8-6593fb6ccabf"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (Software Engineer, Enterprise Platform)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/33a48d64-ba8c-444f-a41d-9c77c6c00320",
-    "posted_at": "2026-06-03T16:21:28.114+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "33a48d64-ba8c-444f-a41d-9c77c6c00320"
+    "external_id": "cf6a373c-1649-45f0-857d-4974b1c25005"
   }
 ]
