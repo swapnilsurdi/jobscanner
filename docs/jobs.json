@@ -1,5 +1,60 @@
 [
   {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
+    "posted_at": "2026-06-04T19:12:59.151+00:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "ashby",
+    "external_id": "e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
+    "last_seen_at": "2026-06-04T22:32:17.810Z"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Linux Kernel/eBPF",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548",
+    "posted_at": "2026-06-04T16:10:16-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "7983548",
+    "last_seen_at": "2026-06-04T22:32:17.810Z"
+  },
+  {
+    "company": "CoreWeave",
+    "title": "Senior Security Engineer II, Cloud Security",
+    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA",
+    "url": "https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006",
+    "posted_at": "2026-06-04T15:34:26-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "4686324006",
+    "last_seen_at": "2026-06-04T22:32:17.810Z"
+  },
+  {
+    "company": "Cerebras",
+    "title": "Senior Front End Design Engineer (Microarchitecture)",
+    "location": "Sunnyvale, CA",
+    "url": "https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003",
+    "posted_at": "2026-06-04T15:09:29-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "7763907003",
+    "last_seen_at": "2026-06-04T22:32:17.810Z"
+  },
+  {
+    "company": "Mercury",
+    "title": "Senior Risk Strategist - Fraud",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6013670004",
+    "posted_at": "2026-06-04T12:18:32-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "6013670004",
+    "last_seen_at": "2026-06-04T22:32:17.810Z"
+  },
+  {
     "company": "Writer",
     "title": "Software engineer, connectors & MCP",
     "location": "San Francisco, CA",

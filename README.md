@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-03T21:42:47.433Z
-**Active roles:** 50 of 207 across 14 companies
+**Last scan:** 2026-06-04T22:32:17.810Z
+**Active roles:** 50 of 212 across 17 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -18,13 +18,26 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Senior Infrastructure Software Engineer | DX](https://www.atlassian.com/company/careers/details/25116) — Salt Lake City, United States / Remote — posted —
 
+### Cerebras
+
+- [Senior Front End Design Engineer (Microarchitecture)](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003) — Sunnyvale, CA — posted 2026-06-04
+
 ### Confluent
 
 - [Senior Software Engineer](https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772) — *Job Posting Only: USA1 — posted 2026-06-03
 - [Senior Software Engineer - Infrastructure](https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4) — CA Remote Ontario — posted 2026-06-03
 
+### CoreWeave
+
+- [Senior Security Engineer II, Cloud Security](https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006) — Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA — posted 2026-06-04
+
+### Datadog
+
+- [Senior Software Engineer - Linux Kernel/eBPF](https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548) — New York, New York, USA — posted 2026-06-04
+
 ### Mercury
 
+- [Senior Risk Strategist - Fraud](https://job-boards.greenhouse.io/mercury/jobs/6013670004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-04
 - [Senior Design Engineer - Top of Funnel](https://job-boards.greenhouse.io/mercury/jobs/5986638004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-03
 
 ### Meta
@@ -46,6 +59,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Perplexity
 
+- [Member of Technical Staff (Software Engineer, Computer Growth)](https://jobs.ashbyhq.com/perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d) — San Francisco — posted 2026-06-04
 - [Member of Technical Staff (Software Engineer, Enterprise Platform)](https://jobs.ashbyhq.com/perplexity/33a48d64-ba8c-444f-a41d-9c77c6c00320) — San Francisco — posted 2026-06-03
 - [Member of Technical Staff (Software Engineer, Storage Platform)](https://jobs.ashbyhq.com/perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf) — San Francisco — posted 2026-06-03
 - [Member of Technical Staff (Software Engineer, Backend Platform)](https://jobs.ashbyhq.com/perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b) — San Francisco — posted 2026-06-03
@@ -59,11 +73,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) — Menlo Park, CA — posted 2026-06-02
 - [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975551?t=gh_src=&gh_jid=7975551) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) — Menlo Park, CA — posted 2026-06-02
-- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975544?t=gh_src=&gh_jid=7975544) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530) — Menlo Park, CA — posted 2026-06-02
 
 ### Sierra
 
