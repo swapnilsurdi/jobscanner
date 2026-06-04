@@ -1,5 +1,75 @@
 [
   {
+    "company": "Mercury",
+    "title": "Senior Design Engineer - Top of Funnel",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5986638004",
+    "posted_at": "2026-06-03T15:16:14-04:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "greenhouse",
+    "external_id": "5986638004"
+  },
+  {
+    "company": "Airbyte",
+    "title": "Senior GTM Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/airbyte/a55bbee6-e0cb-4074-8461-805e16323cd9",
+    "posted_at": "2026-06-02T16:57:16.133+00:00",
+    "discovered_at": "2026-06-02T17:02:35.925Z",
+    "source": "ashby",
+    "external_id": "a55bbee6-e0cb-4074-8461-805e16323cd9"
+  },
+  {
+    "company": "Airbyte",
+    "title": "Senior Integrations Engineer (API Sources & Automation)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005",
+    "posted_at": "2026-06-03T21:15:50.875+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
+    "source": "ashby",
+    "external_id": "cf6a373c-1649-45f0-857d-4974b1c25005"
+  },
+  {
+    "company": "Nuro",
+    "title": "Senior Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
+    "posted_at": "2026-06-03T00:38:43-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978431"
+  },
+  {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
+    "posted_at": "2026-06-03T00:38:50-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978428"
+  },
+  {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance - New Grad",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
+    "posted_at": "2026-06-03T00:38:51-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978432"
+  },
+  {
+    "company": "Nuro",
+    "title": "Staff Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
+    "posted_at": "2026-06-01T18:01:08-04:00",
+    "discovered_at": "2026-06-02T00:03:42.670Z",
+    "source": "greenhouse",
+    "external_id": "7974966"
+  },
+  {
     "company": "Vapi",
     "title": "Member of Technical Staff, Core Backend",
     "location": "San Francisco",
@@ -50,14 +120,24 @@
     "external_id": "26f309e7-04eb-4467-b201-b0a909b9524e"
   },
   {
-    "company": "Sierra",
-    "title": "Software Engineer, Payments Infrastructure",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
-    "posted_at": "2026-06-02T17:38:25.749+00:00",
-    "discovered_at": "2026-06-02T18:13:58.181Z",
+    "company": "Confluent",
+    "title": "Senior Software Engineer",
+    "location": "*Job Posting Only: USA1",
+    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
+    "posted_at": "2026-06-03T19:45:32.470+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
     "source": "ashby",
-    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
+    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
+  },
+  {
+    "company": "Confluent",
+    "title": "Senior Software Engineer - Infrastructure",
+    "location": "CA Remote Ontario",
+    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
+    "posted_at": "2026-06-03T19:44:12.337+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
   },
   {
     "company": "Perplexity",
@@ -110,54 +190,14 @@
     "external_id": "33a48d64-ba8c-444f-a41d-9c77c6c00320"
   },
   {
-    "company": "Mercury",
-    "title": "Senior Design Engineer - Top of Funnel",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/5986638004",
-    "posted_at": "2026-06-03T15:16:14-04:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - Brazil",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
+    "posted_at": "2026-06-01T16:04:51-04:00",
+    "discovered_at": "2026-06-01T20:47:58.970Z",
     "source": "greenhouse",
-    "external_id": "5986638004"
-  },
-  {
-    "company": "Nuro",
-    "title": "Senior Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
-    "posted_at": "2026-06-03T00:38:43-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978431"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
-    "posted_at": "2026-06-03T00:38:50-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978428"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance - New Grad",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
-    "posted_at": "2026-06-03T00:38:51-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978432"
-  },
-  {
-    "company": "Nuro",
-    "title": "Staff Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7974966",
-    "posted_at": "2026-06-01T18:01:08-04:00",
-    "discovered_at": "2026-06-02T00:03:42.670Z",
-    "source": "greenhouse",
-    "external_id": "7974966"
+    "external_id": "7968031"
   },
   {
     "company": "Twilio",
@@ -168,16 +208,6 @@
     "discovered_at": "2026-06-02T22:13:13.458Z",
     "source": "greenhouse",
     "external_id": "7977313"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - Brazil",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7968031",
-    "posted_at": "2026-06-01T16:04:51-04:00",
-    "discovered_at": "2026-06-01T20:47:58.970Z",
-    "source": "greenhouse",
-    "external_id": "7968031"
   },
   {
     "company": "Twilio",
@@ -198,6 +228,26 @@
     "discovered_at": "2026-06-01T19:47:55.129Z",
     "source": "greenhouse",
     "external_id": "7967685"
+  },
+  {
+    "company": "Baseten",
+    "title": "Software Engineer- BIS (Baseten Inference Stack)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
+    "posted_at": "2026-06-02T00:16:06.843+00:00",
+    "discovered_at": "2026-06-02T01:10:47.199Z",
+    "source": "ashby",
+    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Payments Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c",
+    "posted_at": "2026-06-02T17:38:25.749+00:00",
+    "discovered_at": "2026-06-02T18:13:58.181Z",
+    "source": "ashby",
+    "external_id": "8fe2757e-13e9-47e0-9d5a-90b2596a975c"
   },
   {
     "company": "Robinhood",
@@ -370,46 +420,6 @@
     "external_id": "7975558"
   },
   {
-    "company": "Airbyte",
-    "title": "Senior GTM Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/airbyte/a55bbee6-e0cb-4074-8461-805e16323cd9",
-    "posted_at": "2026-06-02T16:57:16.133+00:00",
-    "discovered_at": "2026-06-02T17:02:35.925Z",
-    "source": "ashby",
-    "external_id": "a55bbee6-e0cb-4074-8461-805e16323cd9"
-  },
-  {
-    "company": "Airbyte",
-    "title": "Senior Integrations Engineer (API Sources & Automation)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005",
-    "posted_at": "2026-06-03T21:15:50.875+00:00",
-    "discovered_at": "2026-06-03T21:42:47.433Z",
-    "source": "ashby",
-    "external_id": "cf6a373c-1649-45f0-857d-4974b1c25005"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer",
-    "location": "*Job Posting Only: USA1",
-    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
-    "posted_at": "2026-06-03T19:45:32.470+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer - Infrastructure",
-    "location": "CA Remote Ontario",
-    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
-    "posted_at": "2026-06-03T19:44:12.337+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
-  },
-  {
     "company": "Stripe",
     "title": "Staff Software Engineer, Machine Learning Platform",
     "location": "San Francisco, Seattle",
@@ -418,16 +428,6 @@
     "discovered_at": "2026-06-02T15:04:29.499Z",
     "source": "greenhouse",
     "external_id": "7939868"
-  },
-  {
-    "company": "Baseten",
-    "title": "Software Engineer- BIS (Baseten Inference Stack)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73",
-    "posted_at": "2026-06-02T00:16:06.843+00:00",
-    "discovered_at": "2026-06-02T01:10:47.199Z",
-    "source": "ashby",
-    "external_id": "c8701794-bdc1-4932-bffa-a444ce57ed73"
   },
   {
     "company": "Datadog",
