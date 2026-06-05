@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-05T18:46:18.494Z
-**Active roles:** 50 of 221 across 17 companies
+**Last scan:** 2026-06-05T21:59:31.127Z
+**Active roles:** 50 of 222 across 17 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -32,6 +32,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Datadog
 
+- [Senior Developer Advocate - Modern App Development](https://careers.datadoghq.com/detail/7985840/?gh_jid=7985840) — California, USA, Remote; Nevada, USA, Remote; Texas, USA, Remote; Washington, USA, Remote — posted 2026-06-05
 - [Senior Software Engineer - Linux Kernel/eBPF](https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548) — New York, New York, USA — posted 2026-06-04
 
 ### Decagon
@@ -58,7 +59,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Nuro
 
 - [Software Engineer, Performance - New Grad](https://nuro.ai/careersitem?gh_jid=7978432) — Mountain View, California (HQ) — posted 2026-06-03
-- [Software Engineer, Performance](https://nuro.ai/careersitem?gh_jid=7978428) — Mountain View, California (HQ) — posted 2026-06-03
 
 ### Perplexity
 
