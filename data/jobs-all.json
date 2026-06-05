@@ -1,5 +1,71 @@
 [
   {
+    "company": "Sierra",
+    "title": "Software Engineer, Voice",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9",
+    "posted_at": "2026-06-05T18:29:27.087+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "032c8ab4-1911-4477-bc39-9cfcd701d5a9",
+    "last_seen_at": "2026-06-05T18:46:18.494Z"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Insights",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f",
+    "posted_at": "2026-06-05T18:29:12.015+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "8cca0a0d-7359-410b-81ed-331a0bb4667f",
+    "last_seen_at": "2026-06-05T18:46:18.494Z"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Agent Builder",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07",
+    "posted_at": "2026-06-05T18:28:46.684+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "9b70b937-9634-4bcd-a10e-2671145f3a07",
+    "last_seen_at": "2026-06-05T18:46:18.494Z"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Product",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c",
+    "posted_at": "2026-06-05T18:28:21.257+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "5ae78769-a3a1-491c-8b4b-95472f1fb36c",
+    "last_seen_at": "2026-06-05T18:46:18.494Z"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88",
+    "posted_at": "2026-06-05T18:27:43.314+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "802d17c5-fe47-4b44-90e5-65e5e731ff88",
+    "last_seen_at": "2026-06-05T18:46:18.494Z"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Agent Data Platform",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324",
+    "posted_at": "2026-06-05T18:26:10.009+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "78c5dce4-3670-4c9b-a666-98f435c56324",
+    "last_seen_at": "2026-06-05T18:46:18.494Z"
+  },
+  {
     "company": "Decagon",
     "title": "Platform Engineer, Security",
     "location": "San Francisco",

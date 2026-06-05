@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-05T17:29:54.431Z
-**Active roles:** 50 of 215 across 19 companies
+**Last scan:** 2026-06-05T18:46:18.494Z
+**Active roles:** 50 of 221 across 17 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -12,7 +12,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Airbyte
 
 - [Senior Integrations Engineer (API Sources & Automation)](https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005) — San Francisco — posted 2026-06-03
-- [Senior GTM Engineer](https://jobs.ashbyhq.com/airbyte/a55bbee6-e0cb-4074-8461-805e16323cd9) — San Francisco — posted 2026-06-02
 
 ### Atlassian
 
@@ -60,7 +59,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Software Engineer, Performance - New Grad](https://nuro.ai/careersitem?gh_jid=7978432) — Mountain View, California (HQ) — posted 2026-06-03
 - [Software Engineer, Performance](https://nuro.ai/careersitem?gh_jid=7978428) — Mountain View, California (HQ) — posted 2026-06-03
-- [Senior Software Engineer, Performance](https://nuro.ai/careersitem?gh_jid=7978431) — Mountain View, California (HQ) — posted 2026-06-03
 
 ### Perplexity
 
@@ -75,24 +73,20 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Senior Talent Programs Lead](https://jobs.ashbyhq.com/replit/07a2d8e2-acba-411a-9601-9d424d2059dc) — Foster City, CA — posted 2026-06-04
 
-### Robinhood
-
-- [Senior Machine Learning Engineer](https://boards.greenhouse.io/robinhood/jobs/7976529?t=gh_src=&gh_jid=7976529) — Menlo Park, CA — posted 2026-06-02
-- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975563?t=gh_src=&gh_jid=7975563) — Menlo Park, CA — posted 2026-06-02
-
 ### Sierra
 
-- [Software Engineer, Payments Infrastructure](https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c) — San Francisco, CA — posted 2026-06-02
+- [Software Engineer, Voice](https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9) — San Francisco, CA — posted 2026-06-05
+- [Software Engineer, Insights](https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f) — San Francisco, CA — posted 2026-06-05
+- [Software Engineer, Agent Builder](https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07) — San Francisco, CA — posted 2026-06-05
+- [Software Engineer, Product](https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c) — San Francisco, CA — posted 2026-06-05
+- [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88) — San Francisco, CA — posted 2026-06-05
+- [Software Engineer, Agent Data Platform](https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324) — San Francisco, CA — posted 2026-06-05
 
 ### Snowflake
 
 - [Software Engineer, Data Governance](https://careers.snowflake.com/us/en/job/SNCOUS6C0368BABDCF4D8FB5BAC47B389DD77AEXTERNALENUSD8816F3F89D64434BC24EAF4169C1D95/Software-Engineer-Data-Governance) — Menlo Park, California, United States — posted —
 - [Software Engineer - APG](https://careers.snowflake.com/us/en/job/SNCOUS7791AB6A66D34A20BCE877FFC470EA41EXTERNALENUS5F4AE8D3BF84430D8F9F325F14DDF947/Software-Engineer-APG) — Menlo Park, California, United States — posted —
 - [Software Engineer - Backend](https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend) — Menlo Park, California, United States — posted —
-
-### Twilio
-
-- [Senior Strategic Account Executive](https://job-boards.greenhouse.io/twilio/jobs/7977313) — Remote - US — posted 2026-06-02
 
 ### Vapi
 
