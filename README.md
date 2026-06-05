@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-04T23:32:18.516Z
-**Active roles:** 50 of 213 across 18 companies
+**Last scan:** 2026-06-05T17:29:54.431Z
+**Active roles:** 50 of 215 across 19 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -34,6 +34,11 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 ### Datadog
 
 - [Senior Software Engineer - Linux Kernel/eBPF](https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548) — New York, New York, USA — posted 2026-06-04
+
+### Decagon
+
+- [Platform Engineer, Security](https://jobs.ashbyhq.com/decagon/3a68de82-c874-4cd2-b639-17948748e212) — San Francisco — posted 2026-06-05
+- [Senior Platform Engineer, Security](https://jobs.ashbyhq.com/decagon/59330f7d-3489-40c1-bff1-60e95d56b112) — San Francisco — posted 2026-06-05
 
 ### Mercury
 
@@ -74,8 +79,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 - [Senior Machine Learning Engineer](https://boards.greenhouse.io/robinhood/jobs/7976529?t=gh_src=&gh_jid=7976529) — Menlo Park, CA — posted 2026-06-02
 - [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975563?t=gh_src=&gh_jid=7975563) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558) — Menlo Park, CA — posted 2026-06-02
-- [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) — Menlo Park, CA — posted 2026-06-02
 
 ### Sierra
 
