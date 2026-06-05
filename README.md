@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-04T22:32:17.810Z
-**Active roles:** 50 of 212 across 17 companies
+**Last scan:** 2026-06-04T23:32:18.516Z
+**Active roles:** 50 of 213 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -66,13 +66,16 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Member of Technical Staff (Software Engineer, Data Platform)](https://jobs.ashbyhq.com/perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6) — San Francisco — posted 2026-06-03
 - [Member of Technical Staff (Software Engineer, Cloud Infrastructure)](https://jobs.ashbyhq.com/perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea) — San Francisco — posted 2026-06-03
 
+### Replit
+
+- [Senior Talent Programs Lead](https://jobs.ashbyhq.com/replit/07a2d8e2-acba-411a-9601-9d424d2059dc) — Foster City, CA — posted 2026-06-04
+
 ### Robinhood
 
 - [Senior Machine Learning Engineer](https://boards.greenhouse.io/robinhood/jobs/7976529?t=gh_src=&gh_jid=7976529) — Menlo Park, CA — posted 2026-06-02
 - [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975563?t=gh_src=&gh_jid=7975563) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558) — Menlo Park, CA — posted 2026-06-02
 - [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) — Menlo Park, CA — posted 2026-06-02
-- [Senior Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975551?t=gh_src=&gh_jid=7975551) — Menlo Park, CA — posted 2026-06-02
 
 ### Sierra
 
