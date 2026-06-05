@@ -1,25 +1,5 @@
 [
   {
-    "company": "Writer",
-    "title": "Software engineer, generative AI",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c",
-    "posted_at": "2026-06-03T17:33:11.886+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "4d5f11bd-0375-4bc2-af4d-9434e103957c"
-  },
-  {
-    "company": "Writer",
-    "title": "Software engineer, connectors & MCP",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e",
-    "posted_at": "2026-06-03T21:36:39.317+00:00",
-    "discovered_at": "2026-06-03T21:42:47.433Z",
-    "source": "ashby",
-    "external_id": "26f309e7-04eb-4467-b201-b0a909b9524e"
-  },
-  {
     "company": "Airbyte",
     "title": "Senior Integrations Engineer (API Sources & Automation)",
     "location": "San Francisco",
@@ -50,26 +30,6 @@
     "external_id": "6013670004"
   },
   {
-    "company": "Cerebras",
-    "title": "Senior Front End Design Engineer (Microarchitecture)",
-    "location": "Sunnyvale, CA",
-    "url": "https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003",
-    "posted_at": "2026-06-04T15:09:29-04:00",
-    "discovered_at": "2026-06-04T22:32:17.810Z",
-    "source": "greenhouse",
-    "external_id": "7763907003"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Linux Kernel/eBPF",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548",
-    "posted_at": "2026-06-04T16:10:16-04:00",
-    "discovered_at": "2026-06-04T22:32:17.810Z",
-    "source": "greenhouse",
-    "external_id": "7983548"
-  },
-  {
     "company": "Twilio",
     "title": "Senior Strategic Account Executive",
     "location": "Remote - US",
@@ -78,6 +38,16 @@
     "discovered_at": "2026-06-02T22:13:13.458Z",
     "source": "greenhouse",
     "external_id": "7977313"
+  },
+  {
+    "company": "Cerebras",
+    "title": "Senior Front End Design Engineer (Microarchitecture)",
+    "location": "Sunnyvale, CA",
+    "url": "https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003",
+    "posted_at": "2026-06-04T15:09:29-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "7763907003"
   },
   {
     "company": "Robinhood",
@@ -120,6 +90,46 @@
     "external_id": "7978432"
   },
   {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Linux Kernel/eBPF",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548",
+    "posted_at": "2026-06-04T16:10:16-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "7983548"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, Core Backend",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
+    "posted_at": "2026-06-03T17:19:36.120+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, Site Reliablity Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4",
+    "posted_at": "2026-06-03T20:12:26.288+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "4b6abd59-ac74-40e9-8cab-74253078aaf4"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, DevOps",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50",
+    "posted_at": "2026-06-03T20:13:31.781+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "2d702840-a588-4273-8b98-49ed815c0c50"
+  },
+  {
     "company": "Confluent",
     "title": "Senior Software Engineer",
     "location": "*Job Posting Only: USA1",
@@ -138,6 +148,26 @@
     "discovered_at": "2026-06-03T20:21:15.564Z",
     "source": "ashby",
     "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
+  },
+  {
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Machine Learning Platform",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
+    "posted_at": "2026-06-02T10:50:40-04:00",
+    "discovered_at": "2026-06-02T15:04:29.499Z",
+    "source": "greenhouse",
+    "external_id": "7939868"
+  },
+  {
+    "company": "CoreWeave",
+    "title": "Senior Security Engineer II, Cloud Security",
+    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA",
+    "url": "https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006",
+    "posted_at": "2026-06-04T15:34:26-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "4686324006"
   },
   {
     "company": "Perplexity",
@@ -200,24 +230,24 @@
     "external_id": "e7ab0be5-68ba-4a2c-abb1-ee33886d955d"
   },
   {
-    "company": "Stripe",
-    "title": "Staff Software Engineer, Machine Learning Platform",
-    "location": "San Francisco, Seattle",
-    "url": "https://stripe.com/jobs/search?gh_jid=7939868",
-    "posted_at": "2026-06-02T10:50:40-04:00",
-    "discovered_at": "2026-06-02T15:04:29.499Z",
-    "source": "greenhouse",
-    "external_id": "7939868"
+    "company": "Writer",
+    "title": "Software engineer, generative AI",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c",
+    "posted_at": "2026-06-03T17:33:11.886+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "4d5f11bd-0375-4bc2-af4d-9434e103957c"
   },
   {
-    "company": "CoreWeave",
-    "title": "Senior Security Engineer II, Cloud Security",
-    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA",
-    "url": "https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006",
-    "posted_at": "2026-06-04T15:34:26-04:00",
-    "discovered_at": "2026-06-04T22:32:17.810Z",
-    "source": "greenhouse",
-    "external_id": "4686324006"
+    "company": "Writer",
+    "title": "Software engineer, connectors & MCP",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e",
+    "posted_at": "2026-06-03T21:36:39.317+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
+    "source": "ashby",
+    "external_id": "26f309e7-04eb-4467-b201-b0a909b9524e"
   },
   {
     "company": "Replit",
@@ -228,36 +258,6 @@
     "discovered_at": "2026-06-04T23:32:18.516Z",
     "source": "ashby",
     "external_id": "07a2d8e2-acba-411a-9601-9d424d2059dc"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, Core Backend",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
-    "posted_at": "2026-06-03T17:19:36.120+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, Site Reliablity Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4",
-    "posted_at": "2026-06-03T20:12:26.288+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "4b6abd59-ac74-40e9-8cab-74253078aaf4"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, DevOps",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50",
-    "posted_at": "2026-06-03T20:13:31.781+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "2d702840-a588-4273-8b98-49ed815c0c50"
   },
   {
     "company": "Sierra",
