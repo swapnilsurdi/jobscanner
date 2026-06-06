@@ -20,56 +20,6 @@
     "external_id": "6013670004"
   },
   {
-    "company": "Airbyte",
-    "title": "Senior Integrations Engineer (API Sources & Automation)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005",
-    "posted_at": "2026-06-03T21:15:50.875+00:00",
-    "discovered_at": "2026-06-03T21:42:47.433Z",
-    "source": "ashby",
-    "external_id": "cf6a373c-1649-45f0-857d-4974b1c25005"
-  },
-  {
-    "company": "Cresta",
-    "title": "Staff Software Engineer, Backend",
-    "location": "Canada (Remote)",
-    "url": "https://job-boards.greenhouse.io/cresta/jobs/5248021008",
-    "posted_at": "2026-06-05T12:47:47-04:00",
-    "discovered_at": "2026-06-05T17:29:54.431Z",
-    "source": "greenhouse",
-    "external_id": "5248021008"
-  },
-  {
-    "company": "Nuro",
-    "title": "Senior Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
-    "posted_at": "2026-06-03T00:38:43-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978431"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
-    "posted_at": "2026-06-03T00:38:50-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978428"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance - New Grad",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
-    "posted_at": "2026-06-03T00:38:51-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978432"
-  },
-  {
     "company": "Vapi",
     "title": "Member of Technical Staff, Core Backend",
     "location": "San Francisco",
@@ -98,6 +48,46 @@
     "discovered_at": "2026-06-03T20:21:15.564Z",
     "source": "ashby",
     "external_id": "2d702840-a588-4273-8b98-49ed815c0c50"
+  },
+  {
+    "company": "Writer",
+    "title": "Software engineer, generative AI",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c",
+    "posted_at": "2026-06-03T17:33:11.886+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "4d5f11bd-0375-4bc2-af4d-9434e103957c"
+  },
+  {
+    "company": "Writer",
+    "title": "Software engineer, connectors & MCP",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e",
+    "posted_at": "2026-06-03T21:36:39.317+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
+    "source": "ashby",
+    "external_id": "26f309e7-04eb-4467-b201-b0a909b9524e"
+  },
+  {
+    "company": "Airbyte",
+    "title": "Senior Integrations Engineer (API Sources & Automation)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005",
+    "posted_at": "2026-06-03T21:15:50.875+00:00",
+    "discovered_at": "2026-06-03T21:42:47.433Z",
+    "source": "ashby",
+    "external_id": "cf6a373c-1649-45f0-857d-4974b1c25005"
+  },
+  {
+    "company": "Cresta",
+    "title": "Staff Software Engineer, Backend",
+    "location": "Canada (Remote)",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5248021008",
+    "posted_at": "2026-06-05T12:47:47-04:00",
+    "discovered_at": "2026-06-05T17:29:54.431Z",
+    "source": "greenhouse",
+    "external_id": "5248021008"
   },
   {
     "company": "Perplexity",
@@ -180,14 +170,14 @@
     "external_id": "8fd01227-a933-4319-a281-fa6e3ce8d8ca"
   },
   {
-    "company": "Cerebras",
-    "title": "Senior Front End Design Engineer (Microarchitecture)",
-    "location": "Sunnyvale, CA",
-    "url": "https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003",
-    "posted_at": "2026-06-04T15:09:29-04:00",
-    "discovered_at": "2026-06-04T22:32:17.810Z",
-    "source": "greenhouse",
-    "external_id": "7763907003"
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (ML Engineer, Recommendations & User Modeling)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91",
+    "posted_at": "2026-06-06T04:33:07.452+00:00",
+    "discovered_at": "2026-06-06T05:40:53.588Z",
+    "source": "ashby",
+    "external_id": "affd3040-91e4-4e0c-bd2f-4b022c613f91"
   },
   {
     "company": "Replit",
@@ -198,46 +188,6 @@
     "discovered_at": "2026-06-04T23:32:18.516Z",
     "source": "ashby",
     "external_id": "07a2d8e2-acba-411a-9601-9d424d2059dc"
-  },
-  {
-    "company": "Writer",
-    "title": "Software engineer, generative AI",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c",
-    "posted_at": "2026-06-03T17:33:11.886+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "4d5f11bd-0375-4bc2-af4d-9434e103957c"
-  },
-  {
-    "company": "Writer",
-    "title": "Software engineer, connectors & MCP",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e",
-    "posted_at": "2026-06-03T21:36:39.317+00:00",
-    "discovered_at": "2026-06-03T21:42:47.433Z",
-    "source": "ashby",
-    "external_id": "26f309e7-04eb-4467-b201-b0a909b9524e"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer",
-    "location": "*Job Posting Only: USA1",
-    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
-    "posted_at": "2026-06-03T19:45:32.470+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer - Infrastructure",
-    "location": "CA Remote Ontario",
-    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
-    "posted_at": "2026-06-03T19:44:12.337+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
   },
   {
     "company": "Decagon",
@@ -258,6 +208,26 @@
     "discovered_at": "2026-06-05T17:29:54.431Z",
     "source": "ashby",
     "external_id": "3a68de82-c874-4cd2-b639-17948748e212"
+  },
+  {
+    "company": "Confluent",
+    "title": "Senior Software Engineer",
+    "location": "*Job Posting Only: USA1",
+    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
+    "posted_at": "2026-06-03T19:45:32.470+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
+  },
+  {
+    "company": "Confluent",
+    "title": "Senior Software Engineer - Infrastructure",
+    "location": "CA Remote Ontario",
+    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
+    "posted_at": "2026-06-03T19:44:12.337+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
   },
   {
     "company": "Sierra",
@@ -338,6 +308,16 @@
     "discovered_at": "2026-06-06T00:25:47.379Z",
     "source": "greenhouse",
     "external_id": "4687426006"
+  },
+  {
+    "company": "Cerebras",
+    "title": "Senior Front End Design Engineer (Microarchitecture)",
+    "location": "Sunnyvale, CA",
+    "url": "https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003",
+    "posted_at": "2026-06-04T15:09:29-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "7763907003"
   },
   {
     "company": "Datadog",
