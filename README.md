@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-06T00:25:47.379Z
-**Active roles:** 50 of 223 across 16 companies
+**Last scan:** 2026-06-06T04:17:40.281Z
+**Active roles:** 50 of 225 across 16 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -59,12 +59,12 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### Perplexity
 
+- [Member of Technical Staff (AI Software Engineer, Multimodal)](https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81) — San Francisco — posted 2026-06-06
+- [Member of Technical Staff (AI Software Engineer, Agents)](https://jobs.ashbyhq.com/perplexity/8fd01227-a933-4319-a281-fa6e3ce8d8ca) — San Francisco — posted 2026-06-06
 - [Member of Technical Staff (Software Engineer, Computer Growth)](https://jobs.ashbyhq.com/perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d) — San Francisco — posted 2026-06-04
 - [Member of Technical Staff (Software Engineer, Enterprise Platform)](https://jobs.ashbyhq.com/perplexity/33a48d64-ba8c-444f-a41d-9c77c6c00320) — San Francisco — posted 2026-06-03
 - [Member of Technical Staff (Software Engineer, Storage Platform)](https://jobs.ashbyhq.com/perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf) — San Francisco — posted 2026-06-03
 - [Member of Technical Staff (Software Engineer, Backend Platform)](https://jobs.ashbyhq.com/perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b) — San Francisco — posted 2026-06-03
-- [Member of Technical Staff (Software Engineer, Data Platform)](https://jobs.ashbyhq.com/perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6) — San Francisco — posted 2026-06-03
-- [Member of Technical Staff (Software Engineer, Cloud Infrastructure)](https://jobs.ashbyhq.com/perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea) — San Francisco — posted 2026-06-03
 
 ### Replit
 

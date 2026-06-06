@@ -1,5 +1,27 @@
 [
   {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Multimodal)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "posted_at": "2026-06-06T03:28:15.522+00:00",
+    "discovered_at": "2026-06-06T04:17:40.281Z",
+    "source": "ashby",
+    "external_id": "6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "last_seen_at": "2026-06-06T04:17:40.281Z"
+  },
+  {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/8fd01227-a933-4319-a281-fa6e3ce8d8ca",
+    "posted_at": "2026-06-06T03:27:34.121+00:00",
+    "discovered_at": "2026-06-06T04:17:40.281Z",
+    "source": "ashby",
+    "external_id": "8fd01227-a933-4319-a281-fa6e3ce8d8ca",
+    "last_seen_at": "2026-06-06T04:17:40.281Z"
+  },
+  {
     "company": "CoreWeave",
     "title": "Senior Software Engineer, Product",
     "location": "New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
