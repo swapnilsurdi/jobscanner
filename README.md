@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-05T21:59:31.127Z
-**Active roles:** 50 of 222 across 17 companies
+**Last scan:** 2026-06-06T00:25:47.379Z
+**Active roles:** 50 of 223 across 16 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -28,6 +28,7 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 ### CoreWeave
 
+- [Senior Software Engineer, Product](https://coreweave.com/careers/job?4687426006&board=coreweave&gh_jid=4687426006) — New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA — posted 2026-06-05
 - [Senior Security Engineer II, Cloud Security](https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006) — Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA — posted 2026-06-04
 
 ### Datadog
@@ -55,10 +56,6 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 - [Software Engineer, Systems ML](https://www.metacareers.com/profile/job_details/3414246448833665) — Sunnyvale, CA +1 locations — posted —
 - [Software Engineer - AI SysML (Technical Leadership)](https://www.metacareers.com/profile/job_details/596583419835692) — Sunnyvale, CA +2 locations — posted —
 - [Software Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/978903851762450) — Menlo Park, CA — posted —
-
-### Nuro
-
-- [Software Engineer, Performance - New Grad](https://nuro.ai/careersitem?gh_jid=7978432) — Mountain View, California (HQ) — posted 2026-06-03
 
 ### Perplexity
 
