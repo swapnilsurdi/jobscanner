@@ -1,83 +1,83 @@
 [
   {
-    "company": "Nuro",
-    "title": "Senior Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
-    "posted_at": "2026-06-03T00:38:43-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978431"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
-    "posted_at": "2026-06-03T00:38:50-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978428"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Performance - New Grad",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
-    "posted_at": "2026-06-03T00:38:51-04:00",
-    "discovered_at": "2026-06-03T04:51:59.399Z",
-    "source": "greenhouse",
-    "external_id": "7978432"
-  },
-  {
-    "company": "Cerebras",
-    "title": "Senior Front End Design Engineer (Microarchitecture)",
-    "location": "Sunnyvale, CA",
-    "url": "https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003",
-    "posted_at": "2026-06-04T15:09:29-04:00",
-    "discovered_at": "2026-06-04T22:32:17.810Z",
-    "source": "greenhouse",
-    "external_id": "7763907003"
-  },
-  {
-    "company": "CoreWeave",
-    "title": "Senior Security Engineer II, Cloud Security",
-    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA",
-    "url": "https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006",
-    "posted_at": "2026-06-04T15:34:26-04:00",
-    "discovered_at": "2026-06-04T22:32:17.810Z",
-    "source": "greenhouse",
-    "external_id": "4686324006"
-  },
-  {
-    "company": "CoreWeave",
-    "title": "Senior Software Engineer, Product",
-    "location": "New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
-    "url": "https://coreweave.com/careers/job?4687426006&board=coreweave&gh_jid=4687426006",
-    "posted_at": "2026-06-05T19:52:43-04:00",
-    "discovered_at": "2026-06-06T00:25:47.379Z",
-    "source": "greenhouse",
-    "external_id": "4687426006"
-  },
-  {
-    "company": "Mercury",
-    "title": "Senior Design Engineer - Top of Funnel",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/5986638004",
-    "posted_at": "2026-06-03T15:16:14-04:00",
+    "company": "Confluent",
+    "title": "Senior Software Engineer",
+    "location": "*Job Posting Only: USA1",
+    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
+    "posted_at": "2026-06-03T19:45:32.470+00:00",
     "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "greenhouse",
-    "external_id": "5986638004"
+    "source": "ashby",
+    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
   },
   {
-    "company": "Mercury",
-    "title": "Senior Risk Strategist - Fraud",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6013670004",
-    "posted_at": "2026-06-04T12:18:32-04:00",
-    "discovered_at": "2026-06-04T22:32:17.810Z",
-    "source": "greenhouse",
-    "external_id": "6013670004"
+    "company": "Confluent",
+    "title": "Senior Software Engineer - Infrastructure",
+    "location": "CA Remote Ontario",
+    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
+    "posted_at": "2026-06-03T19:44:12.337+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Agent Data Platform",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324",
+    "posted_at": "2026-06-05T18:26:10.009+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "78c5dce4-3670-4c9b-a666-98f435c56324"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Infrastructure",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88",
+    "posted_at": "2026-06-05T18:27:43.314+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "802d17c5-fe47-4b44-90e5-65e5e731ff88"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Product",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c",
+    "posted_at": "2026-06-05T18:28:21.257+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "5ae78769-a3a1-491c-8b4b-95472f1fb36c"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Agent Builder",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07",
+    "posted_at": "2026-06-05T18:28:46.684+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "9b70b937-9634-4bcd-a10e-2671145f3a07"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Insights",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f",
+    "posted_at": "2026-06-05T18:29:12.015+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "8cca0a0d-7359-410b-81ed-331a0bb4667f"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer, Voice",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9",
+    "posted_at": "2026-06-05T18:29:27.087+00:00",
+    "discovered_at": "2026-06-05T18:46:18.494Z",
+    "source": "ashby",
+    "external_id": "032c8ab4-1911-4477-bc39-9cfcd701d5a9"
   },
   {
     "company": "Perplexity",
@@ -150,126 +150,6 @@
     "external_id": "cf6a373c-1649-45f0-857d-4974b1c25005"
   },
   {
-    "company": "Sierra",
-    "title": "Software Engineer, Agent Data Platform",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324",
-    "posted_at": "2026-06-05T18:26:10.009+00:00",
-    "discovered_at": "2026-06-05T18:46:18.494Z",
-    "source": "ashby",
-    "external_id": "78c5dce4-3670-4c9b-a666-98f435c56324"
-  },
-  {
-    "company": "Sierra",
-    "title": "Software Engineer, Infrastructure",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88",
-    "posted_at": "2026-06-05T18:27:43.314+00:00",
-    "discovered_at": "2026-06-05T18:46:18.494Z",
-    "source": "ashby",
-    "external_id": "802d17c5-fe47-4b44-90e5-65e5e731ff88"
-  },
-  {
-    "company": "Sierra",
-    "title": "Software Engineer, Product",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c",
-    "posted_at": "2026-06-05T18:28:21.257+00:00",
-    "discovered_at": "2026-06-05T18:46:18.494Z",
-    "source": "ashby",
-    "external_id": "5ae78769-a3a1-491c-8b4b-95472f1fb36c"
-  },
-  {
-    "company": "Sierra",
-    "title": "Software Engineer, Agent Builder",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07",
-    "posted_at": "2026-06-05T18:28:46.684+00:00",
-    "discovered_at": "2026-06-05T18:46:18.494Z",
-    "source": "ashby",
-    "external_id": "9b70b937-9634-4bcd-a10e-2671145f3a07"
-  },
-  {
-    "company": "Sierra",
-    "title": "Software Engineer, Insights",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f",
-    "posted_at": "2026-06-05T18:29:12.015+00:00",
-    "discovered_at": "2026-06-05T18:46:18.494Z",
-    "source": "ashby",
-    "external_id": "8cca0a0d-7359-410b-81ed-331a0bb4667f"
-  },
-  {
-    "company": "Sierra",
-    "title": "Software Engineer, Voice",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9",
-    "posted_at": "2026-06-05T18:29:27.087+00:00",
-    "discovered_at": "2026-06-05T18:46:18.494Z",
-    "source": "ashby",
-    "external_id": "032c8ab4-1911-4477-bc39-9cfcd701d5a9"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, Core Backend",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
-    "posted_at": "2026-06-03T17:19:36.120+00:00",
-    "discovered_at": "2026-06-03T17:39:29.030Z",
-    "source": "ashby",
-    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, Site Reliablity Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4",
-    "posted_at": "2026-06-03T20:12:26.288+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "4b6abd59-ac74-40e9-8cab-74253078aaf4"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff, DevOps",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50",
-    "posted_at": "2026-06-03T20:13:31.781+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "2d702840-a588-4273-8b98-49ed815c0c50"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer",
-    "location": "*Job Posting Only: USA1",
-    "url": "https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772",
-    "posted_at": "2026-06-03T19:45:32.470+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "905efbaa-d814-4b16-a377-d417c7d3d772"
-  },
-  {
-    "company": "Confluent",
-    "title": "Senior Software Engineer - Infrastructure",
-    "location": "CA Remote Ontario",
-    "url": "https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4",
-    "posted_at": "2026-06-03T19:44:12.337+00:00",
-    "discovered_at": "2026-06-03T20:21:15.564Z",
-    "source": "ashby",
-    "external_id": "4218f1c2-3679-4aff-a458-20ef09817fc4"
-  },
-  {
-    "company": "Cresta",
-    "title": "Staff Software Engineer, Backend",
-    "location": "Canada (Remote)",
-    "url": "https://job-boards.greenhouse.io/cresta/jobs/5248021008",
-    "posted_at": "2026-06-05T12:47:47-04:00",
-    "discovered_at": "2026-06-05T17:29:54.431Z",
-    "source": "greenhouse",
-    "external_id": "5248021008"
-  },
-  {
     "company": "Writer",
     "title": "Software engineer, generative AI",
     "location": "San Francisco, CA",
@@ -320,6 +200,106 @@
     "external_id": "3a68de82-c874-4cd2-b639-17948748e212"
   },
   {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, Core Backend",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df",
+    "posted_at": "2026-06-03T17:19:36.120+00:00",
+    "discovered_at": "2026-06-03T17:39:29.030Z",
+    "source": "ashby",
+    "external_id": "96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, Site Reliablity Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4",
+    "posted_at": "2026-06-03T20:12:26.288+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "4b6abd59-ac74-40e9-8cab-74253078aaf4"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff, DevOps",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50",
+    "posted_at": "2026-06-03T20:13:31.781+00:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "ashby",
+    "external_id": "2d702840-a588-4273-8b98-49ed815c0c50"
+  },
+  {
+    "company": "Mercury",
+    "title": "Senior Design Engineer - Top of Funnel",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5986638004",
+    "posted_at": "2026-06-03T15:16:14-04:00",
+    "discovered_at": "2026-06-03T20:21:15.564Z",
+    "source": "greenhouse",
+    "external_id": "5986638004"
+  },
+  {
+    "company": "Mercury",
+    "title": "Senior Risk Strategist - Fraud",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6013670004",
+    "posted_at": "2026-06-04T12:18:32-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "6013670004"
+  },
+  {
+    "company": "Nuro",
+    "title": "Senior Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978431",
+    "posted_at": "2026-06-03T00:38:43-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978431"
+  },
+  {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978428",
+    "posted_at": "2026-06-03T00:38:50-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978428"
+  },
+  {
+    "company": "Nuro",
+    "title": "Software Engineer, Performance - New Grad",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7978432",
+    "posted_at": "2026-06-03T00:38:51-04:00",
+    "discovered_at": "2026-06-03T04:51:59.399Z",
+    "source": "greenhouse",
+    "external_id": "7978432"
+  },
+  {
+    "company": "Cerebras",
+    "title": "Senior Front End Design Engineer (Microarchitecture)",
+    "location": "Sunnyvale, CA",
+    "url": "https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003",
+    "posted_at": "2026-06-04T15:09:29-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "7763907003"
+  },
+  {
+    "company": "Cresta",
+    "title": "Staff Software Engineer, Backend",
+    "location": "Canada (Remote)",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5248021008",
+    "posted_at": "2026-06-05T12:47:47-04:00",
+    "discovered_at": "2026-06-05T17:29:54.431Z",
+    "source": "greenhouse",
+    "external_id": "5248021008"
+  },
+  {
     "company": "Datadog",
     "title": "Senior Developer Advocate - Modern App Development",
     "location": "California, USA, Remote; Nevada, USA, Remote; Texas, USA, Remote; Washington, USA, Remote",
@@ -338,5 +318,25 @@
     "discovered_at": "2026-06-04T22:32:17.810Z",
     "source": "greenhouse",
     "external_id": "7983548"
+  },
+  {
+    "company": "CoreWeave",
+    "title": "Senior Security Engineer II, Cloud Security",
+    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA",
+    "url": "https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006",
+    "posted_at": "2026-06-04T15:34:26-04:00",
+    "discovered_at": "2026-06-04T22:32:17.810Z",
+    "source": "greenhouse",
+    "external_id": "4686324006"
+  },
+  {
+    "company": "CoreWeave",
+    "title": "Senior Software Engineer, Product",
+    "location": "New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
+    "url": "https://coreweave.com/careers/job?4687426006&board=coreweave&gh_jid=4687426006",
+    "posted_at": "2026-06-05T19:52:43-04:00",
+    "discovered_at": "2026-06-06T00:25:47.379Z",
+    "source": "greenhouse",
+    "external_id": "4687426006"
   }
 ]
