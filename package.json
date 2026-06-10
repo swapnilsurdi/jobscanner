@@ -2,9 +2,15 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "scan": "node scripts/scan.mjs"
+    "scan": "node scripts/scan.mjs",
+    "export": "node scripts/export-parquet.mjs"
   },
   "dependencies": {
+    "@playwright/mcp": "^0.0.75",
     "yaml": "^2.5.0"
+  },
+  "devDependencies": {
+    "hyparquet": "^1.26.0",
+    "hyparquet-writer": "^0.15.6"
   }
 }

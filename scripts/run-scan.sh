@@ -73,6 +73,16 @@ STEP 3 — Once all subagents return, collect their JSON arrays. For each row:
 
 STEP 4 — Print a single summary line: "ATS: A new | Playwright: P new | Total in this scan: T".
 Do NOT run any cleanup, normalize, merge, README regen, or git commit — the wrapper script handles that.
+
+PERMISSIONS NOTE — This session runs with a strict allowlist (no bypassPermissions).
+If ANY tool call is denied by the permission system, OR you find yourself needing a
+tool that isn't on the allowlist (Bash beyond the two node scripts above, WebFetch,
+Grep, Glob, additional MCP tools, etc.), STOP and write a file at
+`human_interaction_needed.md` in the repo root describing:
+  - which tool/command was needed
+  - which step required it
+  - the exact error message if you saw one
+Then exit gracefully. Do not retry the same denied call repeatedly.
 PROMPT_EOF
 
 # Least-privilege: no bypassPermissions. Only the tools this prompt actually uses,
@@ -94,23 +104,15 @@ node scripts/clean-jobs.v2.mjs         >> data/scan.log 2>&1 || true
 node scripts/normalize-jobs.v2.mjs     >> data/scan.log 2>&1 || true
 node scripts/regen-readme.v2.mjs       >> data/scan.log 2>&1 || true
 
-# Pages serves the full history.
-mkdir -p docs
-cp data/jobs-all.json docs/jobs.json
+# Pages serves the full history as Parquet (read selectively by the viewer over
+# HTTP range requests). The export reads data/jobs-all.json (NOT data/jobs.json,
+# which stays the canonical career-ops contract) and writes docs/data/.
+mkdir -p docs/data
+node scripts/export-parquet.mjs >> data/scan.log 2>&1 || echo "export-parquet failed — see data/scan.log" >&2
 
-JOB_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/jobs-all.json','utf8')).length)")
-COMPANY_COUNT=$(node -e "console.log(new Set(JSON.parse(require('fs').readFileSync('data/jobs-all.json','utf8')).map(j=>j.company)).size)")
-cat > docs/meta.json <<EOF
-{
-  "last_scan_at": "$SCAN_START",
-  "job_count": $JOB_COUNT,
-  "company_count": $COMPANY_COUNT
-}
-EOF
-
-if ! git diff --quiet HEAD -- data/jobs.json data/jobs-all.json docs/jobs.json docs/meta.json README.md 2>/dev/null; then
+if ! git diff --quiet HEAD -- data/jobs.json data/jobs-all.json docs/data/jobs.parquet docs/data/meta.json README.md 2>/dev/null; then
   TIMESTAMP="$(date -u +%Y-%m-%dT%H:%MZ)"
-  git add data/jobs.json data/jobs-all.json docs/jobs.json docs/meta.json README.md data/seen.tsv
+  git add data/jobs.json data/jobs-all.json docs/data/jobs.parquet docs/data/meta.json README.md data/seen.tsv
   git commit -m "scan: $TIMESTAMP" --quiet
   git push "$GIT_REMOTE" "$GIT_BRANCH" --quiet
   echo "pushed scan: $TIMESTAMP"

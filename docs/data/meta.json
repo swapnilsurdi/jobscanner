@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-06-10T21:06:55.394Z",
+  "row_count": 226,
+  "company_count": 30,
+  "parquet_bytes": 18929,
+  "row_group_size": 5000,
+  "columns": [
+    "company",
+    "title",
+    "location",
+    "url",
+    "source",
+    "external_id",
+    "posted_at",
+    "discovered_at",
+    "last_seen_at"
+  ],
+  "source": "data/jobs-all.json",
+  "sorted_by": "last_seen_at desc"
+}
