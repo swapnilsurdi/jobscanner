@@ -7,6 +7,21 @@ Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
+## Data & site
+
+Scanning runs **locally** (cron / launchd on the owner's machines — no GitHub Actions). The repo is a mostly read-only data publication:
+
+```
+local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests this)
+            ->  data/jobs-all.json (append-only history)
+            ->  docs/data/jobs.parquet  (+ docs/data/meta.json)   [scripts/export-parquet.mjs]
+            ->  GitHub Pages (docs/, branch main)  ->  jobscanner.surdi.in
+```
+
+- **`data/jobs.json` is the canonical scanner output and contract** — it is never reshaped by the publish step. Parquet is purely additive.
+- The Parquet export (`npm run export`) reads the full history (`data/jobs-all.json`), sorts by `last_seen_at` desc, and writes a columnar file the viewer reads **selectively over HTTP range requests** — it does not download a giant JSON. It runs automatically at the end of `scripts/run-scan.sh`.
+- The viewer at [jobscanner.surdi.in](https://jobscanner.surdi.in) (`docs/index.html`) loads `docs/data/jobs.parquet` from the same origin using a vendored [hyparquet](https://github.com/hyparam/hyparquet) reader (`docs/vendor/`, no CDN, no build step) and pages through it by row group. GitHub Pages serves byte ranges; on hosts that don't, the reader falls back to a single full-file fetch.
+
 ## Latest jobs
 
 ### Airbyte

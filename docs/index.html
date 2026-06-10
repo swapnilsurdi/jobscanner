@@ -3,50 +3,51 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Job Feed</title>
+  <title>jobscanner</title>
+  <meta name="description" content="A read-only feed of scraped software-engineering roles from a curated company watchlist.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Job Feed</h1>
-    <div class="meta">
-      <span id="count">—</span> roles · last update <span id="updated">—</span>
-    </div>
+    <h1>jobscanner</h1>
+    <p class="tagline">a read-only feed of software roles from a curated company watchlist.</p>
+    <dl class="stats">
+      <div><dt>roles</dt><dd id="count">—</dd></div>
+      <div><dt>companies</dt><dd id="companies">—</dd></div>
+      <div><dt>updated</dt><dd id="updated">—</dd></div>
+    </dl>
   </header>
 
   <section class="controls">
-    <input id="search" type="search" placeholder="Search title, company, or location…" autocomplete="off">
-    <select id="sort">
-      <option value="discovered_desc">Newest first (discovered)</option>
-      <option value="posted_desc">Recently posted</option>
-      <option value="company_asc">Company A–Z</option>
-      <option value="title_asc">Title A–Z</option>
-    </select>
-    <button id="clear" type="button">Clear</button>
+    <input id="search" type="search" placeholder="search title, company, location…" autocomplete="off" spellcheck="false" aria-label="search jobs">
+    <button id="clear" type="button">clear</button>
   </section>
 
-  <section class="chips" id="chips" aria-label="Filter by company"></section>
-
   <main>
-    <table id="grid">
-      <thead>
-        <tr>
-          <th data-key="company">Company</th>
-          <th data-key="title">Title</th>
-          <th data-key="location">Location</th>
-          <th data-key="posted_at">Posted</th>
-          <th data-key="discovered_at">Discovered</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
-    <p id="empty" hidden>No matches.</p>
+    <div class="table-wrap">
+      <table id="grid" aria-label="job postings">
+        <thead>
+          <tr>
+            <th class="col-company">company</th>
+            <th class="col-title">title</th>
+            <th class="col-loc">location</th>
+            <th class="col-date">posted</th>
+            <th class="col-date">seen</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p id="status" class="status" role="status">loading…</p>
+    <div class="more-wrap">
+      <button id="more" type="button" hidden>load more</button>
+    </div>
   </main>
 
   <footer>
-    <small>Auto-updated every 2 hours · <a href="https://github.com/swapnilsurdi/jobscanner">source</a></small>
+    <small>data updates from a local scanner · part of <a href="https://surdi.in" rel="noopener">surdi.in</a></small>
   </footer>
 
-  <script src="app.js"></script>
+  <script type="module" src="app.js"></script>
 </body>
 </html>

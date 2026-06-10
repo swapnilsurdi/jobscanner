@@ -32,8 +32,11 @@ Set `JOBSCANNER_DIR` and other vars in your shell profile or in this repo's `.en
 - `config/filters.yml` — title positive/negative filters, seniority, location.
 - `skills/jobscan/SKILL.md` — the scan skill the Claude agent invokes.
 - `scripts/scan.mjs` — Node.js scanner (Greenhouse/Ashby/Lever/Workday + Playwright fallback).
-- `scripts/run-scan.sh` — cron wrapper: loads `.env`, runs scan, commits, pushes.
-- `data/jobs.json` — current active scanned jobs (canonical store).
+- `scripts/run-scan.sh` — cron wrapper: loads `.env`, runs scan, exports Parquet, commits, pushes.
+- `scripts/export-parquet.mjs` — converts `data/jobs-all.json` → `docs/data/jobs.parquet` (+ `meta.json`) for the static viewer. `npm run export`. Does not touch `data/jobs.json`.
+- `data/jobs.json` — current active scanned jobs (canonical store; career-ops ingests this — never reshape it).
+- `data/jobs-all.json` — append-only history; source for the README list and the Parquet export.
+- `docs/` — GitHub Pages site at jobscanner.surdi.in: read-only Parquet job browser (`index.html`, vendored hyparquet in `vendor/`, data in `data/`).
 - `data/seen.tsv` — dedup history across runs.
 - `data/scan.log` — last run log.
 - `.env.example` — required env vars; copy to `.env`.
