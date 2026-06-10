@@ -1,27 +1,44 @@
-// jobscanner viewer — reads docs/data/jobs.parquet selectively over HTTP range
-// requests using the vendored hyparquet reader (no CDN, no build step).
+// jobscanner viewer — reads docs/data/jobs.parquet via the vendored hyparquet
+// reader (no CDN, no build step).
 //
 // Strategy:
 //   1. fetch meta.json   -> header stats (count / companies / last updated).
-//   2. open the parquet via asyncBufferFromUrl (HEAD for length, then Range
-//      reads). hyparquet auto-falls back to a single full-file fetch if the
-//      server answers a Range request with 200 instead of 206, so this also
-//      works on dumb static hosts. We wrap it in cachedAsyncBuffer so the
-//      footer + small reads are coalesced.
-//   3. read only the footer metadata first (cheap), then page through the file
+//   2. fetch the parquet once as a full ArrayBuffer and wrap it in a trivial
+//      in-memory AsyncBuffer. We deliberately do NOT use asyncBufferFromUrl /
+//      HTTP Range here: GitHub Pages' CDN serves this octet-stream with
+//      Content-Encoding: gzip, and Range requests are applied to the
+//      *compressed* byte stream while hyparquet computes footer offsets against
+//      the *uncompressed* size. That mismatch makes the byteLength/footer probe
+//      read the wrong bytes and fail with "footer != PAR1". The whole file is
+//      tiny (~18 KB), so a single full fetch is both correct and cheaper than
+//      the multi-request HEAD+Range dance.
+//   3. read the footer metadata first, then page through the in-memory buffer
 //      one PAGE_ROWS slice at a time on demand ("load more").
 //   4. search filters client-side over the rows fetched so far.
 
 import {
-  asyncBufferFromUrl,
-  cachedAsyncBuffer,
   parquetMetadataAsync,
   parquetReadObjects,
 } from './vendor/hyparquet.min.js';
 
+// Build an in-memory AsyncBuffer from a fully-fetched file. hyparquet only
+// needs { byteLength, slice(start, end) }; slicing an ArrayBuffer we already
+// hold avoids any further network I/O (and thus any Range/gzip interaction).
+async function fetchAsyncBuffer(url) {
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`HTTP ${res.status} fetching ${url}`);
+  const buf = await res.arrayBuffer();
+  return {
+    byteLength: buf.byteLength,
+    async slice(start, end) {
+      return buf.slice(start, end ?? buf.byteLength);
+    },
+  };
+}
+
 const PARQUET_URL = 'data/jobs.parquet';
 const META_URL = 'data/meta.json';
-const PAGE_ROWS = 100; // rows fetched per "load more"; one cheap range read each.
+const PAGE_ROWS = 100; // rows decoded per "load more" from the in-memory buffer.
 const READ_COLUMNS = ['company', 'title', 'location', 'url', 'posted_at', 'last_seen_at'];
 
 const els = {
@@ -181,9 +198,8 @@ async function init() {
   }
 
   try {
-    // Range-capable async buffer (HEAD for length, then byte-range slices).
-    const base = await asyncBufferFromUrl({ url: PARQUET_URL });
-    state.file = cachedAsyncBuffer(base);
+    // Full-file fetch into an in-memory buffer (no HTTP Range — see header note).
+    state.file = await fetchAsyncBuffer(PARQUET_URL);
     state.metadata = await parquetMetadataAsync(state.file);
     state.totalRows = Number(state.metadata.num_rows);
 
