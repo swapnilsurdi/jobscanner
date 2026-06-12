@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-12T18:26:49.676Z
-**Active roles:** 50 of 246 across 19 companies
+**Last scan:** 2026-06-12T22:05:15.737Z
+**Active roles:** 50 of 247 across 20 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -31,6 +31,10 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Atlassian
 
 - [Senior Infrastructure Software Engineer | DX](https://www.atlassian.com/company/careers/details/25116) — Salt Lake City, United States / Remote — posted —
+
+### Baseten
+
+- [Software Engineer - Capacity](https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986) — San Francisco — posted 2026-06-12
 
 ### Brex
 
@@ -77,7 +81,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 - [Software Engineer, Systems ML - SW/HW Co-design](https://www.metacareers.com/profile/job_details/1108948753413269) — Sunnyvale, CA +1 locations — posted —
 - [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.metacareers.com/profile/job_details/1154738753397824) — Sunnyvale, CA — posted —
-- [Software Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/1187958502273564) — Sunnyvale, CA +6 locations — posted —
 
 ### Nuro
 
