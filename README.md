@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-06T05:40:53.588Z
-**Active roles:** 50 of 226 across 16 companies
+**Last scan:** 2026-06-12T06:30:03.505Z
+**Active roles:** 50 of 240 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -43,11 +43,15 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### CoreWeave
 
+- [Senior Software Engineer, Applied AI](https://coreweave.com/careers/job?4688538006&board=coreweave&gh_jid=4688538006) — New York, NY / Sunnyvale, CA / Bellevue, WA — posted 2026-06-11
+- [Senior Specialist Field Engineer - Compute Infrastructure](https://coreweave.com/careers/job?4688589006&board=coreweave&gh_jid=4688589006) — Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX — posted 2026-06-11
+- [Senior Engineer, Storage Control Plane](https://coreweave.com/careers/job?4688327006&board=coreweave&gh_jid=4688327006) — Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA  — posted 2026-06-10
 - [Senior Software Engineer, Product](https://coreweave.com/careers/job?4687426006&board=coreweave&gh_jid=4687426006) — New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA — posted 2026-06-05
 - [Senior Security Engineer II, Cloud Security](https://coreweave.com/careers/job?4686324006&board=coreweave&gh_jid=4686324006) — Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA — posted 2026-06-04
 
 ### Datadog
 
+- [Senior Software Engineer - Code Gen](https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198) — New York, New York, USA — posted 2026-06-10
 - [Senior Developer Advocate - Modern App Development](https://careers.datadoghq.com/detail/7985840/?gh_jid=7985840) — California, USA, Remote; Nevada, USA, Remote; Texas, USA, Remote; Washington, USA, Remote — posted 2026-06-05
 - [Senior Software Engineer - Linux Kernel/eBPF](https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548) — New York, New York, USA — posted 2026-06-04
 
@@ -58,6 +62,7 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### Mercury
 
+- [Senior People Operations Specialist](https://job-boards.greenhouse.io/mercury/jobs/6017266004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-09
 - [Senior Risk Strategist - Fraud](https://job-boards.greenhouse.io/mercury/jobs/6013670004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-04
 - [Senior Design Engineer - Top of Funnel](https://job-boards.greenhouse.io/mercury/jobs/5986638004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-03
 
@@ -72,18 +77,28 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 - [Software Engineer - AI SysML (Technical Leadership)](https://www.metacareers.com/profile/job_details/596583419835692) — Sunnyvale, CA +2 locations — posted —
 - [Software Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/978903851762450) — Menlo Park, CA — posted —
 
+### Nuro
+
+- [Software Engineer, Onboard Infrastructure](https://nuro.ai/careersitem?gh_jid=7998328) — Mountain View, California (HQ) — posted 2026-06-10
+- [Staff/Senior Software Engineer, Onboard Infrastructure](https://nuro.ai/careersitem?gh_jid=7998327) — Mountain View, California (HQ) — posted 2026-06-10
+
 ### Perplexity
 
+- [Member of Technical Staff (AI Software Engineer, Agents)](https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743) — San Francisco — posted 2026-06-12
+- [Member of Technical Staff (Software Engineer, API Platform)](https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516) — San Francisco — posted 2026-06-11
+- [Member of Technical Staff (Engineering Lead, Developer Experience)](https://jobs.ashbyhq.com/perplexity/e8bb72ad-4867-4a68-b6cf-f22a370237f2) — San Francisco — posted 2026-06-11
 - [Member of Technical Staff (ML Engineer, Recommendations & User Modeling)](https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91) — San Francisco — posted 2026-06-06
 - [Member of Technical Staff (AI Software Engineer, Multimodal)](https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81) — San Francisco — posted 2026-06-06
 - [Member of Technical Staff (AI Software Engineer, Agents)](https://jobs.ashbyhq.com/perplexity/8fd01227-a933-4319-a281-fa6e3ce8d8ca) — San Francisco — posted 2026-06-06
 - [Member of Technical Staff (Software Engineer, Computer Growth)](https://jobs.ashbyhq.com/perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d) — San Francisco — posted 2026-06-04
-- [Member of Technical Staff (Software Engineer, Enterprise Platform)](https://jobs.ashbyhq.com/perplexity/33a48d64-ba8c-444f-a41d-9c77c6c00320) — San Francisco — posted 2026-06-03
-- [Member of Technical Staff (Software Engineer, Storage Platform)](https://jobs.ashbyhq.com/perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf) — San Francisco — posted 2026-06-03
 
 ### Replit
 
 - [Senior Talent Programs Lead](https://jobs.ashbyhq.com/replit/07a2d8e2-acba-411a-9601-9d424d2059dc) — Foster City, CA — posted 2026-06-04
+
+### Robinhood
+
+- [Senior Web Engineer, Legend](https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004) — Menlo Park, CA; New York, NY — posted 2026-06-10
 
 ### Sierra
 
@@ -97,30 +112,21 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Snowflake
 
 - [Software Engineer, Data Governance](https://careers.snowflake.com/us/en/job/SNCOUS6C0368BABDCF4D8FB5BAC47B389DD77AEXTERNALENUSD8816F3F89D64434BC24EAF4169C1D95/Software-Engineer-Data-Governance) — Menlo Park, California, United States — posted —
-- [Software Engineer - APG](https://careers.snowflake.com/us/en/job/SNCOUS7791AB6A66D34A20BCE877FFC470EA41EXTERNALENUS5F4AE8D3BF84430D8F9F325F14DDF947/Software-Engineer-APG) — Menlo Park, California, United States — posted —
-- [Software Engineer - Backend](https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend) — Menlo Park, California, United States — posted —
+
+### Stripe
+
+- [Account Executive, Platforms, Grower](https://stripe.com/jobs/search?gh_jid=7965001) — San Francisco, CA — posted 2026-06-11
+- [Account Executive, Enterprise Platforms, Hunter](https://stripe.com/jobs/search?gh_jid=7961609) — New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote — posted 2026-06-11
 
 ### Vapi
 
+- [Member of Technical Staff,  Core Backend](https://jobs.ashbyhq.com/vapi/941f5562-52f1-43f0-92d4-9d05931c0955) — San Francisco — posted 2026-06-11
 - [Member of Technical Staff, DevOps](https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50) — San Francisco — posted 2026-06-03
 - [Member of Technical Staff, Site Reliablity Engineer](https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4) — San Francisco — posted 2026-06-03
-- [Member of Technical Staff, Core Backend](https://jobs.ashbyhq.com/vapi/96b8ae0d-e2ae-463d-9fc9-0cdeb10ed6df) — San Francisco — posted 2026-06-03
 
 ### Writer
 
 - [Software engineer, connectors & MCP](https://jobs.ashbyhq.com/writer/26f309e7-04eb-4467-b201-b0a909b9524e) — San Francisco, CA — posted 2026-06-03
-- [Software engineer, generative AI](https://jobs.ashbyhq.com/writer/4d5f11bd-0375-4bc2-af4d-9434e103957c) — San Francisco, CA — posted 2026-06-03
-
-### Zoox
-
-- [Senior Software Engineer - C++ GPU Performance](https://jobs.lever.co/zoox/2042bc12-6247-48d5-a9fb-a6e41363a5ce) — Foster City, CA — posted —
-- [Senior Software Integration Engineer](https://jobs.lever.co/zoox/2aa94106-52ac-4f67-871b-1140f8644ea4) — Foster City, CA — posted —
-- [Senior Software Engineer - Performance](https://jobs.lever.co/zoox/364f69da-b4bb-48f3-ac43-b8fe9065789d) — Foster City, CA — posted —
-- [AV Safety Software Engineer](https://jobs.lever.co/zoox/78320bf3-5c38-4583-a16b-e67b676cc1f8) — Foster City, CA — posted —
-- [Senior Software Engineer - Mapping Automation](https://jobs.lever.co/zoox/87edbf16-c565-48b4-8fcf-546bcc6bdf61) — Foster City, CA — posted —
-- [Senior Software Engineer - 3D Simulation Applications](https://jobs.lever.co/zoox/bebe062b-0315-4730-83dd-0c186d8444c5) — Foster City, CA — posted —
-- [Senior Software Systems Engineer - Middleware & Diagnostics](https://jobs.lever.co/zoox/c6afbf00-9a9e-404f-8228-bc68383e1c8d) — Foster City, CA — posted —
-- [Senior Software Engineer - Core Sensors](https://jobs.lever.co/zoox/fa96e7a4-df02-41c3-91c6-248a5bad6fa7) — Foster City, CA — posted —
 
 ---
 

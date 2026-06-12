@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-10T21:06:55.394Z",
-  "row_count": 226,
-  "company_count": 30,
-  "parquet_bytes": 18929,
+  "generated_at": "2026-06-12T06:31:47.810Z",
+  "row_count": 240,
+  "company_count": 31,
+  "parquet_bytes": 20037,
   "row_group_size": 5000,
   "columns": [
     "company",
