@@ -1,5 +1,27 @@
 [
   {
+    "company": "Replit",
+    "title": "Product Engineer, Product Platform (Frontend)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/657a90d2-23cc-4c86-b9ed-a21900efee0d",
+    "posted_at": "2026-06-12T18:12:06.950+00:00",
+    "discovered_at": "2026-06-12T18:26:49.676Z",
+    "source": "ashby",
+    "external_id": "657a90d2-23cc-4c86-b9ed-a21900efee0d",
+    "last_seen_at": "2026-06-12T18:26:49.676Z"
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Application Security Engineer (Remote)",
+    "location": "United States",
+    "url": "https://www.brex.com/careers/8590025002?gh_jid=8590025002",
+    "posted_at": "2026-06-12T13:23:41-04:00",
+    "discovered_at": "2026-06-12T18:26:49.676Z",
+    "source": "greenhouse",
+    "external_id": "8590025002",
+    "last_seen_at": "2026-06-12T18:26:49.676Z"
+  },
+  {
     "company": "CoreWeave",
     "title": "Senior Production Engineer (Reliability)",
     "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",

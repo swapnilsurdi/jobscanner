@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-12T17:09:03.751Z
-**Active roles:** 50 of 244 across 18 companies
+**Last scan:** 2026-06-12T18:26:49.676Z
+**Active roles:** 50 of 246 across 19 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -31,6 +31,10 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Atlassian
 
 - [Senior Infrastructure Software Engineer | DX](https://www.atlassian.com/company/careers/details/25116) — Salt Lake City, United States / Remote — posted —
+
+### Brex
+
+- [Senior Application Security Engineer (Remote)](https://www.brex.com/careers/8590025002?gh_jid=8590025002) — United States — posted 2026-06-12
 
 ### Cerebras
 
@@ -74,8 +78,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 - [Software Engineer, Systems ML - SW/HW Co-design](https://www.metacareers.com/profile/job_details/1108948753413269) — Sunnyvale, CA +1 locations — posted —
 - [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.metacareers.com/profile/job_details/1154738753397824) — Sunnyvale, CA — posted —
 - [Software Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/1187958502273564) — Sunnyvale, CA +6 locations — posted —
-- [Software Engineer (Technical Leadership) - Host Networking](https://www.metacareers.com/profile/job_details/1339970608030608) — Menlo Park, CA +1 locations — posted —
-- [Software Engineer, Machine Learning](https://www.metacareers.com/profile/job_details/1436181490732782) — Sunnyvale, CA +13 locations — posted —
 
 ### Nuro
 
@@ -94,6 +96,7 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### Replit
 
+- [Product Engineer, Product Platform (Frontend)](https://jobs.ashbyhq.com/replit/657a90d2-23cc-4c86-b9ed-a21900efee0d) — Foster City, CA — posted 2026-06-12
 - [Senior Talent Programs Lead](https://jobs.ashbyhq.com/replit/07a2d8e2-acba-411a-9601-9d424d2059dc) — Foster City, CA — posted 2026-06-04
 
 ### Robinhood
