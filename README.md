@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-12T15:04:15.206Z
-**Active roles:** 50 of 243 across 18 companies
+**Last scan:** 2026-06-12T17:09:03.751Z
+**Active roles:** 50 of 244 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -43,6 +43,7 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### CoreWeave
 
+- [Senior Production Engineer (Reliability)](https://coreweave.com/careers/job?4689092006&board=coreweave&gh_jid=4689092006) — Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA — posted 2026-06-12
 - [Senior Software Engineer, Applied AI](https://coreweave.com/careers/job?4688538006&board=coreweave&gh_jid=4688538006) — New York, NY / Sunnyvale, CA / Bellevue, WA — posted 2026-06-11
 - [Senior Specialist Field Engineer - Compute Infrastructure](https://coreweave.com/careers/job?4688589006&board=coreweave&gh_jid=4688589006) — Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX — posted 2026-06-11
 - [Senior Engineer, Storage Control Plane](https://coreweave.com/careers/job?4688327006&board=coreweave&gh_jid=4688327006) — Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA  — posted 2026-06-10
@@ -75,7 +76,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 - [Software Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/1187958502273564) — Sunnyvale, CA +6 locations — posted —
 - [Software Engineer (Technical Leadership) - Host Networking](https://www.metacareers.com/profile/job_details/1339970608030608) — Menlo Park, CA +1 locations — posted —
 - [Software Engineer, Machine Learning](https://www.metacareers.com/profile/job_details/1436181490732782) — Sunnyvale, CA +13 locations — posted —
-- [Software Engineer, Systems ML](https://www.metacareers.com/profile/job_details/3414246448833665) — Sunnyvale, CA +1 locations — posted —
 
 ### Nuro
 

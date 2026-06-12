@@ -1,55 +1,5 @@
 [
   {
-    "company": "Mercury",
-    "title": "Senior People Operations Specialist",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6017266004",
-    "posted_at": "2026-06-09T13:10:42-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "6017266004"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7998328",
-    "posted_at": "2026-06-10T19:04:23-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7998328"
-  },
-  {
-    "company": "Nuro",
-    "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7998327",
-    "posted_at": "2026-06-10T19:02:53-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7998327"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff,  Core Backend",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/941f5562-52f1-43f0-92d4-9d05931c0955",
-    "posted_at": "2026-06-11T22:52:08.527+00:00",
-    "discovered_at": "2026-06-12T06:30:03.505Z",
-    "source": "ashby",
-    "external_id": "941f5562-52f1-43f0-92d4-9d05931c0955"
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer (L3)",
-    "location": "Remote - India",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
-    "posted_at": "2026-06-12T08:38:29-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "7996779"
-  },
-  {
     "company": "Perplexity",
     "title": "Member of Technical Staff (Engineering Lead, Developer Experience)",
     "location": "San Francisco",
@@ -80,6 +30,26 @@
     "external_id": "4ab39122-1d15-4874-8ab7-c6a241472743"
   },
   {
+    "company": "Nuro",
+    "title": "Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7998328",
+    "posted_at": "2026-06-10T19:04:23-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7998328"
+  },
+  {
+    "company": "Nuro",
+    "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7998327",
+    "posted_at": "2026-06-10T19:02:53-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7998327"
+  },
+  {
     "company": "Robinhood",
     "title": "Senior Web Engineer, Legend",
     "location": "Menlo Park, CA; New York, NY",
@@ -88,6 +58,16 @@
     "discovered_at": "2026-06-11T16:57:01.198Z",
     "source": "greenhouse",
     "external_id": "7847004"
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3)",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
+    "posted_at": "2026-06-12T08:38:29-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "7996779"
   },
   {
     "company": "Datadog",
@@ -131,6 +111,16 @@
   },
   {
     "company": "CoreWeave",
+    "title": "Senior Production Engineer (Reliability)",
+    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
+    "url": "https://coreweave.com/careers/job?4689092006&board=coreweave&gh_jid=4689092006",
+    "posted_at": "2026-06-12T12:33:45-04:00",
+    "discovered_at": "2026-06-12T17:09:03.751Z",
+    "source": "greenhouse",
+    "external_id": "4689092006"
+  },
+  {
+    "company": "CoreWeave",
     "title": "Senior Software Engineer, Applied AI",
     "location": "New York, NY / Sunnyvale, CA / Bellevue, WA",
     "url": "https://coreweave.com/careers/job?4688538006&board=coreweave&gh_jid=4688538006",
@@ -148,6 +138,16 @@
     "discovered_at": "2026-06-11T16:57:01.198Z",
     "source": "greenhouse",
     "external_id": "4688589006"
+  },
+  {
+    "company": "Mercury",
+    "title": "Senior People Operations Specialist",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6017266004",
+    "posted_at": "2026-06-09T13:10:42-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "6017266004"
   },
   {
     "company": "Stripe",
@@ -168,5 +168,15 @@
     "discovered_at": "2026-06-11T16:57:01.198Z",
     "source": "greenhouse",
     "external_id": "7965001"
+  },
+  {
+    "company": "Vapi",
+    "title": "Member of Technical Staff,  Core Backend",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/941f5562-52f1-43f0-92d4-9d05931c0955",
+    "posted_at": "2026-06-11T22:52:08.527+00:00",
+    "discovered_at": "2026-06-12T06:30:03.505Z",
+    "source": "ashby",
+    "external_id": "941f5562-52f1-43f0-92d4-9d05931c0955"
   }
 ]
