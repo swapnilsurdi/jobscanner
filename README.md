@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-12T06:30:03.505Z
-**Active roles:** 50 of 240 across 18 companies
+**Last scan:** 2026-06-12T15:04:15.206Z
+**Active roles:** 50 of 243 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -51,6 +51,8 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### Datadog
 
+- [Senior Services Architect - New York](https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907) — New York, New York, USA — posted 2026-06-12
+- [Senior Software Engineer - Observability Visibility](https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760) — New York, New York, USA — posted 2026-06-12
 - [Senior Software Engineer - Code Gen](https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198) — New York, New York, USA — posted 2026-06-10
 - [Senior Developer Advocate - Modern App Development](https://careers.datadoghq.com/detail/7985840/?gh_jid=7985840) — California, USA, Remote; Nevada, USA, Remote; Texas, USA, Remote; Washington, USA, Remote — posted 2026-06-05
 - [Senior Software Engineer - Linux Kernel/eBPF](https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548) — New York, New York, USA — posted 2026-06-04
@@ -74,8 +76,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 - [Software Engineer (Technical Leadership) - Host Networking](https://www.metacareers.com/profile/job_details/1339970608030608) — Menlo Park, CA +1 locations — posted —
 - [Software Engineer, Machine Learning](https://www.metacareers.com/profile/job_details/1436181490732782) — Sunnyvale, CA +13 locations — posted —
 - [Software Engineer, Systems ML](https://www.metacareers.com/profile/job_details/3414246448833665) — Sunnyvale, CA +1 locations — posted —
-- [Software Engineer - AI SysML (Technical Leadership)](https://www.metacareers.com/profile/job_details/596583419835692) — Sunnyvale, CA +2 locations — posted —
-- [Software Engineer (Technical Leadership)](https://www.metacareers.com/profile/job_details/978903851762450) — Menlo Park, CA — posted —
 
 ### Nuro
 
@@ -109,14 +109,14 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 - [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88) — San Francisco, CA — posted 2026-06-05
 - [Software Engineer, Agent Data Platform](https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324) — San Francisco, CA — posted 2026-06-05
 
-### Snowflake
-
-- [Software Engineer, Data Governance](https://careers.snowflake.com/us/en/job/SNCOUS6C0368BABDCF4D8FB5BAC47B389DD77AEXTERNALENUSD8816F3F89D64434BC24EAF4169C1D95/Software-Engineer-Data-Governance) — Menlo Park, California, United States — posted —
-
 ### Stripe
 
 - [Account Executive, Platforms, Grower](https://stripe.com/jobs/search?gh_jid=7965001) — San Francisco, CA — posted 2026-06-11
 - [Account Executive, Enterprise Platforms, Hunter](https://stripe.com/jobs/search?gh_jid=7961609) — New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote — posted 2026-06-11
+
+### Twilio
+
+- [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/7996779) — Remote - India — posted 2026-06-12
 
 ### Vapi
 

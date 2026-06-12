@@ -1,5 +1,38 @@
 [
   {
+    "company": "Datadog",
+    "title": "Senior Services Architect - New York",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907",
+    "posted_at": "2026-06-12T10:31:06-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "7996907",
+    "last_seen_at": "2026-06-12T15:04:15.206Z"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Observability Visibility",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760",
+    "posted_at": "2026-06-12T09:30:31-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "8001760",
+    "last_seen_at": "2026-06-12T15:04:15.206Z"
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3)",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
+    "posted_at": "2026-06-12T08:38:29-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "7996779",
+    "last_seen_at": "2026-06-12T15:04:15.206Z"
+  },
+  {
     "company": "Perplexity",
     "title": "Member of Technical Staff (AI Software Engineer, Agents)",
     "location": "San Francisco",
