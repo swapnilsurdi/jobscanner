@@ -10,6 +10,16 @@
     "external_id": "6017266004"
   },
   {
+    "company": "Robinhood",
+    "title": "Senior Web Engineer, Legend",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004",
+    "posted_at": "2026-06-10T19:00:55-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7847004"
+  },
+  {
     "company": "Perplexity",
     "title": "Member of Technical Staff (Engineering Lead, Developer Experience)",
     "location": "San Francisco",
@@ -40,54 +50,14 @@
     "external_id": "4ab39122-1d15-4874-8ab7-c6a241472743"
   },
   {
-    "company": "Stripe",
-    "title": "Account Executive, Enterprise Platforms, Hunter",
-    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7961609",
-    "posted_at": "2026-06-11T11:29:40-04:00",
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Code Gen",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198",
+    "posted_at": "2026-06-10T15:06:31-04:00",
     "discovered_at": "2026-06-11T16:57:01.198Z",
     "source": "greenhouse",
-    "external_id": "7961609"
-  },
-  {
-    "company": "Stripe",
-    "title": "Account Executive, Platforms, Grower",
-    "location": "San Francisco, CA",
-    "url": "https://stripe.com/jobs/search?gh_jid=7965001",
-    "posted_at": "2026-06-11T12:36:05-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7965001"
-  },
-  {
-    "company": "Nuro",
-    "title": "Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7998328",
-    "posted_at": "2026-06-10T19:04:23-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7998328"
-  },
-  {
-    "company": "Nuro",
-    "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
-    "location": "Mountain View, California (HQ)",
-    "url": "https://nuro.ai/careersitem?gh_jid=7998327",
-    "posted_at": "2026-06-10T19:02:53-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7998327"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Senior Web Engineer, Legend",
-    "location": "Menlo Park, CA; New York, NY",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004",
-    "posted_at": "2026-06-10T19:00:55-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7847004"
+    "external_id": "7993198"
   },
   {
     "company": "CoreWeave",
@@ -120,6 +90,26 @@
     "external_id": "4688589006"
   },
   {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Hunter",
+    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7961609",
+    "posted_at": "2026-06-11T11:29:40-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7961609"
+  },
+  {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms, Grower",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7965001",
+    "posted_at": "2026-06-11T12:36:05-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7965001"
+  },
+  {
     "company": "Vapi",
     "title": "Member of Technical Staff,  Core Backend",
     "location": "San Francisco",
@@ -130,13 +120,23 @@
     "external_id": "941f5562-52f1-43f0-92d4-9d05931c0955"
   },
   {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Code Gen",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198",
-    "posted_at": "2026-06-10T15:06:31-04:00",
+    "company": "Nuro",
+    "title": "Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7998328",
+    "posted_at": "2026-06-10T19:04:23-04:00",
     "discovered_at": "2026-06-11T16:57:01.198Z",
     "source": "greenhouse",
-    "external_id": "7993198"
+    "external_id": "7998328"
+  },
+  {
+    "company": "Nuro",
+    "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7998327",
+    "posted_at": "2026-06-10T19:02:53-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7998327"
   }
 ]
