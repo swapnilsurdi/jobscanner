@@ -1,5 +1,49 @@
 [
   {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Agent Capabilities)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892",
+    "posted_at": "2026-06-13T02:47:14.429+00:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "ashby",
+    "external_id": "7f2b3619-5ffa-467b-be6f-7a6b7d487892",
+    "last_seen_at": "2026-06-13T19:01:19.982Z"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8000760",
+    "posted_at": "2026-06-12T18:54:17-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8000760",
+    "last_seen_at": "2026-06-13T19:01:19.982Z"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8004114",
+    "posted_at": "2026-06-12T18:12:59-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8004114",
+    "last_seen_at": "2026-06-13T19:01:19.982Z"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8003867",
+    "posted_at": "2026-06-12T18:10:57-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8003867",
+    "last_seen_at": "2026-06-13T19:01:19.982Z"
+  },
+  {
     "company": "Baseten",
     "title": "Software Engineer - Capacity",
     "location": "San Francisco",

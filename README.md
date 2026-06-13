@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-12T22:05:15.737Z
-**Active roles:** 50 of 247 across 20 companies
+**Last scan:** 2026-06-13T19:01:19.982Z
+**Active roles:** 50 of 251 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -27,10 +27,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Airbyte
 
 - [Senior Integrations Engineer (API Sources & Automation)](https://jobs.ashbyhq.com/airbyte/cf6a373c-1649-45f0-857d-4974b1c25005) — San Francisco — posted 2026-06-03
-
-### Atlassian
-
-- [Senior Infrastructure Software Engineer | DX](https://www.atlassian.com/company/careers/details/25116) — Salt Lake City, United States / Remote — posted —
 
 ### Baseten
 
@@ -75,12 +71,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 - [Senior People Operations Specialist](https://job-boards.greenhouse.io/mercury/jobs/6017266004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-09
 - [Senior Risk Strategist - Fraud](https://job-boards.greenhouse.io/mercury/jobs/6013670004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-04
-- [Senior Design Engineer - Top of Funnel](https://job-boards.greenhouse.io/mercury/jobs/5986638004) — San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — posted 2026-06-03
-
-### Meta
-
-- [Software Engineer, Systems ML - SW/HW Co-design](https://www.metacareers.com/profile/job_details/1108948753413269) — Sunnyvale, CA +1 locations — posted —
-- [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.metacareers.com/profile/job_details/1154738753397824) — Sunnyvale, CA — posted —
 
 ### Nuro
 
@@ -89,6 +79,7 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### Perplexity
 
+- [Member of Technical Staff (Software Engineer, Agent Capabilities)](https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892) — San Francisco — posted 2026-06-13
 - [Member of Technical Staff (AI Software Engineer, Agents)](https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743) — San Francisco — posted 2026-06-12
 - [Member of Technical Staff (Software Engineer, API Platform)](https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516) — San Francisco — posted 2026-06-11
 - [Member of Technical Staff (Engineering Lead, Developer Experience)](https://jobs.ashbyhq.com/perplexity/e8bb72ad-4867-4a68-b6cf-f22a370237f2) — San Francisco — posted 2026-06-11
@@ -122,6 +113,9 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### Twilio
 
+- [Senior Strategic Account Executive](https://job-boards.greenhouse.io/twilio/jobs/8000760) — Remote - US — posted 2026-06-12
+- [Senior Strategic Account Executive](https://job-boards.greenhouse.io/twilio/jobs/8004114) — Remote - US — posted 2026-06-12
+- [Senior Strategic Account Executive](https://job-boards.greenhouse.io/twilio/jobs/8003867) — Remote - US — posted 2026-06-12
 - [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/7996779) — Remote - India — posted 2026-06-12
 
 ### Vapi

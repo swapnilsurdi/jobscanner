@@ -1,5 +1,15 @@
 [
   {
+    "company": "Replit",
+    "title": "Product Engineer, Product Platform (Frontend)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/657a90d2-23cc-4c86-b9ed-a21900efee0d",
+    "posted_at": "2026-06-12T18:12:06.950+00:00",
+    "discovered_at": "2026-06-12T18:26:49.676Z",
+    "source": "ashby",
+    "external_id": "657a90d2-23cc-4c86-b9ed-a21900efee0d"
+  },
+  {
     "company": "Nuro",
     "title": "Software Engineer, Onboard Infrastructure",
     "location": "Mountain View, California (HQ)",
@@ -18,126 +28,6 @@
     "discovered_at": "2026-06-11T16:57:01.198Z",
     "source": "greenhouse",
     "external_id": "7998327"
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer (L3)",
-    "location": "Remote - India",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
-    "posted_at": "2026-06-12T08:38:29-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "7996779"
-  },
-  {
-    "company": "Brex",
-    "title": "Senior Application Security Engineer (Remote)",
-    "location": "United States",
-    "url": "https://www.brex.com/careers/8590025002?gh_jid=8590025002",
-    "posted_at": "2026-06-12T13:23:41-04:00",
-    "discovered_at": "2026-06-12T18:26:49.676Z",
-    "source": "greenhouse",
-    "external_id": "8590025002"
-  },
-  {
-    "company": "Stripe",
-    "title": "Account Executive, Enterprise Platforms, Hunter",
-    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote",
-    "url": "https://stripe.com/jobs/search?gh_jid=7961609",
-    "posted_at": "2026-06-11T11:29:40-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7961609"
-  },
-  {
-    "company": "Stripe",
-    "title": "Account Executive, Platforms, Grower",
-    "location": "San Francisco, CA",
-    "url": "https://stripe.com/jobs/search?gh_jid=7965001",
-    "posted_at": "2026-06-11T12:36:05-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7965001"
-  },
-  {
-    "company": "Vapi",
-    "title": "Member of Technical Staff,  Core Backend",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/vapi/941f5562-52f1-43f0-92d4-9d05931c0955",
-    "posted_at": "2026-06-11T22:52:08.527+00:00",
-    "discovered_at": "2026-06-12T06:30:03.505Z",
-    "source": "ashby",
-    "external_id": "941f5562-52f1-43f0-92d4-9d05931c0955"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Senior Web Engineer, Legend",
-    "location": "Menlo Park, CA; New York, NY",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004",
-    "posted_at": "2026-06-10T19:00:55-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7847004"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Services Architect - New York",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907",
-    "posted_at": "2026-06-12T10:31:06-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "7996907"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Code Gen",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198",
-    "posted_at": "2026-06-10T15:06:31-04:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "greenhouse",
-    "external_id": "7993198"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Observability Visibility",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760",
-    "posted_at": "2026-06-12T09:30:31-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "8001760"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (Engineering Lead, Developer Experience)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/e8bb72ad-4867-4a68-b6cf-f22a370237f2",
-    "posted_at": "2026-06-11T11:02:37.541+00:00",
-    "discovered_at": "2026-06-11T16:57:01.198Z",
-    "source": "ashby",
-    "external_id": "e8bb72ad-4867-4a68-b6cf-f22a370237f2"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (Software Engineer, API Platform)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
-    "posted_at": "2026-06-11T17:42:51.007+00:00",
-    "discovered_at": "2026-06-12T06:30:03.505Z",
-    "source": "ashby",
-    "external_id": "3f800e42-7c48-4f9a-9b12-43ee23e52516"
-  },
-  {
-    "company": "Perplexity",
-    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743",
-    "posted_at": "2026-06-12T04:46:06.364+00:00",
-    "discovered_at": "2026-06-12T06:30:03.505Z",
-    "source": "ashby",
-    "external_id": "4ab39122-1d15-4874-8ab7-c6a241472743"
   },
   {
     "company": "CoreWeave",
@@ -180,6 +70,86 @@
     "external_id": "4688589006"
   },
   {
+    "company": "Vapi",
+    "title": "Member of Technical Staff,  Core Backend",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/vapi/941f5562-52f1-43f0-92d4-9d05931c0955",
+    "posted_at": "2026-06-11T22:52:08.527+00:00",
+    "discovered_at": "2026-06-12T06:30:03.505Z",
+    "source": "ashby",
+    "external_id": "941f5562-52f1-43f0-92d4-9d05931c0955"
+  },
+  {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Hunter",
+    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7961609",
+    "posted_at": "2026-06-11T11:29:40-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7961609"
+  },
+  {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms, Grower",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7965001",
+    "posted_at": "2026-06-11T12:36:05-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7965001"
+  },
+  {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Engineering Lead, Developer Experience)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/e8bb72ad-4867-4a68-b6cf-f22a370237f2",
+    "posted_at": "2026-06-11T11:02:37.541+00:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "ashby",
+    "external_id": "e8bb72ad-4867-4a68-b6cf-f22a370237f2"
+  },
+  {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, API Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
+    "posted_at": "2026-06-11T17:42:51.007+00:00",
+    "discovered_at": "2026-06-12T06:30:03.505Z",
+    "source": "ashby",
+    "external_id": "3f800e42-7c48-4f9a-9b12-43ee23e52516"
+  },
+  {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743",
+    "posted_at": "2026-06-12T04:46:06.364+00:00",
+    "discovered_at": "2026-06-12T06:30:03.505Z",
+    "source": "ashby",
+    "external_id": "4ab39122-1d15-4874-8ab7-c6a241472743"
+  },
+  {
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Agent Capabilities)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892",
+    "posted_at": "2026-06-13T02:47:14.429+00:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "ashby",
+    "external_id": "7f2b3619-5ffa-467b-be6f-7a6b7d487892"
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Application Security Engineer (Remote)",
+    "location": "United States",
+    "url": "https://www.brex.com/careers/8590025002?gh_jid=8590025002",
+    "posted_at": "2026-06-12T13:23:41-04:00",
+    "discovered_at": "2026-06-12T18:26:49.676Z",
+    "source": "greenhouse",
+    "external_id": "8590025002"
+  },
+  {
     "company": "Baseten",
     "title": "Software Engineer - Capacity",
     "location": "San Francisco",
@@ -190,13 +160,83 @@
     "external_id": "902a7ddb-c21f-4272-aaab-879680697986"
   },
   {
-    "company": "Replit",
-    "title": "Product Engineer, Product Platform (Frontend)",
-    "location": "Foster City, CA",
-    "url": "https://jobs.ashbyhq.com/replit/657a90d2-23cc-4c86-b9ed-a21900efee0d",
-    "posted_at": "2026-06-12T18:12:06.950+00:00",
-    "discovered_at": "2026-06-12T18:26:49.676Z",
-    "source": "ashby",
-    "external_id": "657a90d2-23cc-4c86-b9ed-a21900efee0d"
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8004114",
+    "posted_at": "2026-06-12T18:12:59-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8004114"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8000760",
+    "posted_at": "2026-06-12T18:54:17-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8000760"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8003867",
+    "posted_at": "2026-06-12T18:10:57-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8003867"
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3)",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
+    "posted_at": "2026-06-12T08:38:29-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "7996779"
+  },
+  {
+    "company": "Robinhood",
+    "title": "Senior Web Engineer, Legend",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7847004?t=gh_src=&gh_jid=7847004",
+    "posted_at": "2026-06-10T19:00:55-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7847004"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Services Architect - New York",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907",
+    "posted_at": "2026-06-12T10:31:06-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "7996907"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Code Gen",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198",
+    "posted_at": "2026-06-10T15:06:31-04:00",
+    "discovered_at": "2026-06-11T16:57:01.198Z",
+    "source": "greenhouse",
+    "external_id": "7993198"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Observability Visibility",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760",
+    "posted_at": "2026-06-12T09:30:31-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "8001760"
   }
 ]
