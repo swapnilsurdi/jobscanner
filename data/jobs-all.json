@@ -1,5 +1,16 @@
 [
   {
+    "company": "Exa",
+    "title": "Software Engineer, Knowledge Systems",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/exa/1f90ebb9-0f74-4a52-822a-d0ea6acdef4f",
+    "posted_at": "2026-06-14T22:39:58.050+00:00",
+    "discovered_at": "2026-06-14T22:53:08.763Z",
+    "source": "ashby",
+    "external_id": "1f90ebb9-0f74-4a52-822a-d0ea6acdef4f",
+    "last_seen_at": "2026-06-14T22:53:08.763Z"
+  },
+  {
     "company": "Perplexity",
     "title": "Member of Technical Staff (Software Engineer, Agent Capabilities)",
     "location": "San Francisco",

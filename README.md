@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-13T19:01:19.982Z
-**Active roles:** 50 of 251 across 18 companies
+**Last scan:** 2026-06-14T22:53:08.763Z
+**Active roles:** 50 of 252 across 19 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -43,7 +43,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Confluent
 
 - [Senior Software Engineer](https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772) — *Job Posting Only: USA1 — posted 2026-06-03
-- [Senior Software Engineer - Infrastructure](https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4) — CA Remote Ontario — posted 2026-06-03
 
 ### CoreWeave
 
@@ -66,6 +65,10 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 - [Platform Engineer, Security](https://jobs.ashbyhq.com/decagon/3a68de82-c874-4cd2-b639-17948748e212) — San Francisco — posted 2026-06-05
 - [Senior Platform Engineer, Security](https://jobs.ashbyhq.com/decagon/59330f7d-3489-40c1-bff1-60e95d56b112) — San Francisco — posted 2026-06-05
+
+### Exa
+
+- [Software Engineer, Knowledge Systems](https://jobs.ashbyhq.com/exa/1f90ebb9-0f74-4a52-822a-d0ea6acdef4f) — San Francisco, California — posted 2026-06-14
 
 ### Mercury
 
