@@ -1,33 +1,13 @@
 [
   {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8003867",
-    "posted_at": "2026-06-12T18:10:57-04:00",
-    "discovered_at": "2026-06-13T19:01:19.982Z",
-    "source": "greenhouse",
-    "external_id": "8003867"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8004114",
-    "posted_at": "2026-06-12T18:12:59-04:00",
-    "discovered_at": "2026-06-13T19:01:19.982Z",
-    "source": "greenhouse",
-    "external_id": "8004114"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8000760",
-    "posted_at": "2026-06-12T18:54:17-04:00",
-    "discovered_at": "2026-06-13T19:01:19.982Z",
-    "source": "greenhouse",
-    "external_id": "8000760"
+    "company": "Exa",
+    "title": "Software Engineer, Knowledge Systems",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/exa/1f90ebb9-0f74-4a52-822a-d0ea6acdef4f",
+    "posted_at": "2026-06-14T22:39:58.050+00:00",
+    "discovered_at": "2026-06-14T22:53:08.763Z",
+    "source": "ashby",
+    "external_id": "1f90ebb9-0f74-4a52-822a-d0ea6acdef4f"
   },
   {
     "company": "Twilio",
@@ -40,14 +20,24 @@
     "external_id": "7996770"
   },
   {
-    "company": "Exa",
-    "title": "Software Engineer, Knowledge Systems",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/exa/1f90ebb9-0f74-4a52-822a-d0ea6acdef4f",
-    "posted_at": "2026-06-14T22:39:58.050+00:00",
-    "discovered_at": "2026-06-14T22:53:08.763Z",
-    "source": "ashby",
-    "external_id": "1f90ebb9-0f74-4a52-822a-d0ea6acdef4f"
+    "company": "Datadog",
+    "title": "Staff Software Engineer - K9 Security",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
+    "posted_at": "2026-06-15T09:48:43-04:00",
+    "discovered_at": "2026-06-15T15:48:55.270Z",
+    "source": "greenhouse",
+    "external_id": "8007606"
+  },
+  {
+    "company": "CoreWeave",
+    "title": "Senior Data Engineer",
+    "location": "New York, NY / Sunnyvale, CA / Bellevue, WA",
+    "url": "https://coreweave.com/careers/job?4689188006&board=coreweave&gh_jid=4689188006",
+    "posted_at": "2026-06-15T12:55:13-04:00",
+    "discovered_at": "2026-06-15T17:57:20.844Z",
+    "source": "greenhouse",
+    "external_id": "4689188006"
   },
   {
     "company": "Perplexity",
@@ -78,25 +68,5 @@
     "discovered_at": "2026-06-15T15:48:55.270Z",
     "source": "ashby",
     "external_id": "be0bab19-d24e-4233-ab9e-edb6f6a16620"
-  },
-  {
-    "company": "Datadog",
-    "title": "Staff Software Engineer - K9 Security",
-    "location": "Portugal, Remote",
-    "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
-    "posted_at": "2026-06-15T09:48:43-04:00",
-    "discovered_at": "2026-06-15T15:48:55.270Z",
-    "source": "greenhouse",
-    "external_id": "8007606"
-  },
-  {
-    "company": "CoreWeave",
-    "title": "Senior Data Engineer",
-    "location": "New York, NY / Sunnyvale, CA / Bellevue, WA",
-    "url": "https://coreweave.com/careers/job?4689188006&board=coreweave&gh_jid=4689188006",
-    "posted_at": "2026-06-15T12:55:13-04:00",
-    "discovered_at": "2026-06-15T17:57:20.844Z",
-    "source": "greenhouse",
-    "external_id": "4689188006"
   }
 ]
