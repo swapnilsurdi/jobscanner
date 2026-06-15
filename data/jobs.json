@@ -1,75 +1,5 @@
 [
   {
-    "company": "Brex",
-    "title": "Senior Application Security Engineer (Remote)",
-    "location": "United States",
-    "url": "https://www.brex.com/careers/8590025002?gh_jid=8590025002",
-    "posted_at": "2026-06-12T13:23:41-04:00",
-    "discovered_at": "2026-06-12T18:26:49.676Z",
-    "source": "greenhouse",
-    "external_id": "8590025002"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8004114",
-    "posted_at": "2026-06-12T18:12:59-04:00",
-    "discovered_at": "2026-06-13T19:01:19.982Z",
-    "source": "greenhouse",
-    "external_id": "8004114"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8000760",
-    "posted_at": "2026-06-12T18:54:17-04:00",
-    "discovered_at": "2026-06-13T19:01:19.982Z",
-    "source": "greenhouse",
-    "external_id": "8000760"
-  },
-  {
-    "company": "Twilio",
-    "title": "Senior Strategic Account Executive",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8003867",
-    "posted_at": "2026-06-12T18:10:57-04:00",
-    "discovered_at": "2026-06-13T19:01:19.982Z",
-    "source": "greenhouse",
-    "external_id": "8003867"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Services Architect - New York",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907",
-    "posted_at": "2026-06-12T10:31:06-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "7996907"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Observability Visibility",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760",
-    "posted_at": "2026-06-12T09:30:31-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "8001760"
-  },
-  {
-    "company": "CoreWeave",
-    "title": "Senior Production Engineer (Reliability)",
-    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
-    "url": "https://coreweave.com/careers/job?4689092006&board=coreweave&gh_jid=4689092006",
-    "posted_at": "2026-06-12T12:33:45-04:00",
-    "discovered_at": "2026-06-12T17:09:03.751Z",
-    "source": "greenhouse",
-    "external_id": "4689092006"
-  },
-  {
     "company": "Exa",
     "title": "Software Engineer, Knowledge Systems",
     "location": "San Francisco, California",
@@ -78,6 +8,16 @@
     "discovered_at": "2026-06-14T22:53:08.763Z",
     "source": "ashby",
     "external_id": "1f90ebb9-0f74-4a52-822a-d0ea6acdef4f"
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Application Security Engineer (Remote)",
+    "location": "United States",
+    "url": "https://www.brex.com/careers/8590025002?gh_jid=8590025002",
+    "posted_at": "2026-06-12T13:23:41-04:00",
+    "discovered_at": "2026-06-12T18:26:49.676Z",
+    "source": "greenhouse",
+    "external_id": "8590025002"
   },
   {
     "company": "Perplexity",
@@ -100,6 +40,66 @@
     "external_id": "902a7ddb-c21f-4272-aaab-879680697986"
   },
   {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8004114",
+    "posted_at": "2026-06-12T18:12:59-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8004114"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8003867",
+    "posted_at": "2026-06-12T18:10:57-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8003867"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Strategic Account Executive",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8000760",
+    "posted_at": "2026-06-12T18:54:17-04:00",
+    "discovered_at": "2026-06-13T19:01:19.982Z",
+    "source": "greenhouse",
+    "external_id": "8000760"
+  },
+  {
+    "company": "Twilio",
+    "title": "Staff Software Engineer (L4)",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996770",
+    "posted_at": "2026-06-15T03:11:49-04:00",
+    "discovered_at": "2026-06-15T07:20:30.785Z",
+    "source": "greenhouse",
+    "external_id": "7996770"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Services Architect - New York",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907",
+    "posted_at": "2026-06-12T10:31:06-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "7996907"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Observability Visibility",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760",
+    "posted_at": "2026-06-12T09:30:31-04:00",
+    "discovered_at": "2026-06-12T15:04:15.206Z",
+    "source": "greenhouse",
+    "external_id": "8001760"
+  },
+  {
     "company": "Replit",
     "title": "Product Engineer, Product Platform (Frontend)",
     "location": "Foster City, CA",
@@ -108,5 +108,15 @@
     "discovered_at": "2026-06-12T18:26:49.676Z",
     "source": "ashby",
     "external_id": "657a90d2-23cc-4c86-b9ed-a21900efee0d"
+  },
+  {
+    "company": "CoreWeave",
+    "title": "Senior Production Engineer (Reliability)",
+    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
+    "url": "https://coreweave.com/careers/job?4689092006&board=coreweave&gh_jid=4689092006",
+    "posted_at": "2026-06-12T12:33:45-04:00",
+    "discovered_at": "2026-06-12T17:09:03.751Z",
+    "source": "greenhouse",
+    "external_id": "4689092006"
   }
 ]
