@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-15T15:48:55.270Z
-**Active roles:** 50 of 253 across 18 companies
+**Last scan:** 2026-06-15T17:57:20.844Z
+**Active roles:** 50 of 254 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -42,6 +42,7 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### CoreWeave
 
+- [Senior Data Engineer](https://coreweave.com/careers/job?4689188006&board=coreweave&gh_jid=4689188006) — New York, NY / Sunnyvale, CA / Bellevue, WA — posted 2026-06-15
 - [Senior Production Engineer (Reliability)](https://coreweave.com/careers/job?4689092006&board=coreweave&gh_jid=4689092006) — Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA — posted 2026-06-12
 - [Senior Software Engineer, Applied AI](https://coreweave.com/careers/job?4688538006&board=coreweave&gh_jid=4688538006) — New York, NY / Sunnyvale, CA / Bellevue, WA — posted 2026-06-11
 - [Senior Specialist Field Engineer - Compute Infrastructure](https://coreweave.com/careers/job?4688589006&board=coreweave&gh_jid=4688589006) — Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX — posted 2026-06-11
@@ -122,7 +123,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 - [Member of Technical Staff,  Core Backend](https://jobs.ashbyhq.com/vapi/941f5562-52f1-43f0-92d4-9d05931c0955) — San Francisco — posted 2026-06-11
 - [Member of Technical Staff, DevOps](https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50) — San Francisco — posted 2026-06-03
-- [Member of Technical Staff, Site Reliablity Engineer](https://jobs.ashbyhq.com/vapi/4b6abd59-ac74-40e9-8cab-74253078aaf4) — San Francisco — posted 2026-06-03
 
 ### Writer
 
