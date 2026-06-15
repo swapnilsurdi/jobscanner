@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-15T17:57:20.844Z
-**Active roles:** 50 of 254 across 18 companies
+**Last scan:** 2026-06-15T22:07:02.192Z
+**Active roles:** 50 of 255 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -80,6 +80,7 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Perplexity
 
 - [Member of Technical Staff (Software Engineer, Comet and Native Apps)](https://jobs.ashbyhq.com/perplexity/be0bab19-d24e-4233-ab9e-edb6f6a16620) — San Francisco — posted 2026-06-15
+- [Member of Technical Staff (Software Engineer, Connector Platform)](https://jobs.ashbyhq.com/perplexity/daafcaba-cc39-487a-b941-d7a407753788) — San Francisco — posted 2026-06-15
 - [Member of Technical Staff (Software Engineer, Agent Capabilities)](https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892) — San Francisco — posted 2026-06-13
 - [Member of Technical Staff (AI Software Engineer, Agents)](https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743) — San Francisco — posted 2026-06-12
 - [Member of Technical Staff (Software Engineer, API Platform)](https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516) — San Francisco — posted 2026-06-11
@@ -122,7 +123,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Vapi
 
 - [Member of Technical Staff,  Core Backend](https://jobs.ashbyhq.com/vapi/941f5562-52f1-43f0-92d4-9d05931c0955) — San Francisco — posted 2026-06-11
-- [Member of Technical Staff, DevOps](https://jobs.ashbyhq.com/vapi/2d702840-a588-4273-8b98-49ed815c0c50) — San Francisco — posted 2026-06-03
 
 ### Writer
 
