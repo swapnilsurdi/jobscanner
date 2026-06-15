@@ -2,8 +2,8 @@
 
 Auto-updated job feed from a curated company watchlist. Re-scanned every 2 hours.
 
-**Last scan:** 2026-06-14T22:53:08.763Z
-**Active roles:** 50 of 252 across 19 companies
+**Last scan:** 2026-06-15T15:48:55.270Z
+**Active roles:** 50 of 253 across 18 companies
 
 > Set up: copy `.env.example` to `.env`, install the cron entry from `scripts/cron.example`, then `./scripts/run-scan.sh` runs the scan and pushes to `main`.
 
@@ -39,10 +39,6 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 ### Cerebras
 
 - [Senior Front End Design Engineer (Microarchitecture)](https://job-boards.greenhouse.io/cerebrassystems/jobs/7763907003) — Sunnyvale, CA — posted 2026-06-04
-
-### Confluent
-
-- [Senior Software Engineer](https://jobs.ashbyhq.com/confluent/905efbaa-d814-4b16-a377-d417c7d3d772) — *Job Posting Only: USA1 — posted 2026-06-03
 
 ### CoreWeave
 
@@ -82,6 +78,7 @@ local scan  ->  data/jobs.json (current scan, canonical — career-ops ingests t
 
 ### Perplexity
 
+- [Member of Technical Staff (Software Engineer, Comet and Native Apps)](https://jobs.ashbyhq.com/perplexity/be0bab19-d24e-4233-ab9e-edb6f6a16620) — San Francisco — posted 2026-06-15
 - [Member of Technical Staff (Software Engineer, Agent Capabilities)](https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892) — San Francisco — posted 2026-06-13
 - [Member of Technical Staff (AI Software Engineer, Agents)](https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743) — San Francisco — posted 2026-06-12
 - [Member of Technical Staff (Software Engineer, API Platform)](https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516) — San Francisco — posted 2026-06-11

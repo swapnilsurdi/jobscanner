@@ -10,16 +10,6 @@
     "external_id": "1f90ebb9-0f74-4a52-822a-d0ea6acdef4f"
   },
   {
-    "company": "Brex",
-    "title": "Senior Application Security Engineer (Remote)",
-    "location": "United States",
-    "url": "https://www.brex.com/careers/8590025002?gh_jid=8590025002",
-    "posted_at": "2026-06-12T13:23:41-04:00",
-    "discovered_at": "2026-06-12T18:26:49.676Z",
-    "source": "greenhouse",
-    "external_id": "8590025002"
-  },
-  {
     "company": "Perplexity",
     "title": "Member of Technical Staff (Software Engineer, Agent Capabilities)",
     "location": "San Francisco",
@@ -30,14 +20,14 @@
     "external_id": "7f2b3619-5ffa-467b-be6f-7a6b7d487892"
   },
   {
-    "company": "Baseten",
-    "title": "Software Engineer - Capacity",
+    "company": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Comet and Native Apps)",
     "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986",
-    "posted_at": "2026-06-12T20:06:27.481+00:00",
-    "discovered_at": "2026-06-12T22:05:15.737Z",
+    "url": "https://jobs.ashbyhq.com/perplexity/be0bab19-d24e-4233-ab9e-edb6f6a16620",
+    "posted_at": "2026-06-15T10:11:20.176+00:00",
+    "discovered_at": "2026-06-15T15:48:55.270Z",
     "source": "ashby",
-    "external_id": "902a7ddb-c21f-4272-aaab-879680697986"
+    "external_id": "be0bab19-d24e-4233-ab9e-edb6f6a16620"
   },
   {
     "company": "Twilio",
@@ -80,26 +70,6 @@
     "external_id": "7996770"
   },
   {
-    "company": "Datadog",
-    "title": "Senior Services Architect - New York",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7996907/?gh_jid=7996907",
-    "posted_at": "2026-06-12T10:31:06-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "7996907"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Observability Visibility",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/8001760/?gh_jid=8001760",
-    "posted_at": "2026-06-12T09:30:31-04:00",
-    "discovered_at": "2026-06-12T15:04:15.206Z",
-    "source": "greenhouse",
-    "external_id": "8001760"
-  },
-  {
     "company": "Replit",
     "title": "Product Engineer, Product Platform (Frontend)",
     "location": "Foster City, CA",
@@ -110,6 +80,26 @@
     "external_id": "657a90d2-23cc-4c86-b9ed-a21900efee0d"
   },
   {
+    "company": "Datadog",
+    "title": "Staff Software Engineer - K9 Security",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
+    "posted_at": "2026-06-15T09:48:43-04:00",
+    "discovered_at": "2026-06-15T15:48:55.270Z",
+    "source": "greenhouse",
+    "external_id": "8007606"
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Application Security Engineer (Remote)",
+    "location": "United States",
+    "url": "https://www.brex.com/careers/8590025002?gh_jid=8590025002",
+    "posted_at": "2026-06-12T13:23:41-04:00",
+    "discovered_at": "2026-06-12T18:26:49.676Z",
+    "source": "greenhouse",
+    "external_id": "8590025002"
+  },
+  {
     "company": "CoreWeave",
     "title": "Senior Production Engineer (Reliability)",
     "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA",
@@ -118,5 +108,15 @@
     "discovered_at": "2026-06-12T17:09:03.751Z",
     "source": "greenhouse",
     "external_id": "4689092006"
+  },
+  {
+    "company": "Baseten",
+    "title": "Software Engineer - Capacity",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/baseten/902a7ddb-c21f-4272-aaab-879680697986",
+    "posted_at": "2026-06-12T20:06:27.481+00:00",
+    "discovered_at": "2026-06-12T22:05:15.737Z",
+    "source": "ashby",
+    "external_id": "902a7ddb-c21f-4272-aaab-879680697986"
   }
 ]
