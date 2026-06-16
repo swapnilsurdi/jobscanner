@@ -21,7 +21,7 @@ companies:
   - { name: Together AI,     ats: greenhouse,     slug: togetherai }
 
   # ---- Verified Ashby ----
-  - { name: OpenAI,          ats: ashby,          slug: openai }
+  - { name: OpenAI,          ats: ashby,          slug: openai,          enabled: false }  # Deprioritized 2026-05-30: 5-app/180-day limit hit. Re-enable to resume scanning.
   - { name: Sierra,          ats: ashby,          slug: sierra }
   - { name: Ramp,            ats: ashby,          slug: ramp }
   - { name: Airbyte,         ats: ashby,          slug: airbyte }
